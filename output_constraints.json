@@ -1,0 +1,652 @@
+{
+  "Main_List": {
+    "Cheese": {
+      "max": 0,
+      "min": 0
+    },
+    "Fruit & Vegetable Juice, Nectars & Fruit Drinks": {
+      "max": 0,
+      "min": 0
+    },
+    "Milk Additives": {
+      "max": 0,
+      "min": 0
+    },
+    "Prepared Soups": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Vegetables": {
+      "max": 0,
+      "min": 0
+    },
+    "Ice Cream & Frozen Yogurt": {
+      "max": 0,
+      "min": 0
+    },
+    "Canned Condensed Soup": {
+      "max": 0,
+      "min": 0
+    },
+    "Soda": {
+      "max": 0,
+      "min": 0
+    },
+    "Cereal": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Frozen Desserts": {
+      "max": 0,
+      "min": 0
+    },
+    "Baking Decorations & Dessert Toppings": {
+      "max": 0,
+      "min": 0
+    },
+    "Salad Dressing & Mayonnaise": {
+      "max": 0,
+      "min": 0
+    },
+    "Snack, Energy & Granola Bars": {
+      "max": 0,
+      "min": 0
+    },
+    "Chips, Pretzels & Snacks": {
+      "max": 0,
+      "min": 0
+    },
+    "Cakes, Cupcakes, Snack Cakes": {
+      "max": 0,
+      "min": 0
+    },
+    "Yogurt": {
+      "max": 0,
+      "min": 0
+    },
+    "Dips & Salsa": {
+      "max": 0,
+      "min": 0
+    },
+    "Cream": {
+      "max": 0,
+      "min": 0
+    },
+    "Baking Additives & Extracts": {
+      "max": 0,
+      "min": 0
+    },
+    "Prepared Pasta & Pizza Sauces": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Appetizers & Hors D'oeuvres": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Snacks": {
+      "max": 0,
+      "min": 0
+    },
+    "Lunch Snacks & Combinations": {
+      "max": 0,
+      "min": 0
+    },
+    "Canned Vegetables": {
+      "max": 0,
+      "min": 0
+    },
+    "Dough Based Products / Meals": {
+      "max": 0,
+      "min": 0
+    },
+    "Pasta Dinners": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Patties and Burgers": {
+      "max": 0,
+      "min": 0
+    },
+    "Flavored Snack Crackers": {
+      "max": 0,
+      "min": 0
+    },
+    "Snacks": {
+      "max": 0,
+      "min": 0
+    },
+    "Popcorn, Peanuts, Seeds & Related Snacks": {
+      "max": 0,
+      "min": 0
+    },
+    "Milk": {
+      "max": 1,
+      "min": 1
+    },
+    "Plant Based Milk": {
+      "max": 0,
+      "min": 0
+    },
+    "Pasta by Shape & Type": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Meats": {
+      "max": 0,
+      "min": 0
+    },
+    "Poultry, Chicken & Turkey": {
+      "max": 0,
+      "min": 0
+    },
+    "Meat/Poultry/Other Animals  Unprepared/Unprocessed": {
+      "max": 0,
+      "min": 0
+    },
+    "Cooked & Prepared": {
+      "max": 0,
+      "min": 0
+    },
+    "Ketchup, Mustard, BBQ & Cheese Sauce": {
+      "max": 0,
+      "min": 0
+    },
+    "Oriental, Mexican & Ethnic Sauces": {
+      "max": 0,
+      "min": 0
+    },
+    "Seasoning Mixes, Salts, Marinades & Tenderizers": {
+      "max": 0,
+      "min": 0
+    },
+    "Alcohol": {
+      "max": 0,
+      "min": 0
+    },
+    "Sauces/Spreads/Dips/Condiments": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Dinners & Entrees": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Deli": {
+      "max": 0,
+      "min": 0
+    },
+    "Flours & Corn Meal": {
+      "max": 0,
+      "min": 0
+    },
+    "Cake, Cookie & Cupcake Mixes": {
+      "max": 0,
+      "min": 0
+    },
+    "Grains/Flour": {
+      "max": 0,
+      "min": 0
+    },
+    "Nut & Seed Butters": {
+      "max": 0,
+      "min": 0
+    },
+    "Cookies & Biscuits": {
+      "max": 1,
+      "min": 1
+    },
+    "Candy": {
+      "max": 0,
+      "min": 0
+    },
+    "Crackers & Biscotti": {
+      "max": 0,
+      "min": 0
+    },
+    "Mexican Dinner Mixes": {
+      "max": 0,
+      "min": 0
+    },
+    "Bread & Muffin Mixes": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Drinks": {
+      "max": 0,
+      "min": 0
+    },
+    "Chocolate": {
+      "max": 0,
+      "min": 0
+    },
+    "Confectionery Products": {
+      "max": 0,
+      "min": 0
+    },
+    "Baking/Cooking Mixes/Supplies": {
+      "max": 0,
+      "min": 0
+    },
+    "Pastry Shells & Fillings": {
+      "max": 0,
+      "min": 0
+    },
+    "Wholesome Snacks": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Cooking Sauces": {
+      "max": 0,
+      "min": 0
+    },
+    "Jam, Jelly & Fruit Spreads": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Fruit & Fruit Juice Concentrates": {
+      "max": 0,
+      "min": 0
+    },
+    "Biscuits/Cookies": {
+      "max": 0,
+      "min": 0
+    },
+    "Pizza": {
+      "max": 0,
+      "min": 0
+    },
+    "Fruit  Prepared/Processed": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Bread & Dough": {
+      "max": 0,
+      "min": 0
+    },
+    "Vegetable Based Products / Meals": {
+      "max": 0,
+      "min": 0
+    },
+    "Gravy Mix": {
+      "max": 0,
+      "min": 0
+    },
+    "Vegetable & Cooking Oils": {
+      "max": 0,
+      "min": 0
+    },
+    "Pre-Packaged Fruit & Vegetables": {
+      "max": 0,
+      "min": 0
+    },
+    "Pickles, Olives, Peppers & Relishes": {
+      "max": 0,
+      "min": 0
+    },
+    "Herbs & Spices": {
+      "max": 0,
+      "min": 0
+    },
+    "Bacon, Sausages & Ribs": {
+      "max": 0,
+      "min": 0
+    },
+    "Yogurt/Yogurt Substitutes": {
+      "max": 0,
+      "min": 0
+    },
+    "Entrees, Sides & Small Meals": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Prepared Sides": {
+      "max": 0,
+      "min": 0
+    },
+    "Vegetable and Lentil Mixes": {
+      "max": 0,
+      "min": 0
+    },
+    "Crusts & Dough": {
+      "max": 0,
+      "min": 0
+    },
+    "Pizza Mixes & Other Dry Dinners": {
+      "max": 0,
+      "min": 0
+    },
+    "Syrups & Molasses": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Soups": {
+      "max": 0,
+      "min": 0
+    },
+    "Croissants, Sweet Rolls, Muffins & Other Pastries": {
+      "max": 0,
+      "min": 0
+    },
+    "Breads & Buns": {
+      "max": 0,
+      "min": 0
+    },
+    "Rice": {
+      "max": 0,
+      "min": 0
+    },
+    "Chili & Stew": {
+      "max": 0,
+      "min": 0
+    },
+    "Tomatoes": {
+      "max": 0,
+      "min": 0
+    },
+    "Vegetables  Prepared/Processed": {
+      "max": 0,
+      "min": 0
+    },
+    "Canned Fruit": {
+      "max": 0,
+      "min": 0
+    },
+    "Canned & Bottled Beans": {
+      "max": 0,
+      "min": 0
+    },
+    "Sausages, Hotdogs & Brats": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Fish & Seafood": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Frozen Meats": {
+      "max": 0,
+      "min": 0
+    },
+    "Herbs/Spices/Extracts": {
+      "max": 0,
+      "min": 0
+    },
+    "Meat/Poultry/Other Animals Sausages  Prepared/Processed": {
+      "max": 0,
+      "min": 0
+    },
+    "Pasta/Noodles": {
+      "max": 0,
+      "min": 0
+    },
+    "Pepperoni, Salami & Cold Cuts": {
+      "max": 0,
+      "min": 0
+    },
+    "Canned Soup": {
+      "max": 0,
+      "min": 0
+    },
+    "Non Alcoholic Beverages  Ready to Drink": {
+      "max": 0,
+      "min": 0
+    },
+    "Water": {
+      "max": 0,
+      "min": 0
+    },
+    "Chewing Gum & Mints": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Breakfast Sandwiches, Biscuits & Meals": {
+      "max": 0,
+      "min": 0
+    },
+    "Breakfast Sandwiches, Biscuits & Meals": {
+      "max": 0,
+      "min": 0
+    },
+    "Sweet Bakery Products": {
+      "max": 0,
+      "min": 0
+    },
+    "Prepared Wraps and Burittos": {
+      "max": 0,
+      "min": 0
+    },
+    "Flavored Rice Dishes": {
+      "max": 0,
+      "min": 0
+    },
+    "Liquid Water Enhancer": {
+      "max": 0,
+      "min": 0
+    },
+    "Iced & Bottle Tea": {
+      "max": 0,
+      "min": 0
+    },
+    "Energy, Protein & Muscle Recovery Drinks": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Pancakes, Waffles, French Toast & Crepes": {
+      "max": 0,
+      "min": 0
+    },
+    "Sport Drinks": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Sausages, Hotdogs & Brats": {
+      "max": 0,
+      "min": 0
+    },
+    "Frozen Poultry, Chicken & Turkey": {
+      "max": 0,
+      "min": 0
+    },
+    "Bread": {
+      "max": 1,
+      "min": 1
+    },
+    "Frozen Bacon, Sausages & Ribs": {
+      "max": 0,
+      "min": 0
+    },
+    "Meat/Poultry/Other Animals  Prepared/Processed": {
+      "max": 0,
+      "min": 0
+    },
+    "Tea Bags": {
+      "max": 0,
+      "min": 0
+    },
+    "Coffee/Tea/Substitutes": {
+      "max": 0,
+      "min": 0
+    },
+    "Savoury Bakery Products": {
+      "max": 0,
+      "min": 0
+    },
+    "Granulated, Brown & Powdered Sugar": {
+      "max": 0,
+      "min": 0
+    },
+    "Vegetarian Frozen Meats": {
+      "max": 0,
+      "min": 0
+    },
+    "Processed Cereal Products": {
+      "max": 0,
+      "min": 0
+    },
+    "Powdered Drinks": {
+      "max": 0,
+      "min": 0
+    },
+    "Canned Seafood": {
+      "max": 0,
+      "min": 0
+    },
+    "Prepared/Preserved Foods Variety Packs": {
+      "max": 0,
+      "min": 0
+    },
+    "Canned Tuna": {
+      "max": 0,
+      "min": 0
+    },
+    "Puddings & Custards": {
+      "max": 0,
+      "min": 0
+    },
+    "Plant Based Water": {
+      "max": 0,
+      "min": 0
+    },
+    "Breakfast Drinks": {
+      "max": 0,
+      "min": 0
+    },
+    "Gelatin, Gels, Pectins & Desserts": {
+      "max": 0,
+      "min": 0
+    },
+    "Canned Meat": {
+      "max": 1,
+      "min": 1
+    },
+    "All Noodles": {
+      "max": 0,
+      "min": 0
+    },
+    "Grain Based Products / Meals": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Condiments": {
+      "max": 0,
+      "min": 0
+    },
+    "Stuffing": {
+      "max": 0,
+      "min": 0
+    },
+    "Fish & Seafood": {
+      "max": 0,
+      "min": 0
+    },
+    "Eggs & Egg Substitutes": {
+      "max": 0,
+      "min": 0
+    },
+    "Dairy/Egg Based Products / Meals": {
+      "max": 0,
+      "min": 0
+    },
+    "Coffee": {
+      "max": 0,
+      "min": 0
+    },
+    "Fish  Unprepared/Unprocessed": {
+      "max": 0,
+      "min": 0
+    },
+    "Specialty Formula Supplements": {
+      "max": 0,
+      "min": 0
+    },
+    "French Fries, Potatoes & Onion Rings": {
+      "max": 0,
+      "min": 0
+    },
+    "Butter & Spread": {
+      "max": 0,
+      "min": 0
+    },
+    "Other Grains & Seeds": {
+      "max": 0,
+      "min": 0
+    },
+    "Honey": {
+      "max": 0,
+      "min": 0
+    },
+    "0": {
+      "max": 0,
+      "min": 0
+    },
+    "Baby/Infant  Foods/Beverages": {
+      "max": 0,
+      "min": 0
+    },
+    "Deli Salads": {
+      "max": 0,
+      "min": 0
+    },
+    "Vitamins": {
+      "max": 0,
+      "min": 0
+    },
+    "Baking": {
+      "max": 0,
+      "min": 0
+    },
+    "Weight Control": {
+      "max": 0,
+      "min": 0
+    },
+    "Meal Replacement Supplements": {
+      "max": 0,
+      "min": 0
+    },
+    "Desserts/Dessert Sauces/Toppings": {
+      "max": 0,
+      "min": 0
+    },
+    "Health Care": {
+      "max": 0,
+      "min": 0
+    },
+    "Butter/Butter Substitutes": {
+      "max": 0,
+      "min": 0
+    },
+    "Bread/Bakery Products Variety Packs": {
+      "max": 0,
+      "min": 0
+    },
+    "Oils Edible": {
+      "max": 0,
+      "min": 0
+    },
+    "Prepared Subs & Sandwiches": {
+      "max": 0,
+      "min": 0
+    },
+    "Sweet Spreads": {
+      "max": 0,
+      "min": 0
+    },
+    "Nuts/Seeds - Prepared/Processed (Shelf Stable)": {
+      "max": 0,
+      "min": 0
+    },
+    "Cereals Products - Ready to Eat (Shelf Stable)": {
+      "max": 0,
+      "min": 0
+    },
+    "Pancakes, Waffles, French Toast & Crepes": {
+      "max": 0,
+      "min": 0
+    },
+    "Price": {
+      "max": 60,
+      "min": 0
+    }
+  }
+}
