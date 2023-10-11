@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script src="https://cdn.tailwindcss.com"></script>  <!-- Import tailwind from online -->
+    <script src="../static/js/stringUtils.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css">
+    <!-- <link for css> -->
+
+    <style>
+        .loader {
+            border: 16px solid #f3f3f3; /* Light grey */
+            border-top: 16px solid #3498db; /* Blue */
+            border-radius: 50%;
+            width: 120px;
+            height: 120px;
+            display: none;
+            animation: spin 2s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+
+    <script>
+        let items = "{{ data }}";
+        items = '"' + escapeHTML(items) + '"';
+        items = items.replaceAll("'", "");
+        items = items.replaceAll('"', "");
+        items = items.replaceAll('[', "");
+        items = items.replaceAll(']', "");
+        items = items.split('$#^, ');  
+        items.sort();  
+        items.shift();   
+
+        var filteredItems = items;  
+
+        var choices = []
+
+        function renderChoices() {
+            document.getElementById("list").innerHTML = "";
+            document.getElementById("chosenItems").value = "";
+
+            for (let i=0; i<choices.length; i++) {
+                document.getElementById("list").innerHTML += '<div class="bg-white p-2 rounded-lg shadow-md mb-2 flex justify-between items-center">' + '<span>' + choices[i] + '</span>' + `<i class="fa-solid fa-trash-can cursor-pointer text-red-500" onclick = "deleteItem(${i} , event)"></i>`+ '</div>'
+                document.getElementById("chosenItems").value += choices[i] + "#^$";
+            }
+        }
+
+        function deleteItem(i, event){
+            event.preventDefault()
+            choices.splice(i, 1)
+            renderChoices()
+        }
+
+        function showLoadingIndicator(){
+            document.getElementById('loader').style.display = 'block';
+            document.getElementById('recommend').style.display = 'none';
+        }
+
+        function addItem(event) {
+            event.preventDefault()
+            let selectedItem = document.getElementById("search").value;
+            if (selectedItem) {
+                choices.push(selectedItem)
+                document.getElementById("search").value = ""; // Reset the input field
+                renderChoices()
+            }
+        }
+
+        window.onload = (event) => {
+        }
+    
+    </script>
+    <title>Food App</title>
+</head>
+
+<body class="bg-gray-100">
+    <form action = "{{ url_for('recommendations') }}" method = "POST">
+        <div class="container mx-auto px-4 py-8">
+            <h1 class="text-4xl font-bold mb-8 text-blue-600">Food App</h1>
+            <div class="mb-8">
+                <h2 class="text-2xl font-semibold mb-4">Add food items to list</h2>
+                <div class="flex items-center space-x-4 mb-4">
+                    <input type="text" id="search" placeholder="Type in search here" class="border border-gray-300 p-2 rounded-md" style="width: 300px">
+                    <button class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-md" name="add" id="add" onclick="addItem(event)">Add</button>
+                </div>
+            </div>
+            <div class="flex space-x-20">
+                <div id="list" class="bg-white shadow-lg rounded-md p-4 mt-4 max-w-md w-full h-72 overflow-auto">
+                    <h3 class="text-2xl font-semibold mb-4">Selected Items</h3>
+                    <div id="items" class="space-y-2">
+                        <!-- Items will be added here -->
+                    </div>
+                </div>
+
+                <input id="chosenItems" name="chosenItems" type="text" value="" style="display:none;">
+                <div class="mt-4 w-full">
+                    <h3 class="text-2xl font-semibold mb-4">Select Dietary Constraints</h3>
+
+                    <h4 class="text-1xl font-semibold mb-4">Get Less Of...</h4> 
+                    <div class="space-y-2"> 
+                        <div class="flex items-center">
+                            <input name="checkboxSodium" id="checkboxSodium" type="checkbox" value="Sodium/Salt" class="mr-2">
+                            <label for="checkboxSodium">Sodium/Salt</label>
+                        </div>
+                        <div class="flex items-center">
+                            <input name="checkboxSatFat" id="checkboxSatFat" type="checkbox" value="Saturated Fat" class="mr-2">
+                            <label for="checkboxSatFat">Saturated Fat</label>
+                        </div>
+                        <div class="flex items-center">
+                            <input name="checkboxSugars" id="checkboxSugars" type="checkbox" value="Added Sugars" class="mr-2">
+                            <label for="checkboxSugars">Added Sugars</label>
+                        </div>
+                        <div class="flex items-center">
+                            <input name="checkboxAnimalMeats" id="checkboxAnimalMeats" type="checkbox" value="Animal Meats" class="mr-2">
+                            <label for="checkboxAnimalMeats">Animal Meats</label>
+                        </div>
+                    </div>
+                    <h4 class="text-1xl font-semibold mt-6 mb-4">Get More Of...</h4> 
+                    <div class="space-y-2">  
+                        <div class="flex items-center">
+                            <input name="checkboxFruits" id="checkboxFruits" type="checkbox" value="Fruits" class="mr-2">
+                            <label for="checkboxFruits">Fruits</label>
+                        </div>
+                        <div class="flex items-center">
+                            <input name="checkboxVegetables" id="checkboxVegetables" type="checkbox" value="Vegetables" class="mr-2">
+                            <label for="checkboxVegetables">Vegetables</label>
+                        </div>
+                        <div class="flex items-center">
+                            <input name="checkboxFish" id="checkboxFish" type="checkbox" value="Fish" class="mr-2">
+                            <label for="checkboxFish">Fish</label>
+                        </div>
+                        <div class="flex items-center">
+                            <input name="checkboxWholeGrains" id="checkboxWholeGrains" type="checkbox" value="Whole Grains" class="mr-2">
+                            <label for="checkboxWholeGrains">Whole Grains</label>
+                        </div>
+                        <div class="flex items-center">
+                            <input name="checkboxPlantProteins" id="checkboxPlantProteins" type="checkbox" value="Plant Proteins" class="mr-2">
+                            <label for="checkboxPlantProteins">Plant Proteins</label>
+                        </div>
+                    </div>
+                    
+
+
+                </div>
+            </div>
+
+            <input class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 mt-4 rounded-md" name="recommend" id="recommend" type="submit" value = "Show me my recommendations" onclick="showLoadingIndicator()"></input>   
+            <div id="loader" class="loader"></div>
+        </div>
+    </form>
+    <script src="templates/main.js"></script>
+</body>
+</html>

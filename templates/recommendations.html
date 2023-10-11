@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Recommended Food Products</title>
+    <style>
+        body {
+            padding: 20px;
+        }
+        .order-row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .product-card {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 5px;
+            flex: 1 0 200px; /* Specify the width of the cards */
+            box-sizing: border-box;
+            text-align: center;
+            height: 350px; /* Specify the height of the cards */
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .product-card img {
+            max-width: 100%; /* restricts the image width to the width of the parent box */
+            height: auto; /* keep aspect ratio */
+            margin: 10px auto;
+            object-fit: cover; /* Make sure image fits properly */
+        }
+        .product-card p {
+            margin: 0;
+            overflow: hidden; /* hide overflow text */
+            text-overflow: ellipsis; /* add ... for overflow */
+        }
+        .product-card .price {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Recommended Food Products</h1>
+
+    {% for order, products in data.items() %}
+        <div class="order-row">
+            {% for product in products %}
+                <div class="product-card">
+                    <p><b>{{ product.Description }} - ({{ product.gtin_upc }})</b></p>
+                    <img src="{{ product['image_url'] }}" alt="{{ product['ProductName'] }}">
+                    <p class="price">${{ product.Price }}</p>
+                    <p>{{ product.Size }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    {% endfor %}
+    
+</body> 
+</html>
