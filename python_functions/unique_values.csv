@@ -1,0 +1,1919 @@
+lower_short_description,food_code
+milk,11000000
+buttermilk,11115300
+goat's milk14202010,11116000
+kefir,11115400
+chocolate milk,11511100
+hot chocolate / cocoa,11514110
+strawberry milk,11519050
+non-dairy milk,11300100
+soy milk,11320000
+almond milk,11350000
+rice milk,11360000
+coconut milk,11370000
+coconut cream,42402010
+yogurt,11400000
+yogurt parfait,11446000
+chipotle dip,11440010
+onion dip,11440030
+ranch dip,11440040
+spinach dip,11440050
+tzatziki dip,11440060
+vegetable dip,11440070
+dip,12350010
+white sauce or gravy,13411000
+artichoke dip,14620110
+spinach and artichoke dip,14620115
+seafood dip,14620130
+cheese dip with chili pepper,14620150
+cheese dip,14620200
+cheese fondue,14630100
+welsh rarebit,14630300
+cheese sauce,14650100
+alfredo sauce,14650160
+alfredo sauce with added vegetables,14650165
+alfredo sauce with meat,14650170
+alfredo sauce with meat and added vegetables,14650175
+alfredo sauce with poultry,14650180
+alfredo sauce with poultry and added vegetables,14650185
+alfredo sauce with seafood,14650190
+alfredo sauce with seafood and added vegetables,14650195
+gravy,28500000
+mole sauce,28522000
+bean dip,41205050
+layer dip,41205055
+hummus,41205070
+black bean sauce,41205100
+peanut sauce,42204050
+guacamole,63409010
+guacamole with tomatoes,63409015
+enchilada sauce,74402260
+salsa verde or salsa,74402350
+eggplant dip,75412030
+garlic sauce,81301000
+lemon-butter sauce,81301020
+hollandaise sauce,81302010
+pesto sauce,81302070
+sauce,81308200
+curry sauce,81312100
+frozen yogurt,11459990
+frozen yogurt sandwich,11461200
+frozen yogurt bar,11461210
+frozen yogurt cone,11461250
+ice cream,13110000
+gelato,13110460
+ice cream bar,13120050
+ice cream candy bar,13120110
+ice cream sandwich,13120500
+ice cream cookie sandwich,13120550
+ice cream cone,13120730
+ice cream sundae,13121000
+banana split,13121120
+light ice cream,13130100
+soft serve,13130700
+light ice cream sandwich,13135000
+light ice cream bar,13140000
+creamsicle,13140700
+fudgesicle,13140900
+light ice cream cone,13142100
+sherbet,13150000
+baby toddler food,11480000
+baby toddler fruit,67100250
+baby toddler fruit and vegetables,67100350
+baby toddler fruit and meat,67100480
+baby toddler juice,67250150
+baby toddler vegetables,76407050
+baby toddler vegetables and meat,76407080
+baby toddler yogurt,11480010
+eggnog,11531000
+milk shake,11541110
+milk shake with malt,11541400
+chocolate milk drink,11560000
+ice cream soda,13120800
+licuado or batido,11551050
+fruit smoothie,11553100
+fruit smoothie juice drink,11553130
+fruit and vegetable smoothie,78101100
+vegetable smoothie,78101130
+corn beverage,92306100
+horchata beverage,92610020
+oatmeal beverage with water,92611010
+oatmeal beverage with milk,92611100
+cornmeal beverage,92613010
+cornmeal beverage with chocolate milk,92613510
+infant formula,11710000
+toddler formula,11710481
+whey,11825000
+cocoa powder,11830150
+chocolate beverage powder,11830160
+strawberry beverage powder,11830400
+wheat germ,57412000
+wheat bran,57601100
+oats,57602100
+cereal,57602500
+basil,75109400
+chives,75109500
+cilantro,75109550
+parsley,75119000
+seaweed,75232000
+yeast,75236000
+vegetable mixture,75365000
+bacon,89901000
+ham,89901002
+beef,89901004
+chicken,89901006
+cream sauce,89901010
+soy based sauce,89901040
+tomato sauce,89901050
+coffee,92191100
+coffee substitute,92291300
+tea,92307000
+fruit flavored drink,92900100
+sports drink,92900300
+cheese as ingredient in sandwiches,99991400
+cheese and queso as ingredient,99991410
+beef as ingredient in recipes,99992100
+breakfast meat as ingredient in omelet,99992230
+chicken as ingredient in recipes,99992405
+fish fillet,99992610
+breading or batter as ingredient in food,99995000
+wheat bread as ingredient in sandwiches,99995130
+wheat bun as ingredient in sandwiches,99995135
+spinach,99997210
+broccoli,99997220
+carrots,99997310
+tomatoes,99997410
+onions,99997510
+mushrooms,99997515
+green pepper,99997520
+red pepper,99997525
+cabbage,99997530
+cauliflower,99997535
+eggplant,99997540
+green beans,99997545
+summer squash,99997550
+dark green vegetables as ingredient in omelet,99997800
+tomatoes as ingredient in omelet,99997802
+other vegetables as ingredient in omelet,99997804
+vegetables as ingredient in curry,99997810
+sauce as ingredient in hamburgers,99998130
+industrial oil as ingredient in food,99998210
+cream,12100100
+coffee creamer,12200100
+whipped topping,12220200
+sour cream,12310100
+cream cheese,14301010
+cream cheese spread,14410380
+cheese spread,14420200
+pudding,13200110
+custard,13210300
+flan,13210350
+creme brulee,13210370
+firni,13210450
+banana pudding,13241000
+mousse,13250000
+dulce de leche,13252200
+barfi or burfi,13252500
+trifle,13252590
+meringues,32401000
+lime souffle,63403150
+haupia,91560100
+tiramisu,13252600
+cake or cupcake,53100100
+cake,53101100
+cheesecake,53104500
+snack cake,53108200
+ice cream cake,53112100
+pie,53300100
+tart,53300200
+dessert pizza,53344300
+pie shell,53391000
+cobbler,53410100
+crisp,53415100
+strudel,53440000
+baklava,53441110
+basbousa,53441210
+turnover,53450000
+empanada,53453150
+cheese,14010000
+queso anejo,14131000
+queso asadero,14131500
+queso fresco,14133000
+queso cotija,14134000
+imitation cheese,14502000
+cheese ball,14610520
+mozzarella sticks,14660200
+cottage cheese,14201200
+puerto rican white cheese,14203510
+topping from cheese pizza,14620300
+topping from vegetable pizza,14620310
+topping from meat pizza,14620320
+topping from meat and vegetable pizza,14620330
+pizza,58106200
+pizza with cheese and extra vegetables,58106345
+pizza with pepperoni,58106512
+pizza with meat other than pepperoni,58106602
+pizza with extra meat,58106650
+pizza with meat and vegetables,58106700
+pizza with extra meat and extra vegetables,58106736
+pizza with meat and fruit,58106750
+pizza with beans and vegetables,58106820
+white pizza,58107205
+calzone,58108000
+pizza rolls,58108050
+cheese souffle,14630200
+egg,31101010
+duck egg,31201000
+goose egg,31202000
+quail egg,31203000
+egg salad,32103000
+huevos rancheros,32105180
+egg casserole with bread,32105190
+egg omelet or scrambled egg,32129990
+egg white omelet,32400055
+egg white,32400100
+egg substitute,33001010
+cheese sandwich,14640000
+grilled cheese sandwich,14640100
+mozzarella cheese,14670000
+tomato aspic,74501010
+tomato and cucumber salad made with tomato,74506000
+broccoli salad with cauliflower,75140500
+broccoli slaw salad,75140510
+coleslaw,75140990
+cabbage salad,75141040
+cucumber and vegetable namasu,75142000
+cucumber salad,75142500
+cucumber salad made with cucumber and vinegar,75142600
+bean salad,75302080
+pea salad,75416500
+pea salad with cheese,75416600
+cheddar cheese soup,14710100
+oxtail soup,28310150
+beef broth,28310170
+meatball soup,28310230
+pho,28310330
+pepperpot soup,28311010
+menudo soup,28311020
+beef vegetable soup with potato,28315050
+beef vegetable soup,28315140
+meat and corn hominy soup,28315150
+italian wedding soup,28315160
+pork vegetable soup with potato,28320160
+pork with vegetable excluding carrots,28320300
+chicken or turkey broth,28340110
+chicken or turkey gumbo soup,28340310
+chicken or turkey noodle soup,28340510
+sweet and sour soup,28340550
+chicken or turkey soup with vegetables,28340580
+chicken or turkey corn soup with noodles,28340590
+chicken or turkey vegetable soup,28340600
+chicken or turkey vegetable soup with rice,28340630
+chicken or turkey vegetable soup with noodles,28340640
+chicken or turkey and corn hominy soup,28340680
+hot and sour soup,28340750
+chicken or turkey soup with vegetables and fruit,28340800
+chicken or turkey soup,28345110
+fish chowder,28350050
+clam chowder,28350210
+fish and vegetable soup,28351110
+codfish,28351160
+lobster bisque,28355250
+shrimp soup,28355410
+seafood soup with potatoes and vegetables including carrots,28355450
+seafood soup with potatoes,28355460
+seafood soup with vegetables including carrots,28355470
+seafood soup with vegetables excluding carrots,28355480
+meat broth,28360100
+egg drop soup,32300100
+bean soup,41601010
+bean with bacon or ham soup,41601020
+black bean soup,41601030
+soybean soup,41601070
+bean and ham soup,41601160
+liquid from stewed kidney beans,41601200
+garbanzo bean or chickpea soup,41602020
+split pea and ham soup,41602030
+split pea soup,41602050
+lentil soup,41603010
+soupy rice with chicken,58155410
+soupy rice mixture with chicken and potatoes,58155510
+soup,58400000
+noodle soup,58400100
+rice soup,58400200
+barley soup,58401010
+beef noodle soup,58402010
+chicken or turkey rice soup,58404010
+matzo ball soup,58404500
+chicken or turkey soup with dumplings and potatoes,58404510
+chicken or turkey soup with dumplings,58404520
+instant soup,58407010
+wonton soup,58408010
+noodle soup with vegetables,58408500
+sopa seca de fideo,58421010
+sopa de fideo aguada,58421020
+sopa seca de arroz,58421060
+sopa de tortilla,58421080
+potato soup,71801000
+potato and cheese soup,71801100
+potato chowder,71803010
+plantain soup,71851010
+broccoli soup,72302000
+broccoli cheese soup,72302100
+spinach soup,72307000
+dark-green leafy vegetable soup with meat,72308000
+dark-green leafy vegetable soup,72308500
+squash,73502000
+tomato soup,74601000
+tomato beef soup,74603010
+tomato noodle soup,74604500
+tomato vegetable soup,74606010
+tomato vegetable soup with noodles,74606020
+asparagus soup,75601000
+borscht,75601100
+cabbage soup,75601200
+cabbage with meat soup,75601210
+kimchi soup,75601250
+celery soup,75603020
+gazpacho,75604600
+mushroom soup,75607010
+onion soup,75608100
+pea soup,75609010
+vegetable soup,75611010
+seaweed soup,75647000
+vegetable noodle soup,75649150
+minestrone soup,75650990
+vegetable beef soup,75651020
+vegetable rice soup,75651070
+vegetable beef soup with noodles or pasta,75652040
+vegetable beef soup with rice,75652050
+vegetable broth,75657000
+meat,20000000
+steak,21001000
+veal,23201010
+mock chicken legs,23220020
+barbecue beef,27116210
+baby toddler meat,20000300
+baby toddler beef,21701010
+baby toddler ham,22810010
+baby toddler meat stick,22820000
+baby toddler chicken,24701010
+baby toddler turkey,24703010
+toddler meal,76700000
+beef jerky,21602100
+pork jerky,22002800
+pork,22431000
+canadian bacon,22501010
+venison/deer jerky,23321900
+venison sausage,23322100
+bologna,25220410
+head cheese,25220910
+mortadella,25221210
+pastrami,25221215
+pepperoni,25221250
+salami,25221500
+luncheon meat,25230110
+ham luncheon meat,25230420
+spam,25230530
+liverwurst,25230560
+turkey,25230780
+turkey ham,25230800
+meat spread or potted meat,25240000
+chicken salad spread,25240110
+ham salad spread,25240220
+pork bacon,22600200
+bacon or side pork,22601040
+turkey bacon,24208500
+bacon bits,41810250
+fried pork chunks,22402510
+ribs,22700000
+pork skin rinds,22709010
+barbecue pork,27120040
+barbecue meat,27100100
+beef with tomato-based sauce,27111000
+beef goulash,27111100
+beef burgundy,27111200
+beef stew,27111300
+chili con carne,27111400
+chili con carne with beans,27111405
+chili con carne without beans,27111420
+chili con carne with beans and cheese,27111440
+sloppy joe,27111500
+beef with gravy,27112000
+salisbury steak with gravy,27112010
+beef with cream or white sauce,27113000
+beef stroganoff,27113100
+creamed chipped or dried beef,27113200
+swedish meatballs with cream or white sauce,27113300
+beef with mushroom sauce,27114000
+beef curry,27116100
+beef curry with rice,27116110
+stewed seasoned ground beef,27116350
+steak tartare,27116400
+meatballs,27118110
+stewed dried beef,27118130
+stuffed pot roast,27118140
+ham or pork with gravy,27120020
+ham stroganoff,27120080
+ham or pork with mushroom sauce,27120090
+ham or pork with tomato-based sauce,27120100
+sausage with tomato-based sauce,27120110
+sausage gravy,27120120
+pork stew,27120130
+chili hot dog,27120210
+frankfurters or hot dogs with tomato-based sauce,27120250
+pork with chili and tomatoes,27121000
+stewed pork,27121010
+lamb or mutton with gravy,27130010
+stewed goat,27133010
+veal with gravy,27135010
+veal scallopini,27135020
+veal with cream sauce,27135030
+veal with butter sauce,27135040
+veal marsala,27135050
+veal parmigiana,27135110
+veal cordon bleu,27135150
+venison or deer with tomato-based sauce,27136050
+venison or deer with gravy,27136080
+chili con carne with venison/deer and beans,27136100
+meat loaf,27161010
+meat with tomato-based sauce,27162010
+stewed,27162500
+meat with gravy,27163010
+beef and potatoes,27211000
+beef stew with potatoes,27211110
+beef and potatoes with cream sauce,27211190
+corned beef hash,27211400
+beef and potatoes with cheese sauce,27211500
+beef and noodles,27212000
+beef and macaroni with cheese sauce,27212050
+beef and noodles with tomato-based sauce,27212100
+chili con carne with beans and macaroni,27212120
+beef goulash with noodles,27212150
+beef and noodles with gravy,27212200
+beef and noodles with cream or white sauce,27212300
+beef stroganoff with noodles,27212350
+beef and noodles with mushroom sauce,27212400
+beef and rice,27213000
+beef and rice with tomato-based sauce,27213100
+porcupine balls with tomato-based sauce,27213120
+beef and rice with gravy,27213200
+beef and rice with cream sauce,27213300
+beef and rice with mushroom sauce,27213400
+porcupine balls with mushroom sauce,27213420
+beef and rice with cheese sauce,27213600
+meat loaf made with beef,27214100
+beef wellington,27214300
+corned beef patty,27214500
+stewed corned beef,27218310
+meat loaf made with ham,27220010
+ham and noodles with cream or white sauce,27220020
+ham and rice with mushroom sauce,27220030
+ham or pork with stuffing,27220050
+ham croquette,27220080
+pork and rice with tomato-based sauce,27220110
+sausage and rice with tomato-based sauce,27220120
+sausage and rice with mushroom sauce,27220150
+sausage and rice with cheese sauce,27220170
+sausage and noodles with cream or white sauce,27220190
+ham and noodles,27220210
+ham or pork and rice,27220310
+ham or pork and potatoes with gravy,27220510
+ham or pork and potatoes with cheese sauce,27220520
+stewed pig's feet,27221100
+stuffed pork roast,27221110
+lamb or mutton loaf,27230010
+lamb or mutton and potatoes with gravy,27231000
+lamb or mutton and potatoes with tomato-based sauce,27232000
+lamb or mutton and noodles with gravy,27233000
+meat loaf made with venison/deer,27235000
+veal and noodles with cream or white sauce,27235750
+venison or deer and noodles with cream or white sauce,27236000
+meat loaf made with beef and pork,27260080
+hash,27260110
+vienna sausages stewed with potatoes,27260500
+corned beef,27311210
+beef stew with potatoes and vegetables including carrots,27311310
+beef stew with potatoes and vegetables excluding carrots,27311320
+shepherd's pie,27311510
+stuffed cabbage rolls with beef and rice,27315250
+stuffed grape leaves with beef and rice,27315270
+pot pie,27317010
+stuffed green pepper,27319010
+ham or pork,27320025
+sausage,27320080
+lamb or mutton,27330050
+stuffed grape leaves with lamb and rice,27330170
+lamb or mutton stew with potatoes and vegetables including carrots,27330210
+veal fricassee,27331150
+stewed rabbit,27335500
+venison or deer stew with potatoes and vegetables including carrots,27336100
+venison or deer,27336200
+stew,27360000
+stewed variety meats,27361010
+stewed tripe,27362000
+beef and vegetables including carrots,27410210
+beef and vegetables excluding carrots,27410220
+beef shish kabob with vegetables,27410250
+beef with vegetables including carrots,27411100
+swiss steak,27411120
+beef rolls,27411150
+beef with vegetables excluding carrots,27411200
+beef and vegetables,27416100
+pepper steak,27416150
+beef salad,27416250
+seasoned shredded soup meat,27418110
+beef stew with vegetables excluding potatoes,27418210
+corned beef with tomato sauce and onion,27418310
+beef steak with onions,27418410
+cabbage with ham hocks,27420010
+ham or pork salad,27420020
+frankfurters or hot dogs and sauerkraut,27420040
+pork and vegetables including carrots,27420060
+pork hash,27420200
+ham and vegetables including carrots broccoli,27420250
+ham and vegetables excluding carrots,27420270
+pork and vegetables excluding carrots,27420350
+pork and vegetables excluding  carrots,27420410
+sausage and vegetables including  carrots,27420450
+sausage and vegetables,27420460
+sausage and peppers,27420470
+pork shish kabob with vegetables,27420520
+stuffed christophine,27421010
+pork chop stewed with vegetables,27422010
+lamb or mutton stew with vegetables including carrots,27430400
+veal with vegetables including carrots,27430580
+veal with vegetables excluding carrots,27430590
+lamb shish kabob with vegetables,27430610
+julienne salad,27460490
+antipasto with ham,27460510
+liver,27460750
+stewed chitterlings,27462000
+frozen dinner,28101000
+beef dinner,28110000
+beef with vegetable,28110150
+salisbury steak dinner,28110300
+beef with spaetzle or rice,28113140
+meat loaf dinner,28160300
+meat loaf with potatoes,28160310
+kibby,58117310
+hayacas,58117510
+pancakes and sausage,58310310
+ripe plantain meat pie,77205610
+cassava pasteles,77230210
+puerto rican pasteles,77272010
+stuffed cabbage,77316010
+eggplant and meat casserole,77316600
+fat back,22621100
+table fat,81100000
+butter,81100500
+butter-oil blend,81104490
+animal fat or drippings,81201000
+lard,81202000
+ghee,81204000
+honey butter,81322000
+lamb,23000100
+goat,23150100
+rabbit,23310000
+venison,23321000
+moose,23323100
+bear,23323500
+caribou,23324100
+bison,23326100
+groundhog,23331100
+opossum,23332100
+squirrel,23333100
+beaver,23334100
+raccoon,23335100
+armadillo,23340100
+wild pig,23345100
+ostrich,23350100
+turkey light or dark meat,24201420
+duck,24300110
+goose,24311010
+cornish game hen,24400010
+dove,24402100
+quail,24403100
+pheasant,24404100
+chicken breast,24120110
+chicken leg,24130210
+chicken drumstick,24140210
+chicken thigh,24150210
+chicken wing,24160110
+"chicken ""wings"" with hot sauce",24168000
+"chicken ""wings"" with other sauces or seasoning",24168001
+"chicken ""wings""",24168002
+chicken skin,24198440
+chicken feet,24198500
+fried chicken chunks,24198840
+chicken patty,24198671
+chicken fillet,24198677
+chicken nuggets,24198729
+chicken tenders or strips,24198739
+heart,25120000
+kidney,25130000
+sweetbreads,25140110
+brains,25150000
+tongue,25160000
+tongue pot roast,25160130
+tripe,25170110
+chitterlings,25170210
+hog maws,25170310
+gizzard,25170420
+hot dog,25210110
+beef sausage,25220105
+beef sausage with cheese,25220150
+blood sausage,25220210
+bratwurst,25220350
+turkey or chicken and beef sausage,25220650
+chorizo,25220710
+knockwurst,25221110
+polish sausage,25221310
+italian sausage,25221350
+pork sausage,25221405
+pork sausage rice links,25221450
+pork and beef sausage,25221460
+scrapple,25221610
+thuringer,25221810
+turkey or chicken sausage,25221830
+turkey or chicken and pork sausage,25221870
+turkey or chicken,25221875
+vienna sausage,25221910
+pickled sausage,25221950
+fish,26100100
+caviar,26211100
+imitation crab meat,27250520
+frog legs,26203110
+octopus,26205110
+calamari,26213120
+turtle,26215120
+shellfish,26300000
+abalone,26301110
+clams,26303100
+crab,26305160
+crayfish,26309140
+lobster,26311110
+mussels,26313110
+oysters,26315100
+scallops,26317120
+shrimp,26319110
+escargot,26321110
+shrimp cocktail,27150110
+seafood sauce,27150140
+shrimp scampi,27150230
+beef with soy-based sauce,27115000
+steak teriyaki,27115100
+beef with sweet and sour sauce,27116300
+sweet and sour pork,27120060
+pork or ham with soy-based sauce,27120150
+chicken or turkey with teriyaki,27145000
+sweet and sour chicken or turkey,27146100
+orange chicken,27146350
+sesame chicken,27146360
+sweet and sour shrimp,27150170
+shrimp teriyaki,27150410
+beef and noodles with soy-based sauce,27212500
+beef and rice with soy-based sauce,27213500
+chicken or turkey and noodles with soy-based sauce,27242500
+chicken or turkey and rice with soy-based sauce,27243600
+shrimp and noodles with soy-based sauce,27250128
+sweet and sour pork with rice,27320500
+chicken or turkey,27345310
+beef and broccoli,27415110
+szechuan beef,27415130
+hunan beef,27415140
+kung pao beef,27415170
+stir fried beef and vegetables in soy sauce,27416400
+pork and vegetables,27420110
+pork and watercress with soy-based sauce,27420120
+kung pao pork,27420150
+moo shu pork,27420160
+pork and onions with soy-based sauce,27420170
+chicken or turkey and vegetables including carrots,27445110
+chicken or turkey and vegetables excluding carrots,27445120
+general tso chicken,27445150
+moo goo gai pan,27445180
+kung pao chicken,27445220
+almond chicken,27445250
+shrimp and vegetables including carrots,27450410
+shrimp and vegetables excluding carrots,27450420
+kung pao shrimp,27450470
+shellfish mixture and vegetables including carrots,27450600
+shellfish mixture and vegetables excluding carrots,27450610
+fish and vegetables including carrots,27450740
+fish and vegetables excluding  carrots,27450750
+teriyaki chicken with rice and vegetable,28141201
+chicken in soy-based sauce,28143200
+egg foo yung,32105200
+chicken egg foo yung,32105210
+pork egg foo yung,32105220
+shrimp egg foo yung,32105230
+beef egg foo yung,32105240
+tofu and vegetables including carrots,41812500
+tofu and vegetables excluding carrots,41812510
+chow mein or chop suey,75439500
+chicken or turkey cacciatore,27141000
+stewed chicken with tomato-based sauce,27141050
+chili con carne with chicken or turkey and beans,27141500
+chicken with gravy,27142000
+chicken or turkey fricassee,27142100
+turkey with gravy,27142200
+chicken or turkey with cream sauce,27143000
+chicken or turkey with mushroom sauce,27144000
+barbecue chicken,27146011
+chicken curry,27146150
+chicken curry with rice,27146155
+chicken with mole sauce,27146160
+chicken or turkey with cheese sauce,27146200
+chicken or turkey cordon bleu,27146250
+chicken or turkey parmigiana,27146300
+chicken kiev,27146400
+stuffed chicken,27148010
+chicken or turkey hash,27241000
+chicken or turkey and potatoes with gravy,27241010
+chicken or turkey and noodles,27242000
+chicken or turkey and noodles with gravy,27242200
+chicken or turkey and noodles with mushroom sauce,27242250
+chicken or turkey and noodles with cream or white sauce,27242300
+chicken or turkey and noodles with cheese sauce,27242310
+chicken or turkey tetrazzini,27242350
+chicken or turkey and noodles with tomato-based sauce,27242400
+chicken or turkey and rice,27243000
+chicken or turkey and rice with cream sauce,27243300
+chicken or turkey and rice with mushroom sauce,27243400
+chicken or turkey and rice with tomato-based sauce,27243500
+chicken or turkey with dumplings,27246100
+chicken or turkey with stuffing,27246200
+chicken or turkey cake,27246300
+chicken or turkey souffle,27246400
+meat loaf made with chicken or turkey,27246500
+chicken or turkey stew with potatoes and vegetables including carrots,27341310
+chicken or turkey stew with potatoes and vegetables excluding carrots,27341520
+chicken fricassee,27348100
+chicken or turkey shish kabob with vegetables,27440130
+chicken or turkey creole,27441120
+chicken or turkey a la king with vegetables including carrots,27443110
+chicken or turkey a la king with vegetables excluding carrorts,27443120
+chicken or turkey divan,27443150
+chicken or turkey salad,27446200
+chicken or turkey salad with nuts and/or fruits,27446205
+chicken or turkey salad with egg,27446220
+chicken or turkey garden salad,27446300
+chicken or turkey garden salad with bacon and cheese,27446315
+chicken or turkey garden salad with cheese,27446330
+asian chicken or turkey garden salad,27446350
+asian chicken or turkey garden salad with crispy noodles,27446355
+chicken or turkey caesar garden salad,27446360
+livers,27460710
+stewed gizzards,27463000
+chicken dinner,28140100
+chicken with rice and vegetable,28141250
+chicken and vegetables au gratin with rice,28141650
+chicken and vegetable entree with rice,28143020
+chicken with noodles and cheese sauce,28143080
+chicken and vegetable entree with noodles,28143150
+chicken and vegetable entree with noodles and cream sauce,28144100
+turkey with vegetable,28145110
+chicken cornbread,58128110
+adobo,58137300
+spaghetti sauce with poultry,27141030
+spaghetti sauce with poultry and added vegetables,27141035
+spaghetti sauce with seafood,27150151
+spaghetti sauce with seafood and added vegetables,27150155
+spaghetti sauce with meat,27162040
+spaghetti sauce with meat and added vegetables,27162060
+spaghetti sauce,74404010
+spaghetti sauce with added vegetables,74404020
+vodka sauce with tomatoes and cream,74404090
+fish with cream or white sauce,27150010
+fish timbale or mousse,27150050
+tuna with cream or white sauce,27150120
+seafood thermidor,27150130
+shrimp with lobster sauce,27150160
+fish with tomato-based sauce,27150310
+fish curry,27150320
+fish curry with rice,27150325
+ceviche,27151030
+crabs in tomato-based sauce,27151040
+shrimp in garlic sauce,27151050
+bacalao guisado,27151070
+gefilte fish,27250060
+scallops and noodles with cheese sauce,27250110
+shrimp and noodles,27250120
+shrimp and noodles with gravy,27250122
+shrimp and noodles with mushroom sauce,27250124
+shrimp and noodles with cream or white sauce,27250126
+shrimp and noodles with cheese sauce,27250130
+shrimp and noodles with tomato sauce,27250132
+tuna loaf,27250150
+tuna cake or patty,27250160
+clam cake or patty,27250210
+flounder with crab stuffing,27250250
+lobster with bread stuffing,27250260
+clams casino,27250270
+shrimp with crab stuffing,27250410
+shrimp toast,27250450
+seafood souffle,27250550
+tuna noodle casserole with cream or white sauce,27250610
+tuna noodle casserole with mushroom sauce,27250630
+tuna and rice with mushroom sauce,27250710
+fish and rice with tomato-based sauce,27250810
+fish and rice with cream sauce,27250820
+fish and rice with mushroom sauce,27250830
+fish and noodles with mushroom sauce,27250900
+shellfish and noodles with tomato-based sauce,27250950
+stewed salmon,27251010
+shrimp creole,27350060
+tuna noodle casserole with vegetables,27350080
+bouillabaisse,27350110
+seafood stew with potatoes and vegetables including carrots,27350310
+tuna noodle casserole with vegetables and mushroom sauce,27350410
+codfish with starchy vegetables,27351010
+biscayne codfish,27351040
+gumbo with rice,27363000
+crab salad,27450010
+lobster salad,27450020
+salmon salad,27450030
+tuna salad,27450060
+shrimp salad,27450070
+seafood salad,27450080
+tuna salad with cheese,27450090
+tuna salad with egg,27450100
+shrimp garden salad,27450110
+crab salad made with imitation crab,27450130
+seafood garden salad with seafood,27450180
+oysters rockefeller,27450250
+lomi salmon,27450310
+shrimp shish kabob with vegetables,27450430
+tuna casserole with vegetables and mushroom sauce,27450510
+fish and vegetables excluding carrots,27450710
+fish shish kabob with vegetables,27450760
+fried fish with sauce,27451010
+lobster with sauce,27451030
+octopus salad,27451060
+codfish salad,27451070
+lau lau,27460100
+gumbo,27464000
+fish in lemon-butter sauce with starch item,28150510
+shrimp and vegetables in sauce with noodles,28154010
+lobster gumbo,28355260
+shrimp gumbo,28355440
+bacalaitos fritos,58117410
+fish sauce,27150210
+oyster sauce,28520100
+miso sauce,41420100
+miso,41420110
+natto,41420200
+hoisin sauce,41420250
+soy sauce,41420300
+teriyaki sauce,41420400
+biryani with meat,27213010
+biryani with chicken,27243100
+paella with seafood,27350020
+paella,27360090
+jambalaya with meat and rice,27363100
+cake made with glutinous rice,55701000
+idli,55702000
+cake made with glutinous rice and dried beans,55703000
+bibimbap,58150100
+dukboki or tteokbokki,58150520
+rice with chicken,58155110
+paella with meat,58155310
+seafood paella,58155320
+stewed rice,58155810
+rice with squid,58155910
+fried rice,58156110
+rice with vienna sausage,58156210
+rice with spanish sausage,58156310
+rice with onions,58156410
+rice with stewed beans,58156710
+congee,58157300
+biryani with vegetables,58160000
+rice,58160400
+grape leaves stuffed with rice,58161510
+rice croquette,58161710
+rice pilaf,58162310
+dirty rice,58163130
+flavored rice mixture,58163310
+flavored rice mixture with cheese,58163330
+flavored rice,58163360
+flavored rice and pasta mixture,58163380
+spanish rice,58163405
+spanish rice with ground beef,58163450
+rice dressing,58163510
+rice with raisins,58164110
+rice dessert or salad with fruit,58164210
+beef chow mein or chop suey with noodles,27313110
+pork chow mein or chop suey with noodles,27320310
+chicken or turkey chow mein or chop suey with noodles,27343910
+shrimp chow mein or chop suey with noodles,27350050
+beef chow mein or chop suey,27415150
+pork chow mein or chop suey,27420390
+chicken or turkey chow mein or chop suey,27446100
+shrimp chow mein or chop suey,27450040
+chow fun noodles with meat and vegetables,58135110
+chow fun noodles with vegetables,58135120
+lo mein,58136110
+pad thai,58137210
+pad thai with chicken,58137230
+pad thai with seafood,58137240
+pad thai with meat,58137250
+yat ga mein with meat,58147520
+beef taco filling: beef,27416300
+taco or tostada salad with meat,58101930
+taco or tostada salad with chicken,58101935
+taco or tostada salad,58101940
+taco or tostada salad with meat and sour cream,58101945
+taco or tostada salad with chicken and sour cream,58101950
+taco,58102000
+burrito,58102300
+greens with ham or pork,27420080
+beet greens,72101100
+chard,72104100
+collards,72107100
+cress,72110100
+dandelion greens,72113100
+escarole,72116220
+greens,72118211
+kale,72119190
+lambsquarter,72120220
+mustard greens,72122100
+poke greens,72123020
+taro leaves,72126001
+turnip greens,72128211
+turrnip greens,72128220
+watercress,72130100
+bitter melon,72132201
+sweet potato,72133201
+sandwich,27500050
+sandwich wrap,27500300
+corned beef sandwich on white,27510910
+corned beef sandwich on wheat,27510930
+reuben sandwich,27510950
+roast beef sandwich on white,27513010
+roast beef sandwich on wheat,27513055
+french dip sandwich,27513070
+ham sandwich on white,27520210
+ham sandwich on wheat,27520230
+ham sandwich or sub,27520255
+ham sandwich wrap,27520270
+ham salad sandwich on white,27520340
+ham salad sandwich on wheat,27520345
+turkey sandwich on white,27540010
+turkey sandwich on wheat,27540030
+turkey sandwich or sub,27540050
+turkey sandwich wrap,27540070
+chicken deli sandwich or sub,27540080
+club sandwich on white,27540123
+club sandwich on wheat,27540125
+club sandwich or sub,27540127
+bologna sandwich on white,27560130
+bologna sandwich on wheat,27560150
+salami sandwich on white,27560520
+salami sandwich on wheat,27560540
+italian sandwich on white,27560610
+italian sandwich on wheat,27560620
+italian sandwich or sub,27560630
+italian sausage sandwich on wheat,27560715
+spam sandwich,27560920
+multiple meat sandwich on white,27580010
+multiple meat sandwich on wheat,27580030
+multiple meat sandwich or sub,27580050
+multiple meat sandwich wrap,27580070
+turkey and ham sandwich on white,27580110
+turkey and ham sandwich on wheat,27580130
+turkey and ham sandwich or sub,27580150
+barbecue sandwich,27500400
+sloppy joe sandwich,27510100
+barbecue beef sandwich,27510130
+meatball sandwich or sub,27510700
+meatloaf sandwich,27510702
+steak sandwich or sub on white,27514010
+steak sandwich or sub on wheat,27514020
+cheese steak sandwich or sub on white,27514030
+cheese steak sandwich or sub on wheat,27514040
+gyro sandwich,27516010
+cuban sandwich,27520410
+barbecue rib sandwich,27520500
+barbecue pork sandwich,27520510
+pork sandwich,27520520
+barbecue chicken sandwich,27540130
+cheeseburger slider,27510140
+cheeseburger,27510155
+cheeseburger (burger king),27510170
+whopper jr with cheese (burger king),27510171
+cheeseburger (mcdonalds),27510172
+quarter pounder (mcdonalds),27510229
+whopper with cheese (burger king),27510231
+quarter pounder with cheese (mcdonalds),27510232
+double cheeseburger,27510254
+double cheeseburger (burger king),27510386
+double cheeseburger (mcdonalds),27510387
+mcdouble (mcdonalds),27510388
+big mac (mcdonalds),27510389
+hamburger slider,27510501
+hamburger,27510521
+hamburger (burger king),27510551
+whopper jr (burger king),27510552
+hamburger (mcdonalds),27510553
+whopper (burger king),27510615
+double hamburger,27510649
+chiliburger,27510705
+hamburger wrap sandwich,27517000
+turkey or chicken burger,27545100
+chicken salad sandwich on white,27540120
+chicken salad sandwich on wheat,27540121
+chicken salad sandwich wrap,27540122
+chicken fillet sandwich,27540132
+chicken fillet biscuit,27540145
+chicken fillet wrap sandwich,27540210
+fish sandwich,27550000
+crab cake sandwich,27550110
+salmon cake sandwich,27550120
+fried seafood sandwich,27550150
+fish wrap sandwich,27550425
+sardine sandwich,27550510
+tuna salad sandwich on white,27550720
+tuna salad sandwich on wheat,27550735
+tuna salad sandwich wrap,27550755
+seafood salad sandwich,27550800
+corn dog,27560300
+pig in a blanket,27560350
+italian sausage sandwich on white,27560710
+hot dog sandwich,27564000
+chili hot dog sandwich,27564440
+egg salad sandwich on white,32203010
+egg salad sandwich on wheat,32203020
+egg sandwich on white bread,34001100
+egg sandwich on wheat bread,34001200
+egg sandwich on english muffin,34001300
+egg sandwich on croissant,34001400
+egg sandwich on biscuit,34001500
+egg sandwich on bagel,34001600
+egg sandwich on griddle/pancake,34001700
+egg white sandwich,34002000
+bacon biscuit sandwich,34002110
+ham biscuit sandwich,34002120
+sausage biscuit sandwich,34002130
+sausage english muffin sandwich,34002150
+sausage griddle/pancake sandwich,34002160
+egg burrito,34003100
+quesadilla,58104780
+taquito,58104900
+breakfast pizza with egg,58109210
+biscuit with gravy,58128000
+beans,41100990
+white beans,41101090
+black beans,41101990
+black beans with meat,41102170
+fava beans,41102210
+lima beans,41102990
+pink beans,41103070
+pinto beans,41103990
+pinto beans with meat,41104250
+kidney beans,41105990
+kidney beans with meat,41106170
+peruvian beans,41106510
+soybeans,41107010
+mung beans,41108010
+baked beans,41201010
+baked beans from fast food / restaurant,41201050
+beans and tomatoes,41202505
+refried beans,41205010
+refried beans with meat,41205030
+beans and franks,41206030
+pork and beans,41208030
+beans with meat,41208100
+blackeyed peas,41300990
+chickpeas,41301990
+split peas,41303000
+wasabi peas,41304000
+lentils,41304970
+dal,41305050
+papad,41311000
+soy nuts,41410010
+edamame,41420020
+black bean salad,41203030
+falafel,41209000
+bean cake,41210000
+chili with beans,41221020
+lentil curry,41311030
+lentil curry with rice,41311040
+vegetarian chili,41812450
+vegetarian stroganoff,41812850
+beans and rice,58160100
+kidney beans and rice,58160102
+black beans and rice,58160104
+pinto beans and rice,58160106
+beans and white rice,58160110
+kidney beans and white rice,58160150
+black beans and white rice,58160154
+pinto beans and white rice,58160156
+beans and brown rice,58161320
+kidney beans and brown rice,58161321
+black beans and brown rice,58161322
+pinto beans and brown rice,58161323
+bean chips,41310900
+soy chips,41410015
+chips,54318000
+corn nuts,54401011
+corn chips,54401021
+cheese flavored corn snacks,54401055
+tortilla chips,54401075
+cheese flavored corn snacks (cheetos),54401081
+popcorn chips,54404000
+onion flavored rings,54406010
+shrimp chips,54406200
+multigrain chips (sun chips),54420210
+cracker chips,54440020
+vegetable chips,71220000
+plantain chips,71905410
+taro chips,71980200
+sweet potato chips,73410210
+sambar,41311020
+vegetarian stew,41812800
+stuffed pepper,58162090
+stuffed tomato,58162130
+spinach souffle,72125240
+spinach and cheese casserole,72125260
+palak paneer,72125310
+channa saag,72125500
+broccoli casserole with noodles,72202010
+broccoli casserole with rice,72202020
+lettuce,75144100
+seven-layer salad,75145000
+greek salad,75146000
+spinach salad,75147000
+cobb salad,75148010
+ratatouille,75316050
+artichokes,75400500
+green bean casserole,75403020
+corn,75411010
+eggplant parmesan casserole,75412060
+eggplant with cheese and tomato sauce,75412070
+vegetable stew without meat,75439010
+vegetable curry,75440600
+vegetable curry with rice,75440610
+soybean curd,41420010
+soybean curd cheese,41420050
+vermicelli,41425010
+textured vegetable protein,41440000
+frozen dessert,41480020
+bacon strip,41810200
+breakfast link,41810400
+luncheon slice,41811600
+meatball,41811800
+veggie burger patty,41811890
+sandwich spread,41812000
+vegetarian,41812600
+soy nut butter,42203200
+meat substitute,59003000
+worcestershire sauce,41420450
+lemon juice,61204000
+lime juice,61207000
+chutney,63409020
+vinegar,64401000
+hot thai sauce,74403000
+buffalo sauce,74406060
+puerto rican seasoning with ham,74410110
+puerto rican seasoning with ham and tomato sauce,74415110
+puerto rican seasoning without ham and tomato sauce,74420110
+garlic,75111500
+pepper,75121000
+hot peppers,75226111
+pimiento,75226700
+yeast extract spread,75236500
+horseradish,75503090
+mustard,75506010
+honey mustard dip,75506100
+hot pepper sauce,75511010
+wasabi paste,75534550
+horseradish sauce,81302060
+fry sauce,81308100
+sweet and sour sauce,91361010
+duck sauce,91361050
+veggie burger,41901010
+falafel sandwich,41901030
+bruschetta,51136000
+vegetable sandwich on white,58200210
+vegetable sandwich on wheat,58200230
+vegetable sandwich wrap,58200250
+tomato sandwich on white,74701000
+tomato sandwich on wheat,74701010
+nuts,42100050
+almonds,42100100
+brazil nuts,42102000
+cashews,42104000
+chestnuts,42105000
+coconut,42106000
+hazelnuts,42107000
+macadamia nuts,42109100
+mixed nuts,42110000
+peanuts,42111000
+pecans,42112000
+pine nuts,42113000
+pistachio nuts,42114130
+walnuts,42116000
+almond butter,42200500
+almond paste,42200600
+cashew butter,42201000
+peanut butter,42202000
+peanut butter and jelly,42203000
+peanut butter and chocolate spread,42203100
+trail mix,42500000
+trail mix with nuts,42500100
+trail mix with nuts and fruit,42501000
+trail mix with chocolate,42501500
+trail mix with pretzels,42502100
+pumpkin seeds,43101050
+sunflower seeds,43102000
+sesame seeds,43103000
+tahini,43103300
+flax seeds,43104000
+mixed seeds,43107000
+chia seeds,43108010
+peanut butter sandwich,42301010
+peanut butter and jelly sandwich,42302010
+almond butter sandwich,42304010
+almond butter and jelly sandwich,42304030
+nutella sandwich on white bread,42305010
+nutella sandwich on wheat bread,42305020
+jelly sandwich,58201000
+coconut water,42403010
+fruit nectar,64200100
+apricot nectar,64201010
+banana nectar,64201500
+cantaloupe nectar,64202010
+guava nectar,64203020
+mango nectar,64204010
+peach nectar,64205010
+papaya nectar,64210010
+passion fruit nectar,64213010
+pear nectar,64215010
+soursop,64221010
+fruit juice drink,92432000
+tamarind drink,92510650
+fruit punch,92510720
+lemonade,92510955
+fruit juice beverage,92511250
+frozen daiquiri mix,92512050
+pina colada,92512090
+margarita mix,92512110
+slush frozen drink,92513000
+cranberry juice drink,92530510
+vegetable and fruit juice drink,92530950
+fruit juice drink (sunny d),92531030
+grape juice drink,92550200
+orange juice beverage,92550350
+apple juice beverage,92550360
+pomegranate juice beverage,92550380
+fruit juice drink (capri sun),92552030
+sugar cane beverage,92612010
+wine,92801000
+nonalcoholic malt beverage,92803000
+shirley temple,92804000
+fruit juice,95342000
+bread,51000100
+focaccia,51108010
+garlic bread,51121015
+injera,51807000
+roll,51000200
+breadsticks,51183990
+pan dulce,51160200
+coffee cake,51165000
+croissant,51166000
+brioche,51167000
+pannetone,51188100
+fritter,53415110
+cream puff,53420000
+sopaipilla,53420400
+sopaipilla with syrup or honey,53420410
+tamale,53430700
+pastry,53452100
+cheese pastry puffs,53452450
+breakfast pastry,53500100
+danish pastry,53510000
+doughnut,53520000
+doughnut holes,53520170
+churros,53520200
+beignet,53520510
+breakfast tart,53530000
+funnel cake with sugar,55801000
+funnel cake with sugar and fruit,55801010
+bagel,51180010
+muffin,51186010
+bread stuffing,51182010
+bread stuffing made with egg,51182020
+cornbread stuffing,52204000
+crepe,58120110
+pierogi,58121610
+knish,58122320
+spanakopita,58124250
+samosa,58124500
+quiche with meat,58125110
+spinach quiche,58125120
+cheese quiche,58125180
+turnover or hot pocket,58126100
+turnover or lean pocket,58126290
+turnover or breakfast pocket,58126400
+cornmeal dressing with chicken or turkey and vegetables,58128120
+dressing with oysters,58128210
+dressing with chicken or turkey and vegetables,58128220
+dressing with meat and vegetables,58128250
+vada,58175000
+tabbouleh,58175110
+stuffed jalapeno pepper,75410550
+croutons,51185000
+melba toast,51187000
+zwieback toast,51188500
+crackers,54001000
+rice cake,54318500
+popcorn cake,54319020
+rice paper,54319500
+pita chips,54402700
+bagel chips,54440010
+noodles,56116000
+anisette toast,51187020
+cookie,53200100
+cookie bar,53211000
+pocky,53239100
+marie biscuit,53241510
+cookies,53270100
+graham crackers,54102010
+graham crackers (teddy grahams),54102015
+biscuit,52101000
+biscuit with fruit,52104200
+scone,52105100
+cornbread,52201000
+cornbread muffin,52206010
+corn flour patty or tart,52207010
+corn pone,52208010
+hush puppy,52209010
+johnnycake,52211010
+spoonbread,52213010
+arepa dominicana,52220110
+popover,52311010
+dumpling,55610300
+cornmeal stick,58117210
+casabe,71930200
+gordita/sope shell,52208760
+tortilla,52215000
+taco shell,52215300
+pancakes,55100005
+waffle,55200010
+french toast,55300010
+french toast sticks,55301031
+chinese pancake,55501000
+dosa,55702100
+cereal or granola bar (general mills fiber one chewy bar),53710400
+cereal or granola bar (kellogg's nutri-grain cereal bar),53710500
+cereal or granola bar (kellogg's nutri-grain yogurt bar),53710502
+cereal or granola bar (kellogg's nutri-grain fruit and nut bar),53710504
+milk 'n cereal bar,53710600
+cereal or granola bar (kellogg's special k bar),53710700
+cereal or granola bar (kind fruit and nut bar),53710810
+cereal or granola bar (general mills nature valley chewy trail mix),53710900
+cereal or granola bar,53710902
+cereal or granola bar (general mills nature valley sweet and salty granola bar),53710904
+cereal or granola bar (general mills nature valley crunchy granola bar),53710906
+cereal or granola bar (quaker chewy granola bar),53711000
+cereal or granola bar (quaker chewy 90 calorie granola bar),53711002
+cereal or granola bar (quaker chewy 25% less sugar granola bar),53711004
+cereal or granola bar (quaker chewy dipps granola bar),53711006
+cereal or granola bar (quaker granola bites),53711100
+snack bar,53712000
+cereal or granola bar with nuts,53714220
+breakfast bar,53714500
+cereal or granola bar (kashi chewy),53710800
+cereal or granola bar (kashi crunchy),53710802
+nutrition bar (balance original bar),53720100
+nutrition bar (clif bar),53720200
+nutrition bar (clif kids organic zbar),53720210
+nutrition bar (powerbar),53720300
+nutrition bar (slim fast original meal bar),53720400
+nutrition bar (snickers marathon protein bar),53720500
+nutrition bar (south beach living meal bar),53720600
+nutrition bar (south beach living high protein bar),53720610
+nutrition bar (tiger's milk),53720700
+nutrition bar (zone perfect classic crunch),53720800
+nutrition bar or meal replacement bar,53729000
+baby toddler snack,53800000
+baby toddler bar,53801000
+baby toddler cookie,53803100
+baby toddler biscuit,53803300
+baby toddler crackers,54350000
+baby toddler puffs,54350100
+baby toddler crunchies,54360000
+baby toddler wheels,54360100
+baby toddler pudding,67408010
+baby toddler yogurt melts,67430500
+snack mix,54402200
+pretzels,54408000
+pretzel chips,54408105
+potato chips,54402610
+potato sticks,71205020
+popcorn,54403001
+pasta,56104000
+long rice noodles,56116990
+rice noodles,56117090
+barley,56200410
+buckwheat groats,56200510
+millet,56202000
+quinoa,56204000
+bulgur,56207110
+couscous,56207160
+grits,56200990
+cornmeal mush,56201515
+masa harina,56201600
+cream of rice,56205050
+cream of wheat,56206990
+whole wheat cereal,56207200
+wheat cereal,56207370
+oat bran cereal,56208500
+upma,58174000
+hominy,75217520
+oatmeal,56202900
+yellow rice,56205130
+baby toddler cereal,57801000
+chilaquiles,58100360
+frito pie,58101830
+mexican pizza,58101835
+burrito bowl,58102700
+enchilada,58102800
+tamale casserole with meat,58103310
+gordita,58104255
+chimichanga,58104500
+fajita,58104990
+pupusa,58105100
+chiles rellenos,75410500
+nachos,58104105
+egg roll,58110110
+roll with meat and/or shrimp,58110200
+wonton,58111110
+puffs,58111200
+bao bun,58123110
+sushi,58151100
+sushi roll,58151170
+sushi roll tuna,58151220
+gnocchi,58122210
+lasagna with meat,58130011
+lasagna with meat and spinach,58130020
+lasagna with chicken or turkey,58130140
+lasagna,58130150
+ravioli,58131100
+manicotti,58133110
+stuffed shells,58134110
+tortellini,58134610
+cannelloni,58134810
+spaghetti with corned beef,58140110
+macaroni with tuna,58140310
+pasta with tomato-based sauce,58146120
+pasta with tomato-based sauce and cheese,58146150
+pasta with vegetables,58146160
+pasta with sauce,58146210
+pasta with sauce and meat,58146315
+pasta with tomato-based sauce and meat,58146321
+pasta with tomato-based sauce and poultry,58146341
+pasta with tomato-based sauce and seafood,58146361
+pasta with cream sauce,58146381
+pasta with cream sauce and added vegetables,58146391
+pasta with cream sauce and meat,58146401
+pasta with cream sauce and poultry,58146421
+pasta with cream sauce and seafood,58146441
+pasta with tomato-based sauce and beans or lentils,58147110
+flavored pasta,58147510
+macaroni or pasta salad,58148110
+macaroni or pasta salad with egg,58148120
+macaroni or pasta salad with tuna,58148130
+macaroni or pasta salad with crab meat,58148140
+macaroni or pasta salad with shrimp,58148150
+macaroni or pasta salad with tuna and egg,58148160
+macaroni or pasta salad with chicken,58148170
+macaroni or pasta salad with cheese,58148180
+macaroni or pasta salad with meat,58148550
+noodle pudding,58149110
+noodles with vegetables in tomato-based sauce,58302080
+spaghetti and meatballs dinner,58304010
+spaghetti with meat sauce,58304060
+macaroni or noodles with cheese,58145110
+macaroni or noodles with cheese and tuna,58145120
+macaroni or noodles with cheese and meat,58145135
+macaroni or noodles with cheese and tomato,58145140
+macaroni or noodles with cheese and frankfurters or hot dogs,58145160
+macaroni or noodles with cheese and egg,58145170
+macaroni or noodles with cheese and chicken or turkey,58145190
+macaroni or noodles,58147330
+clementine,61100600
+grapefruit,61101010
+kumquat,61110010
+lemon,61113010
+lime,61116010
+orange,61119010
+tangerine,61125010
+lemon pie filling,61113500
+cherry pie filling,63113030
+blueberry pie filling,63203700
+syrup,91300010
+pancake syrup,91300100
+corn syrup,91301030
+blueberry syrup,91301050
+chocolate syrup,91301080
+simple syrup,91301100
+strawberry drink syrup,91301130
+topping,91304010
+chocolate hazelnut spread,91304090
+icing,91305010
+caramel dip,91306020
+chocolate dip,91306030
+dessert dip,91306040
+dessert sauce,91361040
+jam or jelly,91400000
+jelly,91401000
+jam,91402000
+fruit butter,91403000
+marmalade,91404000
+guava paste,91407100
+sweet potato paste,91407120
+bean paste,91407150
+grapefruit juice,61201010
+orange juice,61210000
+tangerine juice,61213220
+fruit juice blend,61213800
+cranberry juice blend,64100200
+blackberry juice,64104600
+blueberry juice,64104610
+cranberry juice,64105400
+grape juice,64116020
+papaya juice,64120010
+passion fruit juice,64121000
+pineapple juice,64124020
+pomegranate juice,64126000
+prune juice,64132010
+strawberry juice,64132500
+watermelon juice,64133100
+aloe vera juice drink,75200700
+vegetable and fruit juice,78101000
+fruit mixture,62101050
+apple,62101100
+apricot,62104100
+blueberries,62105000
+cherries,62106000
+banana chips,62107200
+currants,62108100
+cranberries,62109100
+date,62110100
+fig,62113100
+mango,62114050
+papaya,62114110
+peach,62116100
+pear,62119100
+persimmon,62120000
+pineapple,62120100
+prune,62122100
+raisins,62125100
+tamarind,62126000
+fruit,63100100
+starfruit,63109700
+dragon fruit,63116010
+guava,63125010
+kiwi fruit,63126500
+lychee,63126510
+passion fruit,63134010
+plum,63143010
+pomegranate,63145010
+rhubarb,63147110
+ambrosia,63301010
+fruit salad,63311000
+fruit cocktail,63311110
+apple salad with dressing,63401010
+pineapple salad with dressing,63413010
+applesauce,63101110
+apple pie filling,63101210
+avocado,63105010
+peas and carrots,73111211
+raw vegetable,75100250
+sprouts,75100300
+alfalfa sprouts,75100500
+artichoke,75100750
+asparagus,75100800
+bean sprouts,75101000
+beets,75102500
+broccoflower,75102600
+brussels sprouts,75102750
+cactus,75105500
+celery,75109000
+fennel bulb,75109010
+cucumber,75111000
+jicama,75111800
+kohlrabi,75112000
+radish,75125000
+rutabaga,75127000
+snowpeas,75127750
+turnip,75129000
+bamboo shoots,75203028
+burdock,75209501
+christophine,75215511
+flowers or blossoms of sesbania,75217301
+lotus root,75218501
+mushroom,75219100
+okra,75220011
+palm hearts,75221160
+parsnips,75222020
+peppers,75226020
+daikon radish,75227110
+salsify,75229011
+snowpea,75231011
+winter melon,75235750
+peppers and onions,75306998
+classic mixed vegetables,75310990
+vegetables,75317010
+broccoli and cauliflower,75330050
+asian stir fry vegetables,75340010
+jai,75340200
+jalapenos,75511050
+banana,63107010
+cantaloupe,63109010
+honeydew melon,63127010
+watermelon,63149010
+grapes,63123000
+nectarine,63131010
+berries,63200100
+blackberries,63201010
+bluberries,63203110
+cranberry sauce,63207110
+raspberries,63219000
+strawberries,63223020
+frozen fruit juice bar,63420105
+sorbet,63430150
+gelatin dessert,91501010
+gelatin dessert with fruit,91501020
+gelatin salad with vegetables,91501100
+yokan,91520100
+italian ice,91601000
+popsicle,91610900
+freezer pop,91612000
+snow cone,91621000
+apple cider,64101010
+apple juice,64104010
+baby toddler multiple fruit,67100100
+baby toddler apples,67102010
+baby toddler bananas,67105030
+baby toddler peaches,67108010
+baby toddler pears,67109010
+baby toddler prunes,67110000
+baby toddler mangoes,67110100
+potato,71000100
+potato only from puerto rican mixed dishes,71106010
+stewed potatoes,71106000
+potato from puerto rican style stuffed pot roast,71106020
+potato from puerto rican beef stew,71106050
+potato from puerto rican chicken fricassee,71106070
+potato salad with egg,71600950
+potato salad,71602010
+potato pancake,71701000
+lefse,71701500
+stewed potatoes with tomatoes,71704000
+fried stuffed potatoes,77121010
+potato skins without topping,71410000
+potato skins,71410500
+potato patty,71503010
+potato tots,71505000
+plantain,71900100
+ripe plantain,71905000
+green banana,71910110
+cassava,71930120
+dasheen,71962020
+taro,71962040
+fufu,71970200
+green peas,75120000
+breadfruit,75208501
+water chesnut,75235000
+lima beans and corn,75301110
+peas and corn,75315010
+green plantain with cracklings,77201210
+yuca fries,71930190
+fried broccoli,72202030
+sweet potato fries,73410200
+sweet potato tots,73420020
+fried green tomatoes,74205010
+fried green beans,75205200
+fried cauliflower,75409020
+fried eggplant,75412010
+fried mushrooms,75414030
+fried okra,75414500
+fried onion rings,75415022
+fried summer squash,75418010
+vegetable tempura,75440200
+pakora,75440400
+pickles,75511300
+broccoli raab,72103000
+romaine lettuce,72116000
+caesar salad,72116150
+radicchio,72124100
+mixed salad greens,75114000
+beet juice,73105000
+carrot juice,73105010
+tomato juice,74301100
+tomato juice cocktail,74302000
+tomato and vegetable juice,74303000
+mixed vegetable juice,75132000
+celery juice,75132100
+pumpkin,73201013
+winter squash,73302010
+spaghetti squash,75233220
+sun-dried tomatoes,74206000
+tomato,74205020
+sauerkraut,75230000
+relish,75501010
+kimchi,75502520
+ginger root,75503085
+olives,75510000
+olive tapenade,75510050
+radishes,75512010
+zucchini,75535000
+ketchup,74401010
+tomato chili sauce,74402010
+salsa,74402100
+taco sauce,74402210
+barbecue sauce,74406010
+steak sauce,74406100
+cocktail sauce,74406500
+yellow string beans,75206020
+leek,75218400
+baby toddler vegetable,76000000
+baby toddler carrots,76201010
+baby toddler squash,76205010
+baby toddler sweet potatoes,76209010
+baby toddler green beans,76401010
+baby toddler beets,76403010
+baby toddler multiple vegetables,76407010
+baby toddler peas,76409010
+margarine,81102000
+margarine-oil blend,81103035
+butter replacement,81103090
+oil or table fat,81200100
+shortening,81203000
+tartar sauce,81302050
+salad dressing,83100200
+mayonnaise,83107000
+vegan mayonnaise,83108000
+mayonnaise-type salad dressing,83110000
+vegetable oil,82101000
+almond oil,82101300
+coconut oil,82101500
+corn oil,82102000
+cottonseed oil,82103000
+flaxseed oil,82103500
+olive oil,82104000
+peanut oil,82105000
+canola oil,82105500
+safflower oil,82106000
+sesame oil,82107000
+soybean oil,82108000
+sunflower oil,82108500
+walnut oil,82108700
+wheat germ oil,82109000
+blue or roquefort cheese dressing,83101000
+bacon and tomato dressing,83101600
+caesar dressing,83102000
+coleslaw dressing,83103000
+french or catalina dressing,83104000
+honey mustard dressing,83105500
+italian dressing,83106000
+russian dressing,83109000
+avocado dressing,83112000
+creamy italian dressing,83112400
+poppy seed dressing,83112950
+sesame dressing,83112990
+ranch dressing,83113500
+thousand island dressing,83114000
+yogurt dressing,83115000
+korean dressing or marinade,83208500
+sugar,91101000
+honey,91302010
+agave liquid sweetener,91302020
+molasses,91303000
+sugar substitute and sugar blend,91106010
+sugar substitute,91107000
+candy,91700010
+white chocolate candy,91705400
+ladoo,91718300
+cough drops,91745035
+chewing gum,91801000
+chocolate candy,91705005
+chocolate candy with nuts,91705012
+chocolate candy with cereal,91705020
+chocolate chips,91705200
+dark chocolate candy,91705290
+dark chocolate candy with nuts,91705312
+chocolate candy with dried fruit,91705550
+frozen coffee drink,92101920
+frozen mocha coffee drink,92102000
+iced coffee,92102400
+coffee and chicory,92152000
+chicory beverage,92202010
+cereal beverage,92203000
+cereal beverage with beet roots,92203110
+iced tea / lemonade juice drink,92307500
+soft drink,92400000
+water,92410110
+water beverage,94100300
+beer,93101000
+alcoholic malt beverage,93106000
+hard cider,93106500
+cordial or liqueur,93201000
+cocktail,93301000
+alexander,93301010
+bloody mary,93301030
+canadian club and soda,93301031
+cape cod,93301032
+daiquiri,93301040
+gelatin shot,93301045
+gimlet,93301050
+gin and tonic,93301060
+greyhound,93301075
+jagerbomb,93301083
+kamikaze,93301085
+manhattan,93301090
+margarita,93301100
+martini,93301110
+mint julep,93301120
+mojito,93301125
+old fashioned,93301130
+orange blossom,93301132
+rob roy,93301135
+rusty nail,93301136
+screwdriver,93301140
+seabreeze,93301141
+seven and seven,93301142
+tom collins,93301150
+whiskey sour,93301160
+whiskey and soda,93301170
+whiskey and water,93301181
+whiskey and cola,93301182
+whiskey and diet cola,93301183
+whiskey and ginger ale,93301184
+rum and cola,93301190
+rum and diet cola,93301191
+brandy and cola,93301205
+vodka and soda,93301211
+vodka and lemonade,93301213
+vodka and cola,93301214
+vodka and diet cola,93301215
+vodka and energy drink,93301216
+vodka and water,93301217
+vodka and tonic,93301218
+sloe gin fizz,93301230
+black russian,93301240
+white russian,93301250
+singapore sling,93301280
+mai tai,93301310
+tequila sunrise,93301320
+gin rickey,93301330
+long island iced tea,93301360
+fuzzy navel,93301370
+irish coffee,93301400
+liqueur with cream,93301450
+frozen daiquiri,93301500
+frozen margarita,93301510
+gin fizz,93301600
+rum,93302000
+glug,93406000
+brandy,93501000
+whiskey,93502000
+scotch,93502100
+gin,93503000
+rum cooler,93504100
+vodka,93505000
+tequila,93505100
+mimosa,93301115
+champagne punch,93301275
+wine cooler,93404000
+sangria,93404550
+wine spritzer,93405000
+nutritional drink or shake,95101000
+nutritional powder mix (carnation instant breakfast),95201000
+nutritional powder mix,95201010
+nutritional powder mix (eas whey protein powder),95201200
+nutritional powder mix (eas soy protein powder),95201300
+nutritional powder mix (isopure),95201600
+nutritional powder mix (kellogg's special k20 protein water),95201700
+nutritional powder mix (muscle milk),95202000
+nutritional powder mix (slim fast),95210000
+energy drink (full throttle),95310200
+energy drink (monster),95310400
+energy drink (mountain dew amp),95310500
+energy drink (no fear),95310550
+energy drink (no fear motherload),95310555
+energy drink (nos),95310560
+energy drink (red bull),95310600
+energy drink (rockstar),95310700
+energy drink (sobe energize energy juice drink),95310750
+energy drink (vault),95310800
+energy drink,95311000
+energy drink (ocean spray cran-energy juice drink),95312560
+energy drink (xs),95312900
+energy drink (xs gold plus),95312905
+sports drink (gatorade g),95320200
+sports drink (powerade),95320500
+fluid replacement,95330100
