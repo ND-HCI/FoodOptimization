@@ -1,0 +1,8 @@
+Main file for testing is appFIN.py
+
+To run the server, you will need to set up flask.
+To set up Flask follow the instructions here: 
+https://flask.palletsprojects.com/en/2.2.x/installation/
+
+Download Dataset for AppFIN.py: 
+https://docs.google.com/spreadsheets/d/1o5z0mCgj3BZ5hXAMUGNAP9M8lGY9pas28VNTBmwE6B4/edit#gid=1155899081
