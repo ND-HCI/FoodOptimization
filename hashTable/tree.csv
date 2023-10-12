@@ -1,0 +1,2079 @@
+Level1,Level2,Level3,Level4
+Food,,,
+Food,Proteins,,
+Proteins,Food,20 Meat,
+20 Meat,Proteins,Food,Meat
+20 Meat,Proteins,Food,Baby Toddler meat
+Proteins,Food,21 Beef,
+21 Beef,Proteins,Food,Beef
+21 Beef,Proteins,Food,Steak
+21 Beef,Proteins,Food,Baby Toddler beef
+21 Beef,Proteins,Food,Beef jerky
+Proteins,Food,22 Pork,
+22 Pork,Proteins,Food,Baby Toddler ham
+22 Pork,Proteins,Food,Baby Toddler meat stick
+22 Pork,Proteins,Food,Pork jerky
+22 Pork,Proteins,Food,Ham
+22 Pork,Proteins,Food,Pork
+22 Pork,Proteins,Food,Canadian bacon
+22 Pork,Proteins,Food,Bacon
+22 Pork,Proteins,Food,Pork bacon
+22 Pork,Proteins,Food,Bacon or side pork
+22 Pork,Proteins,Food,Fried pork chunks
+22 Pork,Proteins,Food,Ribs
+22 Pork,Proteins,Food,Pork skin rinds
+22 Pork,Proteins,Food,Fat back
+Proteins,Food,"23 Lamb, veal, game",
+"23 Lamb, veal, game",Proteins,Food,Veal
+"23 Lamb, veal, game",Proteins,Food,Mock chicken legs
+"23 Lamb, veal, game",Proteins,Food,Venison/deer jerky
+"23 Lamb, veal, game",Proteins,Food,Venison sausage
+"23 Lamb, veal, game",Proteins,Food,Lamb
+"23 Lamb, veal, game",Proteins,Food,Goat
+"23 Lamb, veal, game",Proteins,Food,Rabbit
+"23 Lamb, veal, game",Proteins,Food,Venison
+"23 Lamb, veal, game",Proteins,Food,Moose
+"23 Lamb, veal, game",Proteins,Food,Bear
+"23 Lamb, veal, game",Proteins,Food,Caribou
+"23 Lamb, veal, game",Proteins,Food,Bison
+"23 Lamb, veal, game",Proteins,Food,Groundhog
+"23 Lamb, veal, game",Proteins,Food,Opossum
+"23 Lamb, veal, game",Proteins,Food,Squirrel
+"23 Lamb, veal, game",Proteins,Food,Beaver
+"23 Lamb, veal, game",Proteins,Food,Raccoon
+"23 Lamb, veal, game",Proteins,Food,Armadillo
+"23 Lamb, veal, game",Proteins,Food,Wild pig
+"23 Lamb, veal, game",Proteins,Food,Ostrich
+Proteins,Food,24 Poultry,
+24 Poultry,Proteins,Food,Baby Toddler chicken
+24 Poultry,Proteins,Food,Baby Toddler turkey
+24 Poultry,Proteins,Food,Turkey bacon
+24 Poultry,Proteins,Food,Turkey
+24 Poultry,Proteins,Food,Turkey light or dark meat
+24 Poultry,Proteins,Food,Duck
+24 Poultry,Proteins,Food,Goose
+24 Poultry,Proteins,Food,Cornish game hen
+24 Poultry,Proteins,Food,Dove
+24 Poultry,Proteins,Food,Quail
+24 Poultry,Proteins,Food,Pheasant
+24 Poultry,Proteins,Food,Chicken
+24 Poultry,Proteins,Food,Chicken breast
+24 Poultry,Proteins,Food,Chicken leg
+24 Poultry,Proteins,Food,Chicken drumstick
+24 Poultry,Proteins,Food,Chicken thigh
+24 Poultry,Proteins,Food,Chicken wing
+24 Poultry,Proteins,Food,"Chicken ""wings"" with hot sauce"
+24 Poultry,Proteins,Food,"Chicken ""wings"" with other sauces or seasoning"
+24 Poultry,Proteins,Food,"Chicken ""wings"""
+24 Poultry,Proteins,Food,Chicken skin
+24 Poultry,Proteins,Food,Chicken feet
+24 Poultry,Proteins,Food,Fried chicken chunks
+24 Poultry,Proteins,Food,Chicken patty
+24 Poultry,Proteins,Food,Chicken fillet
+24 Poultry,Proteins,Food,Chicken nuggets
+24 Poultry,Proteins,Food,Chicken tenders or strips
+Proteins,Food,"25 Organ meats, frankfurters, sausages, lunchmeats",
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Bologna
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Head cheese
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Mortadella
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Pastrami
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Pepperoni
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Salami
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Luncheon meat
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Ham
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Chicken
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Ham luncheon meat
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Spam
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Liverwurst
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Turkey
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Turkey ham
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Beef
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Meat spread or potted meat
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Chicken salad spread
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Ham salad spread
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Liver
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Heart
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Kidney
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Sweetbreads
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Brains
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Tongue
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Tongue pot roast
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Tripe
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Chitterlings
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Hog maws
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Gizzard
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Hot dog
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Beef sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Beef sausage with cheese
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Blood sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Bratwurst
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Turkey or chicken and beef sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Chorizo
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Knockwurst
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Polish sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Italian sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Pork sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Pork sausage rice links
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Pork and beef sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Scrapple
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Thuringer
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Turkey or chicken sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Turkey or chicken and pork sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Turkey or chicken
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Vienna sausage
+"25 Organ meats, frankfurters, sausages, lunchmeats",Proteins,Food,Pickled sausage
+Proteins,Food,"26 Fish, shellfish",
+"26 Fish, shellfish",Proteins,Food,Fish
+"26 Fish, shellfish",Proteins,Food,Caviar
+"26 Fish, shellfish",Proteins,Food,Frog legs
+"26 Fish, shellfish",Proteins,Food,Octopus
+"26 Fish, shellfish",Proteins,Food,Calamari
+"26 Fish, shellfish",Proteins,Food,Turtle
+"26 Fish, shellfish",Proteins,Food,Shellfish
+"26 Fish, shellfish",Proteins,Food,Abalone
+"26 Fish, shellfish",Proteins,Food,Clams
+"26 Fish, shellfish",Proteins,Food,Crab
+"26 Fish, shellfish",Proteins,Food,Crayfish
+"26 Fish, shellfish",Proteins,Food,Lobster
+"26 Fish, shellfish",Proteins,Food,Mussels
+"26 Fish, shellfish",Proteins,Food,Oysters
+"26 Fish, shellfish",Proteins,Food,Scallops
+"26 Fish, shellfish",Proteins,Food,Shrimp
+"26 Fish, shellfish",Proteins,Food,Escargot
+Proteins,Food,"27 Meat, poultry, fish mixtures",
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue meat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef goulash
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef burgundy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef stew
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili con carne
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili con carne with beans
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili con carne without beans
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili con carne with beans and cheese
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sloppy joe
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Salisbury steak with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef stroganoff
+"27 Meat, poultry, fish mixtures",Proteins,Food,Creamed chipped or dried beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Swedish meatballs with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef curry
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef curry with rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed seasoned ground beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Steak tartare
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meatballs
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed dried beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stuffed pot roast
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham stroganoff
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork stew
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili hot dog
+"27 Meat, poultry, fish mixtures",Proteins,Food,Frankfurters or hot dogs with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork with chili and tomatoes
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb or mutton with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed goat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal scallopini
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal with cream sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal with butter sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal Marsala
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal parmigiana
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal cordon bleu
+"27 Meat, poultry, fish mixtures",Proteins,Food,Venison or deer with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Venison or deer with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili con carne with venison/deer and beans
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meat loaf
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meat with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meat with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and potatoes
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef stew with potatoes
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and potatoes with cream sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Corned beef hash
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and potatoes with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and macaroni with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and noodles with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili con carne with beans and macaroni
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef goulash with noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and noodles with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and noodles with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef stroganoff with noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and noodles with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and rice with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Porcupine balls with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and rice with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and rice with cream sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and rice with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Porcupine balls with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and rice with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meat loaf made with beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef wellington
+"27 Meat, poultry, fish mixtures",Proteins,Food,Corned beef patty
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed corned beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meat loaf made with ham
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham and noodles with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham and rice with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork with stuffing
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham croquette
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork and rice with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage and rice with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage and rice with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage and rice with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage and noodles with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham and noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork and rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork and potatoes with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork and potatoes with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed pig's feet
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stuffed pork roast
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb or mutton loaf
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb or mutton and potatoes with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb or mutton and potatoes with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb or mutton and noodles with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meat loaf made with venison/deer
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal and noodles with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Venison or deer and noodles with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meat loaf made with beef and pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Hash
+"27 Meat, poultry, fish mixtures",Proteins,Food,Vienna sausages stewed with potatoes
+"27 Meat, poultry, fish mixtures",Proteins,Food,Corned beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef stew with potatoes and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef stew with potatoes and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shepherd's pie
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stuffed cabbage rolls with beef and rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stuffed grape leaves with beef and rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pot pie
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stuffed green pepper
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb or mutton
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stuffed grape leaves with lamb and rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb or mutton stew with potatoes and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal fricassee
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed rabbit
+"27 Meat, poultry, fish mixtures",Proteins,Food,Venison or deer stew with potatoes and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Venison or deer
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stew
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed variety meats
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed tripe
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef shish kabob with vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef with vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Swiss steak
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef rolls
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef with vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pepper steak
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Seasoned shredded soup meat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef stew with vegetables excluding potatoes
+"27 Meat, poultry, fish mixtures",Proteins,Food,Corned beef with tomato sauce and onion
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef steak with onions
+"27 Meat, poultry, fish mixtures",Proteins,Food,Cabbage with ham hocks
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham or pork salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Frankfurters or hot dogs and sauerkraut
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork hash
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham and vegetables including carrots broccoli
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork and vegetables excluding  carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage and vegetables including  carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage and vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sausage and peppers
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork shish kabob with vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stuffed christophine
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork chop stewed with vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb or mutton stew with vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal with vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Veal with vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lamb shish kabob with vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Julienne salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Antipasto with ham
+"27 Meat, poultry, fish mixtures",Proteins,Food,Liver
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed chitterlings
+"27 Meat, poultry, fish mixtures",Proteins,Food,Imitation crab meat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp cocktail
+"27 Meat, poultry, fish mixtures",Proteins,Food,Seafood sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp scampi
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Steak teriyaki
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef with sweet and sour sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sweet and sour pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork or ham with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey with teriyaki
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sweet and sour chicken or turkey
+"27 Meat, poultry, fish mixtures",Proteins,Food,Orange chicken
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sesame chicken
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sweet and sour shrimp
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp teriyaki
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and noodles with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and rice with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and noodles with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and rice with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and noodles with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sweet and sour pork with rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef and broccoli
+"27 Meat, poultry, fish mixtures",Proteins,Food,Szechuan beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Hunan beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Kung Pao beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stir fried beef and vegetables in soy sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork and vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork and watercress with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Kung Pao pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Moo Shu pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork and onions with soy-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,General Tso chicken
+"27 Meat, poultry, fish mixtures",Proteins,Food,Moo Goo Gai Pan
+"27 Meat, poultry, fish mixtures",Proteins,Food,Kung pao chicken
+"27 Meat, poultry, fish mixtures",Proteins,Food,Almond chicken
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Kung Pao shrimp
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shellfish mixture and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shellfish mixture and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish and vegetables excluding  carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey cacciatore
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed chicken with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili con carne with chicken or turkey and beans
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey fricassee
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey with cream sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue chicken
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken curry
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken curry with rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken with mole sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey cordon bleu
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey parmigiana
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken kiev
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stuffed chicken
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey hash
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and potatoes with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and noodles with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and noodles with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and noodles with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and noodles with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey tetrazzini
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and noodles with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and rice with cream sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and rice with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey and rice with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey with dumplings
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey with stuffing
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey cake
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey souffle
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meat loaf made with chicken or turkey
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey stew with potatoes and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey stew with potatoes and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken fricassee
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey shish kabob with vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey creole
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey a la king with vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey a la king with vegetables excluding carrorts
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey divan
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey salad with nuts and/or fruits
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey salad with egg
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey garden salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey garden salad with bacon and cheese
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey garden salad with cheese
+"27 Meat, poultry, fish mixtures",Proteins,Food,Asian chicken or turkey garden salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Asian chicken or turkey garden salad with crispy noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey caesar garden salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Livers
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed gizzards
+"27 Meat, poultry, fish mixtures",Proteins,Food,Spaghetti sauce with poultry
+"27 Meat, poultry, fish mixtures",Proteins,Food,Spaghetti sauce with poultry and added vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Spaghetti sauce with seafood
+"27 Meat, poultry, fish mixtures",Proteins,Food,Spaghetti sauce with seafood and added vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Spaghetti sauce with meat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Spaghetti sauce with meat and added vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish timbale or mousse
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Seafood thermidor
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp with lobster sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish curry
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish curry with rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ceviche
+"27 Meat, poultry, fish mixtures",Proteins,Food,Crabs in tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp in garlic sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Bacalao guisado
+"27 Meat, poultry, fish mixtures",Proteins,Food,Crab
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish
+"27 Meat, poultry, fish mixtures",Proteins,Food,Gefilte fish
+"27 Meat, poultry, fish mixtures",Proteins,Food,Scallops and noodles with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and noodles with gravy
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and noodles with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and noodles with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and noodles with cheese sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp and noodles with tomato sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna loaf
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna cake or patty
+"27 Meat, poultry, fish mixtures",Proteins,Food,Clam cake or patty
+"27 Meat, poultry, fish mixtures",Proteins,Food,Flounder with crab stuffing
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lobster with bread stuffing
+"27 Meat, poultry, fish mixtures",Proteins,Food,Clams Casino
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp with crab stuffing
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp toast
+"27 Meat, poultry, fish mixtures",Proteins,Food,Seafood souffle
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna noodle casserole with cream or white sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna noodle casserole with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna and rice with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish and rice with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish and rice with cream sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish and rice with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish and noodles with mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shellfish and noodles with tomato-based sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Stewed salmon
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp creole
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna noodle casserole with vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Bouillabaisse
+"27 Meat, poultry, fish mixtures",Proteins,Food,Seafood stew with potatoes and vegetables including carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna noodle casserole with vegetables and mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Codfish with starchy vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Biscayne codfish
+"27 Meat, poultry, fish mixtures",Proteins,Food,Gumbo with rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Crab salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lobster salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Salmon salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Seafood salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna salad with cheese
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna salad with egg
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp garden salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Crab salad made with imitation crab
+"27 Meat, poultry, fish mixtures",Proteins,Food,Seafood garden salad with seafood
+"27 Meat, poultry, fish mixtures",Proteins,Food,Oysters Rockefeller
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lomi salmon
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp shish kabob with vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna casserole with vegetables and mushroom sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish and vegetables excluding carrots
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish shish kabob with vegetables
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fried fish with sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lobster with sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Octopus salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Codfish salad
+"27 Meat, poultry, fish mixtures",Proteins,Food,Lau lau
+"27 Meat, poultry, fish mixtures",Proteins,Food,Gumbo
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish sauce
+"27 Meat, poultry, fish mixtures",Proteins,Food,Biryani with meat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Biryani with chicken
+"27 Meat, poultry, fish mixtures",Proteins,Food,Paella with seafood
+"27 Meat, poultry, fish mixtures",Proteins,Food,Paella
+"27 Meat, poultry, fish mixtures",Proteins,Food,Jambalaya with meat and rice
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef chow mein or chop suey with noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork chow mein or chop suey with noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey chow mein or chop suey with noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp chow mein or chop suey with noodles
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chow mein or chop suey
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef chow mein or chop suey
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork chow mein or chop suey
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken or turkey chow mein or chop suey
+"27 Meat, poultry, fish mixtures",Proteins,Food,Shrimp chow mein or chop suey
+"27 Meat, poultry, fish mixtures",Proteins,Food,Beef taco filling: beef
+"27 Meat, poultry, fish mixtures",Proteins,Food,Greens with ham or pork
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sandwich wrap
+"27 Meat, poultry, fish mixtures",Proteins,Food,Corned beef sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Corned beef sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Reuben sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Roast beef sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Roast beef sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,French dip sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham sandwich or sub
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham sandwich wrap
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham salad sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Ham salad sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Bacon
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey sandwich or sub
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey sandwich wrap
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken deli sandwich or sub
+"27 Meat, poultry, fish mixtures",Proteins,Food,Club sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Club sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Club sandwich or sub
+"27 Meat, poultry, fish mixtures",Proteins,Food,Bologna sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Bologna sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Salami sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Salami sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Italian sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Italian sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Italian sandwich or sub
+"27 Meat, poultry, fish mixtures",Proteins,Food,Italian sausage sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Spam sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Multiple meat sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Multiple meat sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Multiple meat sandwich or sub
+"27 Meat, poultry, fish mixtures",Proteins,Food,Multiple meat sandwich wrap
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey and ham sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey and ham sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey and ham sandwich or sub
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sloppy joe sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue beef sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meatball sandwich or sub
+"27 Meat, poultry, fish mixtures",Proteins,Food,Meatloaf sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Steak sandwich or sub on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Steak sandwich or sub on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Cheese steak sandwich or sub on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Cheese steak sandwich or sub on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Gyro sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Cuban sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue rib sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue pork sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pork sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Barbecue chicken sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Cheeseburger slider
+"27 Meat, poultry, fish mixtures",Proteins,Food,Cheeseburger
+"27 Meat, poultry, fish mixtures",Proteins,Food,Cheeseburger (Burger King)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Whopper Jr with cheese (Burger King)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Cheeseburger (McDonalds)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Quarter Pounder (McDonalds)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Whopper with cheese (Burger King)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Quarter Pounder with cheese (McDonalds)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Double cheeseburger
+"27 Meat, poultry, fish mixtures",Proteins,Food,Double cheeseburger (Burger King)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Double cheeseburger (McDonalds)
+"27 Meat, poultry, fish mixtures",Proteins,Food,McDouble (McDonalds)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Big Mac (McDonalds)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Hamburger slider
+"27 Meat, poultry, fish mixtures",Proteins,Food,Hamburger
+"27 Meat, poultry, fish mixtures",Proteins,Food,Hamburger (Burger King)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Whopper Jr (Burger King)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Hamburger (McDonalds)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Whopper (Burger King)
+"27 Meat, poultry, fish mixtures",Proteins,Food,Double hamburger
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chiliburger
+"27 Meat, poultry, fish mixtures",Proteins,Food,Hamburger wrap sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Turkey or chicken burger
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken salad sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken salad sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken salad sandwich wrap
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken fillet sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken fillet biscuit
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chicken fillet wrap sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Crab cake sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Salmon cake sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fried seafood sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Fish wrap sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Sardine sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna salad sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna salad sandwich on wheat
+"27 Meat, poultry, fish mixtures",Proteins,Food,Tuna salad sandwich wrap
+"27 Meat, poultry, fish mixtures",Proteins,Food,Seafood salad sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Corn dog
+"27 Meat, poultry, fish mixtures",Proteins,Food,Pig in a blanket
+"27 Meat, poultry, fish mixtures",Proteins,Food,Italian sausage sandwich on white
+"27 Meat, poultry, fish mixtures",Proteins,Food,Hot dog sandwich
+"27 Meat, poultry, fish mixtures",Proteins,Food,Chili hot dog sandwich
+Proteins,Food,"28 Frozen meals, soups, gravies",
+"28 Frozen meals, soups, gravies",Proteins,Food,Gravy
+"28 Frozen meals, soups, gravies",Proteins,Food,Mole sauce
+"28 Frozen meals, soups, gravies",Proteins,Food,Beef
+"28 Frozen meals, soups, gravies",Proteins,Food,Oxtail soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Beef broth
+"28 Frozen meals, soups, gravies",Proteins,Food,Meatball soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Pho
+"28 Frozen meals, soups, gravies",Proteins,Food,Pepperpot soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Menudo soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Beef vegetable soup with potato
+"28 Frozen meals, soups, gravies",Proteins,Food,Beef vegetable soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Meat and corn hominy soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Italian Wedding Soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Pork vegetable soup with potato
+"28 Frozen meals, soups, gravies",Proteins,Food,Pork with vegetable excluding carrots
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey broth
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey gumbo soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey noodle soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Sweet and sour soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey soup with vegetables
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey corn soup with noodles
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey vegetable soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey vegetable soup with rice
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey vegetable soup with noodles
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey and corn hominy soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Hot and sour soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey soup with vegetables and fruit
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken or turkey soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Fish chowder
+"28 Frozen meals, soups, gravies",Proteins,Food,Clam chowder
+"28 Frozen meals, soups, gravies",Proteins,Food,Fish and vegetable soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Codfish
+"28 Frozen meals, soups, gravies",Proteins,Food,Lobster bisque
+"28 Frozen meals, soups, gravies",Proteins,Food,Shrimp soup
+"28 Frozen meals, soups, gravies",Proteins,Food,Seafood soup with potatoes and vegetables including carrots
+"28 Frozen meals, soups, gravies",Proteins,Food,Seafood soup with potatoes
+"28 Frozen meals, soups, gravies",Proteins,Food,Seafood soup with vegetables including carrots
+"28 Frozen meals, soups, gravies",Proteins,Food,Seafood soup with vegetables excluding carrots
+"28 Frozen meals, soups, gravies",Proteins,Food,Meat broth
+"28 Frozen meals, soups, gravies",Proteins,Food,Frozen dinner
+"28 Frozen meals, soups, gravies",Proteins,Food,Beef dinner
+"28 Frozen meals, soups, gravies",Proteins,Food,Beef with vegetable
+"28 Frozen meals, soups, gravies",Proteins,Food,Salisbury steak dinner
+"28 Frozen meals, soups, gravies",Proteins,Food,Salisbury steak with gravy
+"28 Frozen meals, soups, gravies",Proteins,Food,Meatballs
+"28 Frozen meals, soups, gravies",Proteins,Food,Beef with spaetzle or rice
+"28 Frozen meals, soups, gravies",Proteins,Food,Meat loaf dinner
+"28 Frozen meals, soups, gravies",Proteins,Food,Meat loaf with potatoes
+"28 Frozen meals, soups, gravies",Proteins,Food,Teriyaki chicken with rice and vegetable
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken in soy-based sauce
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken dinner
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken patty
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken with rice and vegetable
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken and vegetables au gratin with rice
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken and vegetable entree with rice
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken with noodles and cheese sauce
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken and vegetable entree with noodles
+"28 Frozen meals, soups, gravies",Proteins,Food,Chicken and vegetable entree with noodles and cream sauce
+"28 Frozen meals, soups, gravies",Proteins,Food,Turkey with vegetable
+"28 Frozen meals, soups, gravies",Proteins,Food,Turkey with gravy
+"28 Frozen meals, soups, gravies",Proteins,Food,Fish in lemon-butter sauce with starch item
+"28 Frozen meals, soups, gravies",Proteins,Food,Shrimp and vegetables in sauce with noodles
+"28 Frozen meals, soups, gravies",Proteins,Food,Lobster gumbo
+"28 Frozen meals, soups, gravies",Proteins,Food,Shrimp gumbo
+"28 Frozen meals, soups, gravies",Proteins,Food,Oyster sauce
+Proteins,Food,31 Eggs,
+31 Eggs,Proteins,Food,Egg
+31 Eggs,Proteins,Food,Duck egg
+31 Eggs,Proteins,Food,Goose egg
+31 Eggs,Proteins,Food,Quail egg
+Proteins,Food,32 Egg mixtures,
+32 Egg mixtures,Proteins,Food,Meringues
+32 Egg mixtures,Proteins,Food,Egg
+32 Egg mixtures,Proteins,Food,Egg salad
+32 Egg mixtures,Proteins,Food,Egg Salad
+32 Egg mixtures,Proteins,Food,Huevos rancheros
+32 Egg mixtures,Proteins,Food,Egg casserole with bread
+32 Egg mixtures,Proteins,Food,Egg omelet or scrambled egg
+32 Egg mixtures,Proteins,Food,Egg white omelet
+32 Egg mixtures,Proteins,Food,Egg white
+32 Egg mixtures,Proteins,Food,Egg drop soup
+32 Egg mixtures,Proteins,Food,Egg foo yung
+32 Egg mixtures,Proteins,Food,Chicken egg foo yung
+32 Egg mixtures,Proteins,Food,Pork egg foo yung
+32 Egg mixtures,Proteins,Food,Shrimp egg foo yung
+32 Egg mixtures,Proteins,Food,Beef egg foo yung
+32 Egg mixtures,Proteins,Food,Egg salad sandwich on white
+32 Egg mixtures,Proteins,Food,Egg salad sandwich on wheat
+Proteins,Food,33 Egg substitutes,
+33 Egg substitutes,Proteins,Food,Egg substitute
+Proteins,Food,41 Legumes,
+41 Legumes,Proteins,Food,Bean dip
+41 Legumes,Proteins,Food,Layer dip
+41 Legumes,Proteins,Food,Hummus
+41 Legumes,Proteins,Food,Black bean sauce
+41 Legumes,Proteins,Food,Bean soup
+41 Legumes,Proteins,Food,Bean with bacon or ham soup
+41 Legumes,Proteins,Food,Black bean soup
+41 Legumes,Proteins,Food,Soybean soup
+41 Legumes,Proteins,Food,Bean and ham soup
+41 Legumes,Proteins,Food,Liquid from stewed kidney beans
+41 Legumes,Proteins,Food,Garbanzo bean or chickpea soup
+41 Legumes,Proteins,Food,Split pea and ham soup
+41 Legumes,Proteins,Food,Split pea soup
+41 Legumes,Proteins,Food,Lentil soup
+41 Legumes,Proteins,Food,Bacon bits
+41 Legumes,Proteins,Food,Tofu and vegetables including carrots
+41 Legumes,Proteins,Food,Tofu and vegetables excluding carrots
+41 Legumes,Proteins,Food,Miso sauce
+41 Legumes,Proteins,Food,Miso
+41 Legumes,Proteins,Food,Natto
+41 Legumes,Proteins,Food,Hoisin sauce
+41 Legumes,Proteins,Food,Soy sauce
+41 Legumes,Proteins,Food,Teriyaki sauce
+41 Legumes,Proteins,Food,Beans
+41 Legumes,Proteins,Food,White beans
+41 Legumes,Proteins,Food,Black beans
+41 Legumes,Proteins,Food,Black beans with meat
+41 Legumes,Proteins,Food,Fava beans
+41 Legumes,Proteins,Food,Lima beans
+41 Legumes,Proteins,Food,Pink beans
+41 Legumes,Proteins,Food,Pinto beans
+41 Legumes,Proteins,Food,Pinto beans with meat
+41 Legumes,Proteins,Food,Kidney beans
+41 Legumes,Proteins,Food,Kidney beans with meat
+41 Legumes,Proteins,Food,Peruvian beans
+41 Legumes,Proteins,Food,Soybeans
+41 Legumes,Proteins,Food,Mung beans
+41 Legumes,Proteins,Food,Baked beans
+41 Legumes,Proteins,Food,Baked beans from fast food / restaurant
+41 Legumes,Proteins,Food,Beans and tomatoes
+41 Legumes,Proteins,Food,Refried beans
+41 Legumes,Proteins,Food,Refried beans with meat
+41 Legumes,Proteins,Food,Beans and franks
+41 Legumes,Proteins,Food,Pork and beans
+41 Legumes,Proteins,Food,Beans with meat
+41 Legumes,Proteins,Food,Blackeyed peas
+41 Legumes,Proteins,Food,Chickpeas
+41 Legumes,Proteins,Food,Split peas
+41 Legumes,Proteins,Food,Wasabi peas
+41 Legumes,Proteins,Food,Lentils
+41 Legumes,Proteins,Food,Dal
+41 Legumes,Proteins,Food,Papad
+41 Legumes,Proteins,Food,Soy nuts
+41 Legumes,Proteins,Food,Edamame
+41 Legumes,Proteins,Food,Black bean salad
+41 Legumes,Proteins,Food,Falafel
+41 Legumes,Proteins,Food,Bean cake
+41 Legumes,Proteins,Food,Chili with beans
+41 Legumes,Proteins,Food,Lentil curry
+41 Legumes,Proteins,Food,Lentil curry with rice
+41 Legumes,Proteins,Food,Swiss steak
+41 Legumes,Proteins,Food,Pot pie
+41 Legumes,Proteins,Food,Vegetarian chili
+41 Legumes,Proteins,Food,Vegetarian stroganoff
+41 Legumes,Proteins,Food,Bean chips
+41 Legumes,Proteins,Food,Soy chips
+41 Legumes,Proteins,Food,Sambar
+41 Legumes,Proteins,Food,Vegetarian stew
+41 Legumes,Proteins,Food,Soybean curd
+41 Legumes,Proteins,Food,Soybean curd cheese
+41 Legumes,Proteins,Food,Yogurt
+41 Legumes,Proteins,Food,Vermicelli
+41 Legumes,Proteins,Food,Textured vegetable protein
+41 Legumes,Proteins,Food,Frozen dessert
+41 Legumes,Proteins,Food,Bacon strip
+41 Legumes,Proteins,Food,Breakfast link
+41 Legumes,Proteins,Food,Chicken
+41 Legumes,Proteins,Food,Hot dog
+41 Legumes,Proteins,Food,Luncheon slice
+41 Legumes,Proteins,Food,Meatball
+41 Legumes,Proteins,Food,Veggie burger patty
+41 Legumes,Proteins,Food,Sandwich spread
+41 Legumes,Proteins,Food,Vegetarian
+41 Legumes,Proteins,Food,Worcestershire sauce
+41 Legumes,Proteins,Food,Veggie burger
+41 Legumes,Proteins,Food,Falafel sandwich
+Proteins,Food,"42 Nuts, nut butters, nut mixtures",
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Coconut milk
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Coconut cream
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Yogurt
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Peanut sauce
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Gravy
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Soy nut butter
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Nuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Almonds
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Brazil nuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Cashews
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Chestnuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Coconut
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Hazelnuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Macadamia nuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Mixed nuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Peanuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Pecans
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Pine nuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Pistachio nuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Walnuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Almond butter
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Almond paste
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Cashew butter
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Peanut butter
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Peanut butter and jelly
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Peanut butter and chocolate spread
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Trail mix
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Trail mix with nuts
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Trail mix with nuts and fruit
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Trail mix with chocolate
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Trail mix with pretzels
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Peanut butter sandwich
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Peanut butter and jelly sandwich
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Almond butter sandwich
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Almond butter and jelly sandwich
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Nutella sandwich on white bread
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Nutella sandwich on wheat bread
+"42 Nuts, nut butters, nut mixtures",Proteins,Food,Coconut water
+Proteins,Food,43 Seeds and seed mixtures,
+43 Seeds and seed mixtures,Proteins,Food,Pumpkin seeds
+43 Seeds and seed mixtures,Proteins,Food,Sunflower seeds
+43 Seeds and seed mixtures,Proteins,Food,Sesame seeds
+43 Seeds and seed mixtures,Proteins,Food,Tahini
+43 Seeds and seed mixtures,Proteins,Food,Flax seeds
+43 Seeds and seed mixtures,Proteins,Food,Mixed seeds
+43 Seeds and seed mixtures,Proteins,Food,Chia seeds
+Proteins,Food,44 Carob products,
+Food,Dairy,,
+Dairy,Food,"11 Milks, milk drinks, yogurts, infant formulas",
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Buttermilk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Goat's milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Kefir
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Chocolate milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Hot chocolate / Cocoa
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Strawberry milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Non-dairy milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Soy milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Almond milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Rice milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Coconut milk
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Yogurt
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Yogurt parfait
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Chipotle dip
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Onion dip
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Ranch dip
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Spinach dip
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Tzatziki dip
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Vegetable dip
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Frozen yogurt
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Frozen yogurt sandwich
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Frozen yogurt bar
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Frozen yogurt cone
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Baby Toddler food
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Baby Toddler yogurt
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Eggnog
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Milk shake
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Milk shake with malt
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Chocolate milk drink
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Licuado or Batido
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Fruit smoothie
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Fruit smoothie juice drink
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Infant formula
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Toddler formula
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Whey
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Cocoa powder
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Chocolate beverage powder
+"11 Milks, milk drinks, yogurts, infant formulas",Dairy,Food,Strawberry beverage powder
+Dairy,Food,12 Creams and cream substitutes,
+12 Creams and cream substitutes,Dairy,Food,Dip
+12 Creams and cream substitutes,Dairy,Food,Chipotle dip
+12 Creams and cream substitutes,Dairy,Food,Onion dip
+12 Creams and cream substitutes,Dairy,Food,Ranch dip
+12 Creams and cream substitutes,Dairy,Food,Spinach dip
+12 Creams and cream substitutes,Dairy,Food,Vegetable dip
+12 Creams and cream substitutes,Dairy,Food,Cream
+12 Creams and cream substitutes,Dairy,Food,Coffee creamer
+12 Creams and cream substitutes,Dairy,Food,Whipped topping
+12 Creams and cream substitutes,Dairy,Food,Sour cream
+Dairy,Food,13 Milk desserts and sauces,
+13 Milk desserts and sauces,Dairy,Food,White sauce or gravy
+13 Milk desserts and sauces,Dairy,Food,Ice cream
+13 Milk desserts and sauces,Dairy,Food,Gelato
+13 Milk desserts and sauces,Dairy,Food,Ice cream bar
+13 Milk desserts and sauces,Dairy,Food,Ice cream candy bar
+13 Milk desserts and sauces,Dairy,Food,Ice cream sandwich
+13 Milk desserts and sauces,Dairy,Food,Ice cream cookie sandwich
+13 Milk desserts and sauces,Dairy,Food,Ice cream cone
+13 Milk desserts and sauces,Dairy,Food,Ice cream sundae
+13 Milk desserts and sauces,Dairy,Food,Banana split
+13 Milk desserts and sauces,Dairy,Food,Light ice cream
+13 Milk desserts and sauces,Dairy,Food,Soft serve
+13 Milk desserts and sauces,Dairy,Food,Light ice cream sandwich
+13 Milk desserts and sauces,Dairy,Food,Light ice cream bar
+13 Milk desserts and sauces,Dairy,Food,Creamsicle
+13 Milk desserts and sauces,Dairy,Food,Fudgesicle
+13 Milk desserts and sauces,Dairy,Food,Light ice cream cone
+13 Milk desserts and sauces,Dairy,Food,Sherbet
+13 Milk desserts and sauces,Dairy,Food,Ice cream soda
+13 Milk desserts and sauces,Dairy,Food,Pudding
+13 Milk desserts and sauces,Dairy,Food,Custard
+13 Milk desserts and sauces,Dairy,Food,Flan
+13 Milk desserts and sauces,Dairy,Food,Creme brulee
+13 Milk desserts and sauces,Dairy,Food,Firni
+13 Milk desserts and sauces,Dairy,Food,Banana pudding
+13 Milk desserts and sauces,Dairy,Food,Mousse
+13 Milk desserts and sauces,Dairy,Food,Dulce de leche
+13 Milk desserts and sauces,Dairy,Food,Barfi or Burfi
+13 Milk desserts and sauces,Dairy,Food,Trifle
+13 Milk desserts and sauces,Dairy,Food,Tiramisu
+Dairy,Food,14 Cheeses,
+14 Cheeses,Dairy,Food,Artichoke dip
+14 Cheeses,Dairy,Food,Spinach and artichoke dip
+14 Cheeses,Dairy,Food,Seafood dip
+14 Cheeses,Dairy,Food,Cheese dip with chili pepper
+14 Cheeses,Dairy,Food,Cheese dip
+14 Cheeses,Dairy,Food,Cheese fondue
+14 Cheeses,Dairy,Food,Welsh rarebit
+14 Cheeses,Dairy,Food,Cheese sauce
+14 Cheeses,Dairy,Food,Alfredo sauce
+14 Cheeses,Dairy,Food,Alfredo sauce with added vegetables
+14 Cheeses,Dairy,Food,Alfredo sauce with meat
+14 Cheeses,Dairy,Food,Alfredo sauce with meat and added vegetables
+14 Cheeses,Dairy,Food,Alfredo sauce with poultry
+14 Cheeses,Dairy,Food,Alfredo sauce with poultry and added vegetables
+14 Cheeses,Dairy,Food,Alfredo sauce with seafood
+14 Cheeses,Dairy,Food,Alfredo sauce with seafood and added vegetables
+14 Cheeses,Dairy,Food,Cream cheese
+14 Cheeses,Dairy,Food,Cream cheese spread
+14 Cheeses,Dairy,Food,Cheese spread
+14 Cheeses,Dairy,Food,Cheese
+14 Cheeses,Dairy,Food,Queso Anejo
+14 Cheeses,Dairy,Food,Queso Asadero
+14 Cheeses,Dairy,Food,Queso Fresco
+14 Cheeses,Dairy,Food,Queso cotija
+14 Cheeses,Dairy,Food,Imitation cheese
+14 Cheeses,Dairy,Food,Cheese ball
+14 Cheeses,Dairy,Food,Mozzarella sticks
+14 Cheeses,Dairy,Food,Cottage cheese
+14 Cheeses,Dairy,Food,Puerto Rican white cheese
+14 Cheeses,Dairy,Food,Topping from cheese pizza
+14 Cheeses,Dairy,Food,Topping from vegetable pizza
+14 Cheeses,Dairy,Food,Topping from meat pizza
+14 Cheeses,Dairy,Food,Topping from meat and vegetable pizza
+14 Cheeses,Dairy,Food,Cheese souffle
+14 Cheeses,Dairy,Food,Cheese sandwich
+14 Cheeses,Dairy,Food,Grilled cheese sandwich
+14 Cheeses,Dairy,Food,Mozzarella cheese
+14 Cheeses,Dairy,Food,Cheddar cheese soup
+Food,Grains,,
+Grains,Food,50 Flour and dry mixes,
+Grains,Food,"51 Yeast breads, rolls",
+"51 Yeast breads, rolls",Grains,Food,Bruschetta
+"51 Yeast breads, rolls",Grains,Food,Bread
+"51 Yeast breads, rolls",Grains,Food,Focaccia
+"51 Yeast breads, rolls",Grains,Food,Garlic bread
+"51 Yeast breads, rolls",Grains,Food,Injera
+"51 Yeast breads, rolls",Grains,Food,Roll
+"51 Yeast breads, rolls",Grains,Food,Breadsticks
+"51 Yeast breads, rolls",Grains,Food,Pan dulce
+"51 Yeast breads, rolls",Grains,Food,Pan Dulce
+"51 Yeast breads, rolls",Grains,Food,Coffee cake
+"51 Yeast breads, rolls",Grains,Food,Croissant
+"51 Yeast breads, rolls",Grains,Food,Brioche
+"51 Yeast breads, rolls",Grains,Food,Pannetone
+"51 Yeast breads, rolls",Grains,Food,Bagel
+"51 Yeast breads, rolls",Grains,Food,Muffin
+"51 Yeast breads, rolls",Grains,Food,Bread stuffing
+"51 Yeast breads, rolls",Grains,Food,Bread stuffing made with egg
+"51 Yeast breads, rolls",Grains,Food,Croutons
+"51 Yeast breads, rolls",Grains,Food,Melba toast
+"51 Yeast breads, rolls",Grains,Food,Zwieback toast
+"51 Yeast breads, rolls",Grains,Food,Anisette toast
+Grains,Food,52 Quick breads,
+52 Quick breads,Grains,Food,Cornbread stuffing
+52 Quick breads,Grains,Food,Biscuit
+52 Quick breads,Grains,Food,Biscuit with fruit
+52 Quick breads,Grains,Food,Scone
+52 Quick breads,Grains,Food,Cornbread
+52 Quick breads,Grains,Food,Cornbread muffin
+52 Quick breads,Grains,Food,Corn flour patty or tart
+52 Quick breads,Grains,Food,Corn pone
+52 Quick breads,Grains,Food,Hush puppy
+52 Quick breads,Grains,Food,Johnnycake
+52 Quick breads,Grains,Food,Spoonbread
+52 Quick breads,Grains,Food,Arepa Dominicana
+52 Quick breads,Grains,Food,Muffin
+52 Quick breads,Grains,Food,Popover
+52 Quick breads,Grains,Food,Bread
+52 Quick breads,Grains,Food,Gordita/sope shell
+52 Quick breads,Grains,Food,Tortilla
+52 Quick breads,Grains,Food,Taco shell
+Grains,Food,"53 Cakes, cookies, pies, pastries, bars",
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cake or cupcake
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cake
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cheesecake
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Snack cake
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Ice cream cake
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Pie
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Tart
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Dessert pizza
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Pie shell
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cobbler
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Crisp
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Strudel
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Baklava
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Basbousa
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Turnover
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Empanada
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Fritter
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cream puff
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Sopaipilla
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Sopaipilla with syrup or honey
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Tamale
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Pastry
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cheese pastry puffs
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Breakfast pastry
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Danish pastry
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Doughnut
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Doughnut holes
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Churros
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Beignet
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Breakfast tart
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Coffee cake
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cookie
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cookie bar
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Pocky
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Marie biscuit
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cookies
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Crepe
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (General Mills Fiber One Chewy Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Kellogg's Nutri-Grain Cereal Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Kellogg's Nutri-Grain Yogurt Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Kellogg's Nutri-Grain Fruit and Nut Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Milk 'n Cereal bar
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Kellogg's Special K bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (KIND Fruit and Nut Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (General Mills Nature Valley Chewy Trail Mix)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (General Mills Nature Valley Sweet and Salty Granola Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (General Mills Nature Valley Crunchy Granola Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Quaker Chewy Granola Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Quaker Chewy 90 Calorie Granola Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Quaker Chewy 25% Less Sugar Granola Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Quaker Chewy Dipps Granola Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Quaker Granola Bites)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Snack bar
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or Granola bar
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar with nuts
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Breakfast bar
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Kashi Chewy)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Cereal or granola bar (Kashi Crunchy)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (Balance Original Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (Clif Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (Clif Kids Organic Zbar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (PowerBar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (Slim Fast Original Meal Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (Snickers Marathon Protein Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (South Beach Living Meal Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (South Beach Living High Protein Bar)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (Tiger's Milk)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar (Zone Perfect Classic Crunch)
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Nutrition bar or meal replacement bar
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Baby Toddler snack
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Baby Toddler bar
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Baby Toddler cookie
+"53 Cakes, cookies, pies, pastries, bars",Grains,Food,Baby Toddler biscuit
+Grains,Food,"54 Crackers, snack products",
+"54 Crackers, snack products",Grains,Food,Chips
+"54 Crackers, snack products",Grains,Food,Corn nuts
+"54 Crackers, snack products",Grains,Food,Corn chips
+"54 Crackers, snack products",Grains,Food,Cheese flavored corn snacks
+"54 Crackers, snack products",Grains,Food,Tortilla chips
+"54 Crackers, snack products",Grains,Food,Cheese flavored corn snacks (Cheetos)
+"54 Crackers, snack products",Grains,Food,Popcorn chips
+"54 Crackers, snack products",Grains,Food,Onion flavored rings
+"54 Crackers, snack products",Grains,Food,Shrimp chips
+"54 Crackers, snack products",Grains,Food,Multigrain chips (Sun Chips)
+"54 Crackers, snack products",Grains,Food,Cracker chips
+"54 Crackers, snack products",Grains,Food,Crackers
+"54 Crackers, snack products",Grains,Food,Rice cake
+"54 Crackers, snack products",Grains,Food,Popcorn cake
+"54 Crackers, snack products",Grains,Food,Rice paper
+"54 Crackers, snack products",Grains,Food,Pita chips
+"54 Crackers, snack products",Grains,Food,Bagel chips
+"54 Crackers, snack products",Grains,Food,Graham crackers
+"54 Crackers, snack products",Grains,Food,Graham crackers (Teddy Grahams)
+"54 Crackers, snack products",Grains,Food,Baby Toddler crackers
+"54 Crackers, snack products",Grains,Food,Baby Toddler puffs
+"54 Crackers, snack products",Grains,Food,Baby Toddler crunchies
+"54 Crackers, snack products",Grains,Food,Baby Toddler wheels
+"54 Crackers, snack products",Grains,Food,Snack mix
+"54 Crackers, snack products",Grains,Food,Pretzels
+"54 Crackers, snack products",Grains,Food,Pretzel chips
+"54 Crackers, snack products",Grains,Food,Potato chips
+"54 Crackers, snack products",Grains,Food,Popcorn
+Grains,Food,"55 Pancakes, waffles, French toast, other grain products",
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Cake made with glutinous rice
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Idli
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Cake made with glutinous rice and dried beans
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Funnel cake with sugar
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Funnel cake with sugar and fruit
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Dumpling
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Pancakes
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Waffle
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,French toast
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,French toast sticks
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Crepe
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Chinese pancake
+"55 Pancakes, waffles, French toast, other grain products",Grains,Food,Dosa
+Grains,Food,"56 Pastas, rice, cooked cereals",
+"56 Pastas, rice, cooked cereals",Grains,Food,Noodles
+"56 Pastas, rice, cooked cereals",Grains,Food,Pasta
+"56 Pastas, rice, cooked cereals",Grains,Food,Long rice noodles
+"56 Pastas, rice, cooked cereals",Grains,Food,Rice noodles
+"56 Pastas, rice, cooked cereals",Grains,Food,Barley
+"56 Pastas, rice, cooked cereals",Grains,Food,Buckwheat groats
+"56 Pastas, rice, cooked cereals",Grains,Food,Millet
+"56 Pastas, rice, cooked cereals",Grains,Food,Quinoa
+"56 Pastas, rice, cooked cereals",Grains,Food,Bulgur
+"56 Pastas, rice, cooked cereals",Grains,Food,Couscous
+"56 Pastas, rice, cooked cereals",Grains,Food,Cereal
+"56 Pastas, rice, cooked cereals",Grains,Food,Grits
+"56 Pastas, rice, cooked cereals",Grains,Food,Cornmeal mush
+"56 Pastas, rice, cooked cereals",Grains,Food,Masa harina
+"56 Pastas, rice, cooked cereals",Grains,Food,Cream of rice
+"56 Pastas, rice, cooked cereals",Grains,Food,Cream of wheat
+"56 Pastas, rice, cooked cereals",Grains,Food,Whole wheat cereal
+"56 Pastas, rice, cooked cereals",Grains,Food,Wheat cereal
+"56 Pastas, rice, cooked cereals",Grains,Food,Oat bran cereal
+"56 Pastas, rice, cooked cereals",Grains,Food,Oatmeal
+"56 Pastas, rice, cooked cereals",Grains,Food,Rice
+"56 Pastas, rice, cooked cereals",Grains,Food,Congee
+"56 Pastas, rice, cooked cereals",Grains,Food,Yellow rice
+Grains,Food,"57 Cereals, not cooked",
+"57 Cereals, not cooked",Grains,Food,Wheat germ
+"57 Cereals, not cooked",Grains,Food,Wheat bran
+"57 Cereals, not cooked",Grains,Food,Oats
+"57 Cereals, not cooked",Grains,Food,Cereal
+"57 Cereals, not cooked",Grains,Food,Baby Toddler cereal
+Grains,Food,"58 Grain mixtures, frozen meals, soups",
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza with cheese and extra vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza with pepperoni
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza with meat other than pepperoni
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza with extra meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza with meat and vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza with extra meat and extra vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza with meat and fruit
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza with beans and vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,White pizza
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Calzone
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pizza rolls
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Soupy rice with chicken
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Soupy rice mixture with chicken and potatoes
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Noodle soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Barley soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Beef noodle soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chicken or turkey noodle soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chicken or turkey rice soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Matzo ball soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chicken or turkey soup with dumplings and potatoes
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chicken or turkey soup with dumplings
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Instant soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Wonton soup
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Noodle soup with vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Sopa Seca de Fideo
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Sopa de Fideo Aguada
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Sopa seca de arroz
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Sopa de tortilla
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Kibby
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Hayacas
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pancakes and sausage
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chicken cornbread
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Adobo
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Bacalaitos fritos
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Bibimbap
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Dukboki or Tteokbokki
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice with chicken
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Paella with meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Seafood paella
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Stewed rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice with squid
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Fried rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice with vienna sausage
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice with Spanish sausage
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice with onions
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice with stewed beans
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Congee
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Biryani with vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Grape leaves stuffed with rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice croquette
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice pilaf
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Dirty rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Flavored rice mixture
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Flavored rice mixture with cheese
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Flavored rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Flavored rice and pasta mixture
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Spanish rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Spanish rice with ground beef
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice dressing
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice with raisins
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Rice dessert or salad with fruit
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chow fun noodles with meat and vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chow fun noodles with vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Lo mein
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pad Thai
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pad Thai with chicken
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pad Thai with seafood
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pad Thai with meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Yat Ga Mein with meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Taco or tostada salad with meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Taco or tostada salad with chicken
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Taco or tostada salad
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Taco or tostada salad with meat and sour cream
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Taco or tostada salad with chicken and sour cream
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Taco
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Burrito
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Quesadilla
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Taquito
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Breakfast pizza with egg
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Biscuit with gravy
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Beans and rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Kidney beans and rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Black beans and rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pinto beans and rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Beans and white rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Kidney beans and white rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Black beans and white rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pinto beans and white rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Beans and brown rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Kidney beans and brown rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Black beans and brown rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pinto beans and brown rice
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Stuffed pepper
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Stuffed tomato
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Vegetable sandwich on white
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Vegetable sandwich on wheat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Vegetable sandwich wrap
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Jelly sandwich
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pastry
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Empanada
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Crepe
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pierogi
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Knish
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Spanakopita
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Samosa
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Quiche with meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Spinach quiche
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Cheese quiche
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Turnover or hot pocket
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Turnover
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Turnover or lean pocket
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Turnover or breakfast pocket
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Cornmeal dressing with chicken or turkey and vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Dressing with oysters
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Dressing with chicken or turkey and vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Dressing with meat and vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Vada
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Tabbouleh
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Cornmeal stick
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Dosa
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Upma
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chilaquiles
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Frito pie
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Mexican pizza
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Burrito bowl
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Enchilada
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Tamale
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Tamale casserole with meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Gordita
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Chimichanga
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Fajita
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pupusa
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Nachos
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Egg roll
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Roll with meat and/or shrimp
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Wonton
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Puffs
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Bao bun
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Sushi
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Sushi roll
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Sushi roll tuna
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Gnocchi
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Lasagna with meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Lasagna with meat and spinach
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Lasagna with chicken or turkey
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Lasagna
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Ravioli
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Manicotti
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Stuffed shells
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Tortellini
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Cannelloni
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Spaghetti with corned beef
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni with tuna
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with tomato-based sauce
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with tomato-based sauce and cheese
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with sauce
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with sauce and meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with tomato-based sauce and meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with tomato-based sauce and poultry
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with tomato-based sauce and seafood
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with cream sauce
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with cream sauce and added vegetables
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with cream sauce and meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with cream sauce and poultry
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with cream sauce and seafood
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Pasta with tomato-based sauce and beans or lentils
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Flavored pasta
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad with egg
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad with tuna
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad with crab meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad with shrimp
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad with tuna and egg
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad with chicken
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad with cheese
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or pasta salad with meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Noodle pudding
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Noodles with vegetables in tomato-based sauce
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Spaghetti and meatballs dinner
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Spaghetti with meat sauce
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or noodles with cheese
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or noodles with cheese and tuna
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or noodles with cheese and meat
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or noodles with cheese and tomato
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or noodles with cheese and frankfurters or hot dogs
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or noodles with cheese and egg
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or noodles with cheese and chicken or turkey
+"58 Grain mixtures, frozen meals, soups",Grains,Food,Macaroni or noodles
+Grains,Food,59 Meat substitutes,
+59 Meat substitutes,Grains,Food,Meat substitute
+Food,Fruits,,
+Fruits,Food,"61 Citrus fruits, juices",
+"61 Citrus fruits, juices",Fruits,Food,Lemon juice
+"61 Citrus fruits, juices",Fruits,Food,Lime juice
+"61 Citrus fruits, juices",Fruits,Food,Clementine
+"61 Citrus fruits, juices",Fruits,Food,Grapefruit
+"61 Citrus fruits, juices",Fruits,Food,Kumquat
+"61 Citrus fruits, juices",Fruits,Food,Lemon
+"61 Citrus fruits, juices",Fruits,Food,Lime
+"61 Citrus fruits, juices",Fruits,Food,Orange
+"61 Citrus fruits, juices",Fruits,Food,Tangerine
+"61 Citrus fruits, juices",Fruits,Food,Lemon pie filling
+"61 Citrus fruits, juices",Fruits,Food,Grapefruit juice
+"61 Citrus fruits, juices",Fruits,Food,Orange juice
+"61 Citrus fruits, juices",Fruits,Food,Tangerine juice
+"61 Citrus fruits, juices",Fruits,Food,Fruit juice blend
+Fruits,Food,62 Dried fruits,
+62 Dried fruits,Fruits,Food,Fruit mixture
+62 Dried fruits,Fruits,Food,Apple
+62 Dried fruits,Fruits,Food,Apricot
+62 Dried fruits,Fruits,Food,Blueberries
+62 Dried fruits,Fruits,Food,Cherries
+62 Dried fruits,Fruits,Food,Banana chips
+62 Dried fruits,Fruits,Food,Currants
+62 Dried fruits,Fruits,Food,Cranberries
+62 Dried fruits,Fruits,Food,Date
+62 Dried fruits,Fruits,Food,Fig
+62 Dried fruits,Fruits,Food,Mango
+62 Dried fruits,Fruits,Food,Papaya
+62 Dried fruits,Fruits,Food,Peach
+62 Dried fruits,Fruits,Food,Pear
+62 Dried fruits,Fruits,Food,Persimmon
+62 Dried fruits,Fruits,Food,Pineapple
+62 Dried fruits,Fruits,Food,Prune
+62 Dried fruits,Fruits,Food,Raisins
+62 Dried fruits,Fruits,Food,Tamarind
+Fruits,Food,63 Other fruits,
+63 Other fruits,Fruits,Food,Guacamole
+63 Other fruits,Fruits,Food,Guacamole with tomatoes
+63 Other fruits,Fruits,Food,Lime souffle
+63 Other fruits,Fruits,Food,Soup
+63 Other fruits,Fruits,Food,Chutney
+63 Other fruits,Fruits,Food,Cherry pie filling
+63 Other fruits,Fruits,Food,Blueberry pie filling
+63 Other fruits,Fruits,Food,Fruit
+63 Other fruits,Fruits,Food,Apricot
+63 Other fruits,Fruits,Food,Starfruit
+63 Other fruits,Fruits,Food,Cherries
+63 Other fruits,Fruits,Food,Dragon fruit
+63 Other fruits,Fruits,Food,Fig
+63 Other fruits,Fruits,Food,Guava
+63 Other fruits,Fruits,Food,Kiwi fruit
+63 Other fruits,Fruits,Food,Lychee
+63 Other fruits,Fruits,Food,Passion fruit
+63 Other fruits,Fruits,Food,Persimmon
+63 Other fruits,Fruits,Food,Plum
+63 Other fruits,Fruits,Food,Pomegranate
+63 Other fruits,Fruits,Food,Rhubarb
+63 Other fruits,Fruits,Food,Tamarind
+63 Other fruits,Fruits,Food,Ambrosia
+63 Other fruits,Fruits,Food,Fruit salad
+63 Other fruits,Fruits,Food,Fruit cocktail
+63 Other fruits,Fruits,Food,Fruit mixture
+63 Other fruits,Fruits,Food,Apple salad with dressing
+63 Other fruits,Fruits,Food,Pineapple salad with dressing
+63 Other fruits,Fruits,Food,Apple
+63 Other fruits,Fruits,Food,Applesauce
+63 Other fruits,Fruits,Food,Apple pie filling
+63 Other fruits,Fruits,Food,Avocado
+63 Other fruits,Fruits,Food,Banana
+63 Other fruits,Fruits,Food,Cantaloupe
+63 Other fruits,Fruits,Food,Honeydew melon
+63 Other fruits,Fruits,Food,Watermelon
+63 Other fruits,Fruits,Food,Grapes
+63 Other fruits,Fruits,Food,Mango
+63 Other fruits,Fruits,Food,Papaya
+63 Other fruits,Fruits,Food,Nectarine
+63 Other fruits,Fruits,Food,Peach
+63 Other fruits,Fruits,Food,Pear
+63 Other fruits,Fruits,Food,Pineapple
+63 Other fruits,Fruits,Food,Berries
+63 Other fruits,Fruits,Food,Blackberries
+63 Other fruits,Fruits,Food,Blueberries
+63 Other fruits,Fruits,Food,Bluberries
+63 Other fruits,Fruits,Food,Cranberries
+63 Other fruits,Fruits,Food,Cranberry sauce
+63 Other fruits,Fruits,Food,Raspberries
+63 Other fruits,Fruits,Food,Strawberries
+63 Other fruits,Fruits,Food,Frozen fruit juice bar
+63 Other fruits,Fruits,Food,Sorbet
+Fruits,Food,64 Fruit juices and nectars excluding citrus,
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Fruit smoothie
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Fruit smoothie juice drink
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Vinegar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Fruit nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Apricot nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Banana nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Cantaloupe nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Guava nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Mango nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Peach nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Papaya nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Passion fruit nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Pear nectar
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Soursop
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Fruit juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Fruit juice blend
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Cranberry juice blend
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Blackberry juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Blueberry juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Cranberry juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Grape juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Papaya juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Passion fruit juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Pineapple juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Pomegranate juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Prune juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Strawberry juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Watermelon juice
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Apple cider
+64 Fruit juices and nectars excluding citrus,Fruits,Food,Apple juice
+Fruits,Food,67 Fruits and juices baby food,
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler fruit
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler fruit and vegetables
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler fruit and meat
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler juice
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler pudding
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler yogurt melts
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler multiple fruit
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler apples
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler bananas
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler peaches
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler pears
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler prunes
+67 Fruits and juices baby food,Fruits,Food,Baby Toddler mangoes
+Food,Vegetables,,
+Vegetables,Food,"71 White potatoes, starchy vegetables",
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato soup
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato and cheese soup
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato chowder
+"71 White potatoes, starchy vegetables",Vegetables,Food,Plantain soup
+"71 White potatoes, starchy vegetables",Vegetables,Food,Vegetable chips
+"71 White potatoes, starchy vegetables",Vegetables,Food,Plantain chips
+"71 White potatoes, starchy vegetables",Vegetables,Food,Taro chips
+"71 White potatoes, starchy vegetables",Vegetables,Food,Casabe
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato chips
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato sticks
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato only from Puerto Rican mixed dishes
+"71 White potatoes, starchy vegetables",Vegetables,Food,Stewed potatoes
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato from Puerto Rican style stuffed pot roast
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato from Puerto Rican beef stew
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato from Puerto Rican chicken fricassee
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato salad with egg
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato salad
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato pancake
+"71 White potatoes, starchy vegetables",Vegetables,Food,Lefse
+"71 White potatoes, starchy vegetables",Vegetables,Food,Stewed potatoes with tomatoes
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato skins without topping
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato skins
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato patty
+"71 White potatoes, starchy vegetables",Vegetables,Food,Potato tots
+"71 White potatoes, starchy vegetables",Vegetables,Food,Plantain
+"71 White potatoes, starchy vegetables",Vegetables,Food,Ripe plantain
+"71 White potatoes, starchy vegetables",Vegetables,Food,Green banana
+"71 White potatoes, starchy vegetables",Vegetables,Food,Cassava
+"71 White potatoes, starchy vegetables",Vegetables,Food,Dasheen
+"71 White potatoes, starchy vegetables",Vegetables,Food,Taro
+"71 White potatoes, starchy vegetables",Vegetables,Food,Fufu
+"71 White potatoes, starchy vegetables",Vegetables,Food,Yuca fries
+Vegetables,Food,72 Dark-green vegetables,
+72 Dark-green vegetables,Vegetables,Food,Broccoli soup
+72 Dark-green vegetables,Vegetables,Food,Broccoli cheese soup
+72 Dark-green vegetables,Vegetables,Food,Spinach soup
+72 Dark-green vegetables,Vegetables,Food,Dark-green leafy vegetable soup with meat
+72 Dark-green vegetables,Vegetables,Food,Dark-green leafy vegetable soup
+72 Dark-green vegetables,Vegetables,Food,Beet greens
+72 Dark-green vegetables,Vegetables,Food,Chard
+72 Dark-green vegetables,Vegetables,Food,Collards
+72 Dark-green vegetables,Vegetables,Food,Cress
+72 Dark-green vegetables,Vegetables,Food,Dandelion greens
+72 Dark-green vegetables,Vegetables,Food,Escarole
+72 Dark-green vegetables,Vegetables,Food,Greens
+72 Dark-green vegetables,Vegetables,Food,Kale
+72 Dark-green vegetables,Vegetables,Food,Lambsquarter
+72 Dark-green vegetables,Vegetables,Food,Mustard greens
+72 Dark-green vegetables,Vegetables,Food,Poke greens
+72 Dark-green vegetables,Vegetables,Food,Taro leaves
+72 Dark-green vegetables,Vegetables,Food,Turnip greens
+72 Dark-green vegetables,Vegetables,Food,Turrnip greens
+72 Dark-green vegetables,Vegetables,Food,Watercress
+72 Dark-green vegetables,Vegetables,Food,Bitter melon
+72 Dark-green vegetables,Vegetables,Food,Sweet potato
+72 Dark-green vegetables,Vegetables,Food,Spinach souffle
+72 Dark-green vegetables,Vegetables,Food,Spinach and cheese casserole
+72 Dark-green vegetables,Vegetables,Food,Palak Paneer
+72 Dark-green vegetables,Vegetables,Food,Channa Saag
+72 Dark-green vegetables,Vegetables,Food,Broccoli casserole with noodles
+72 Dark-green vegetables,Vegetables,Food,Broccoli casserole with rice
+72 Dark-green vegetables,Vegetables,Food,Fried broccoli
+72 Dark-green vegetables,Vegetables,Food,Broccoli raab
+72 Dark-green vegetables,Vegetables,Food,Broccoli
+72 Dark-green vegetables,Vegetables,Food,Romaine lettuce
+72 Dark-green vegetables,Vegetables,Food,Caesar salad
+72 Dark-green vegetables,Vegetables,Food,Radicchio
+72 Dark-green vegetables,Vegetables,Food,Spinach
+Vegetables,Food,73 Orange vegetables,
+73 Orange vegetables,Vegetables,Food,Carrots
+73 Orange vegetables,Vegetables,Food,Squash
+73 Orange vegetables,Vegetables,Food,Sweet potato chips
+73 Orange vegetables,Vegetables,Food,Peas and carrots
+73 Orange vegetables,Vegetables,Food,Sweet potato fries
+73 Orange vegetables,Vegetables,Food,Sweet potato tots
+73 Orange vegetables,Vegetables,Food,Beet juice
+73 Orange vegetables,Vegetables,Food,Carrot juice
+73 Orange vegetables,Vegetables,Food,Pumpkin
+73 Orange vegetables,Vegetables,Food,Winter squash
+73 Orange vegetables,Vegetables,Food,Sweet potato
+Vegetables,Food,"74 Tomatoes, tomato mixtures",
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Enchilada sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Salsa verde or salsa
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato aspic
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato and cucumber salad made with tomato
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato soup
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato beef soup
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato noodle soup
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato vegetable soup
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato vegetable soup with noodles
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Spaghetti sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Spaghetti sauce with added vegetables
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Vodka sauce with tomatoes and cream
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomatoes
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Hot Thai sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Buffalo sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Puerto Rican seasoning with ham
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Puerto Rican seasoning with ham and tomato sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Puerto Rican seasoning without ham and tomato sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato sandwich on white
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato sandwich on wheat
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Fried green tomatoes
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato juice
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato juice cocktail
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato and vegetable juice
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Sun-dried tomatoes
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Ketchup
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Tomato chili sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Salsa
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Taco sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Barbecue sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Steak sauce
+"74 Tomatoes, tomato mixtures",Vegetables,Food,Cocktail sauce
+Vegetables,Food,75 Other vegetables,
+75 Other vegetables,Vegetables,Food,Eggplant dip
+75 Other vegetables,Vegetables,Food,Basil
+75 Other vegetables,Vegetables,Food,Chives
+75 Other vegetables,Vegetables,Food,Cilantro
+75 Other vegetables,Vegetables,Food,Parsley
+75 Other vegetables,Vegetables,Food,Seaweed
+75 Other vegetables,Vegetables,Food,Yeast
+75 Other vegetables,Vegetables,Food,Vegetable mixture
+75 Other vegetables,Vegetables,Food,Broccoli salad with cauliflower
+75 Other vegetables,Vegetables,Food,Broccoli slaw salad
+75 Other vegetables,Vegetables,Food,Coleslaw
+75 Other vegetables,Vegetables,Food,Cabbage salad
+75 Other vegetables,Vegetables,Food,Cucumber and vegetable namasu
+75 Other vegetables,Vegetables,Food,Cucumber salad
+75 Other vegetables,Vegetables,Food,Cucumber salad made with cucumber and vinegar
+75 Other vegetables,Vegetables,Food,Bean salad
+75 Other vegetables,Vegetables,Food,Pea salad
+75 Other vegetables,Vegetables,Food,Pea salad with cheese
+75 Other vegetables,Vegetables,Food,Asparagus soup
+75 Other vegetables,Vegetables,Food,Borscht
+75 Other vegetables,Vegetables,Food,Cabbage soup
+75 Other vegetables,Vegetables,Food,Cabbage with meat soup
+75 Other vegetables,Vegetables,Food,Kimchi soup
+75 Other vegetables,Vegetables,Food,Celery soup
+75 Other vegetables,Vegetables,Food,Gazpacho
+75 Other vegetables,Vegetables,Food,Mushroom soup
+75 Other vegetables,Vegetables,Food,Onion soup
+75 Other vegetables,Vegetables,Food,Pea soup
+75 Other vegetables,Vegetables,Food,Vegetable soup
+75 Other vegetables,Vegetables,Food,Seaweed soup
+75 Other vegetables,Vegetables,Food,Vegetable noodle soup
+75 Other vegetables,Vegetables,Food,Minestrone soup
+75 Other vegetables,Vegetables,Food,Vegetable beef soup
+75 Other vegetables,Vegetables,Food,Vegetable rice soup
+75 Other vegetables,Vegetables,Food,Vegetable beef soup with noodles or pasta
+75 Other vegetables,Vegetables,Food,Vegetable beef soup with rice
+75 Other vegetables,Vegetables,Food,Vegetable broth
+75 Other vegetables,Vegetables,Food,Green beans
+75 Other vegetables,Vegetables,Food,Chow mein or chop suey
+75 Other vegetables,Vegetables,Food,Lettuce
+75 Other vegetables,Vegetables,Food,Seven-layer salad
+75 Other vegetables,Vegetables,Food,Greek Salad
+75 Other vegetables,Vegetables,Food,Spinach salad
+75 Other vegetables,Vegetables,Food,Cobb salad
+75 Other vegetables,Vegetables,Food,Ratatouille
+75 Other vegetables,Vegetables,Food,Artichokes
+75 Other vegetables,Vegetables,Food,Green bean casserole
+75 Other vegetables,Vegetables,Food,Corn
+75 Other vegetables,Vegetables,Food,Eggplant parmesan casserole
+75 Other vegetables,Vegetables,Food,Eggplant with cheese and tomato sauce
+75 Other vegetables,Vegetables,Food,Mushrooms
+75 Other vegetables,Vegetables,Food,Squash
+75 Other vegetables,Vegetables,Food,Vegetable stew without meat
+75 Other vegetables,Vegetables,Food,Vegetable curry
+75 Other vegetables,Vegetables,Food,Vegetable curry with rice
+75 Other vegetables,Vegetables,Food,Garlic
+75 Other vegetables,Vegetables,Food,Pepper
+75 Other vegetables,Vegetables,Food,Hot peppers
+75 Other vegetables,Vegetables,Food,Pimiento
+75 Other vegetables,Vegetables,Food,Yeast extract spread
+75 Other vegetables,Vegetables,Food,Horseradish
+75 Other vegetables,Vegetables,Food,Mustard
+75 Other vegetables,Vegetables,Food,Honey mustard dip
+75 Other vegetables,Vegetables,Food,Hot pepper sauce
+75 Other vegetables,Vegetables,Food,Wasabi paste
+75 Other vegetables,Vegetables,Food,Stuffed jalapeno pepper
+75 Other vegetables,Vegetables,Food,Fritter
+75 Other vegetables,Vegetables,Food,Hominy
+75 Other vegetables,Vegetables,Food,Chiles rellenos
+75 Other vegetables,Vegetables,Food,Aloe vera juice drink
+75 Other vegetables,Vegetables,Food,Raw vegetable
+75 Other vegetables,Vegetables,Food,Sprouts
+75 Other vegetables,Vegetables,Food,Alfalfa sprouts
+75 Other vegetables,Vegetables,Food,Artichoke
+75 Other vegetables,Vegetables,Food,Asparagus
+75 Other vegetables,Vegetables,Food,Bean sprouts
+75 Other vegetables,Vegetables,Food,Beets
+75 Other vegetables,Vegetables,Food,Broccoflower
+75 Other vegetables,Vegetables,Food,Brussels sprouts
+75 Other vegetables,Vegetables,Food,Cactus
+75 Other vegetables,Vegetables,Food,Cauliflower
+75 Other vegetables,Vegetables,Food,Celery
+75 Other vegetables,Vegetables,Food,Fennel bulb
+75 Other vegetables,Vegetables,Food,Cucumber
+75 Other vegetables,Vegetables,Food,Eggplant
+75 Other vegetables,Vegetables,Food,Jicama
+75 Other vegetables,Vegetables,Food,Kohlrabi
+75 Other vegetables,Vegetables,Food,Radish
+75 Other vegetables,Vegetables,Food,Rutabaga
+75 Other vegetables,Vegetables,Food,Snowpeas
+75 Other vegetables,Vegetables,Food,Summer squash
+75 Other vegetables,Vegetables,Food,Turnip
+75 Other vegetables,Vegetables,Food,Bamboo shoots
+75 Other vegetables,Vegetables,Food,Bitter melon
+75 Other vegetables,Vegetables,Food,Burdock
+75 Other vegetables,Vegetables,Food,Christophine
+75 Other vegetables,Vegetables,Food,Flowers or blossoms of sesbania
+75 Other vegetables,Vegetables,Food,Lotus root
+75 Other vegetables,Vegetables,Food,Mushroom
+75 Other vegetables,Vegetables,Food,Okra
+75 Other vegetables,Vegetables,Food,Palm hearts
+75 Other vegetables,Vegetables,Food,Parsnips
+75 Other vegetables,Vegetables,Food,Peppers
+75 Other vegetables,Vegetables,Food,Daikon radish
+75 Other vegetables,Vegetables,Food,Salsify
+75 Other vegetables,Vegetables,Food,Snowpea
+75 Other vegetables,Vegetables,Food,Winter melon
+75 Other vegetables,Vegetables,Food,Peppers and onions
+75 Other vegetables,Vegetables,Food,Classic mixed vegetables
+75 Other vegetables,Vegetables,Food,Vegetables
+75 Other vegetables,Vegetables,Food,Broccoli and cauliflower
+75 Other vegetables,Vegetables,Food,Broccoli
+75 Other vegetables,Vegetables,Food,Asian stir fry vegetables
+75 Other vegetables,Vegetables,Food,Jai
+75 Other vegetables,Vegetables,Food,Jalapenos
+75 Other vegetables,Vegetables,Food,Green peas
+75 Other vegetables,Vegetables,Food,Lima beans
+75 Other vegetables,Vegetables,Food,Breadfruit
+75 Other vegetables,Vegetables,Food,Blackeyed peas
+75 Other vegetables,Vegetables,Food,Water Chesnut
+75 Other vegetables,Vegetables,Food,Lima beans and corn
+75 Other vegetables,Vegetables,Food,Peas and corn
+75 Other vegetables,Vegetables,Food,Fried green beans
+75 Other vegetables,Vegetables,Food,Fried cauliflower
+75 Other vegetables,Vegetables,Food,Fried eggplant
+75 Other vegetables,Vegetables,Food,Fried mushrooms
+75 Other vegetables,Vegetables,Food,Fried okra
+75 Other vegetables,Vegetables,Food,Fried onion rings
+75 Other vegetables,Vegetables,Food,Fried summer squash
+75 Other vegetables,Vegetables,Food,Vegetable tempura
+75 Other vegetables,Vegetables,Food,Pakora
+75 Other vegetables,Vegetables,Food,Pickles
+75 Other vegetables,Vegetables,Food,Mixed salad greens
+75 Other vegetables,Vegetables,Food,Mixed vegetable juice
+75 Other vegetables,Vegetables,Food,Celery juice
+75 Other vegetables,Vegetables,Food,Spaghetti squash
+75 Other vegetables,Vegetables,Food,Sauerkraut
+75 Other vegetables,Vegetables,Food,Relish
+75 Other vegetables,Vegetables,Food,Cabbage
+75 Other vegetables,Vegetables,Food,Kimchi
+75 Other vegetables,Vegetables,Food,Ginger root
+75 Other vegetables,Vegetables,Food,Olives
+75 Other vegetables,Vegetables,Food,Olive tapenade
+75 Other vegetables,Vegetables,Food,Radishes
+75 Other vegetables,Vegetables,Food,Zucchini
+75 Other vegetables,Vegetables,Food,Yellow string beans
+75 Other vegetables,Vegetables,Food,Onions
+75 Other vegetables,Vegetables,Food,Leek
+Vegetables,Food,76 Vegetables and mixtures mostly vegetables baby food,
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler vegetables
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler vegetables and meat
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Toddler meal
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler vegetable
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler carrots
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler squash
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler sweet potatoes
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler green beans
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler beets
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler multiple vegetables
+76 Vegetables and mixtures mostly vegetables baby food,Vegetables,Food,Baby Toddler peas
+Vegetables,Food,"77 Vegetables with meat, poultry, fish",
+"77 Vegetables with meat, poultry, fish",Vegetables,Food,Ripe plantain meat pie
+"77 Vegetables with meat, poultry, fish",Vegetables,Food,Cassava Pasteles
+"77 Vegetables with meat, poultry, fish",Vegetables,Food,Puerto Rican pasteles
+"77 Vegetables with meat, poultry, fish",Vegetables,Food,Stuffed cabbage
+"77 Vegetables with meat, poultry, fish",Vegetables,Food,Eggplant and meat casserole
+"77 Vegetables with meat, poultry, fish",Vegetables,Food,Fried stuffed potatoes
+"77 Vegetables with meat, poultry, fish",Vegetables,Food,Green plantain with cracklings
+Vegetables,Food,"78 Mixtures mostly vegetables without meat, poultry, fish",
+"78 Mixtures mostly vegetables without meat, poultry, fish",Vegetables,Food,Fruit and vegetable smoothie
+"78 Mixtures mostly vegetables without meat, poultry, fish",Vegetables,Food,Vegetable smoothie
+"78 Mixtures mostly vegetables without meat, poultry, fish",Vegetables,Food,Vegetable and fruit juice
+Food,Other,,
+Other,Food,81 Fats,
+81 Fats,Other,Food,Garlic sauce
+81 Fats,Other,Food,Lemon-butter sauce
+81 Fats,Other,Food,Hollandaise sauce
+81 Fats,Other,Food,Pesto sauce
+81 Fats,Other,Food,Sauce
+81 Fats,Other,Food,Curry sauce
+81 Fats,Other,Food,Table fat
+81 Fats,Other,Food,Butter
+81 Fats,Other,Food,Butter-oil blend
+81 Fats,Other,Food,Animal fat or drippings
+81 Fats,Other,Food,Lard
+81 Fats,Other,Food,Ghee
+81 Fats,Other,Food,Honey butter
+81 Fats,Other,Food,Horseradish sauce
+81 Fats,Other,Food,Fry sauce
+81 Fats,Other,Food,Margarine
+81 Fats,Other,Food,Margarine-oil blend
+81 Fats,Other,Food,Butter replacement
+81 Fats,Other,Food,Oil or table fat
+81 Fats,Other,Food,Shortening
+81 Fats,Other,Food,Sandwich spread
+81 Fats,Other,Food,Tartar sauce
+Other,Food,82 Oils,
+82 Oils,Other,Food,Vegetable oil
+82 Oils,Other,Food,Almond oil
+82 Oils,Other,Food,Coconut oil
+82 Oils,Other,Food,Corn oil
+82 Oils,Other,Food,Cottonseed oil
+82 Oils,Other,Food,Flaxseed oil
+82 Oils,Other,Food,Olive oil
+82 Oils,Other,Food,Peanut oil
+82 Oils,Other,Food,Canola oil
+82 Oils,Other,Food,Safflower oil
+82 Oils,Other,Food,Sesame oil
+82 Oils,Other,Food,Soybean oil
+82 Oils,Other,Food,Sunflower oil
+82 Oils,Other,Food,Walnut oil
+82 Oils,Other,Food,Wheat germ oil
+Other,Food,83 Salad dressings,
+83 Salad dressings,Other,Food,Salad dressing
+83 Salad dressings,Other,Food,Mayonnaise
+83 Salad dressings,Other,Food,Vegan mayonnaise
+83 Salad dressings,Other,Food,Mayonnaise-type salad dressing
+83 Salad dressings,Other,Food,Blue or roquefort cheese dressing
+83 Salad dressings,Other,Food,Bacon and tomato dressing
+83 Salad dressings,Other,Food,Caesar dressing
+83 Salad dressings,Other,Food,Coleslaw dressing
+83 Salad dressings,Other,Food,French or Catalina dressing
+83 Salad dressings,Other,Food,Honey mustard dressing
+83 Salad dressings,Other,Food,Italian dressing
+83 Salad dressings,Other,Food,Russian dressing
+83 Salad dressings,Other,Food,Avocado dressing
+83 Salad dressings,Other,Food,Creamy Italian dressing
+83 Salad dressings,Other,Food,Poppy seed dressing
+83 Salad dressings,Other,Food,Sesame dressing
+83 Salad dressings,Other,Food,Ranch dressing
+83 Salad dressings,Other,Food,Thousand Island dressing
+83 Salad dressings,Other,Food,Yogurt dressing
+83 Salad dressings,Other,Food,Korean dressing or marinade
+Other,Food,89 ‘For use’ with a sandwich or vegetable,
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Bacon
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Ham
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Beef
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Chicken
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Cream sauce
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Cheese sauce
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Gravy
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Soy based sauce
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Tomato sauce
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Avocado
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Cucumber
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Lettuce
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Mushrooms
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Onions
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Pepper
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Spinach
+89 ‘For use’ with a sandwich or vegetable,Other,Food,Tomatoes
+Other,Food,"91 Sugars, sweets",
+"91 Sugars, sweets",Other,Food,Haupia
+"91 Sugars, sweets",Other,Food,Sweet and sour sauce
+"91 Sugars, sweets",Other,Food,Duck sauce
+"91 Sugars, sweets",Other,Food,Syrup
+"91 Sugars, sweets",Other,Food,Pancake syrup
+"91 Sugars, sweets",Other,Food,Corn syrup
+"91 Sugars, sweets",Other,Food,Blueberry syrup
+"91 Sugars, sweets",Other,Food,Chocolate syrup
+"91 Sugars, sweets",Other,Food,Simple syrup
+"91 Sugars, sweets",Other,Food,Strawberry drink syrup
+"91 Sugars, sweets",Other,Food,Topping
+"91 Sugars, sweets",Other,Food,Chocolate hazelnut spread
+"91 Sugars, sweets",Other,Food,Icing
+"91 Sugars, sweets",Other,Food,Caramel dip
+"91 Sugars, sweets",Other,Food,Chocolate dip
+"91 Sugars, sweets",Other,Food,Dessert dip
+"91 Sugars, sweets",Other,Food,Dessert sauce
+"91 Sugars, sweets",Other,Food,Jam or jelly
+"91 Sugars, sweets",Other,Food,Jelly
+"91 Sugars, sweets",Other,Food,Jam
+"91 Sugars, sweets",Other,Food,Fruit butter
+"91 Sugars, sweets",Other,Food,Marmalade
+"91 Sugars, sweets",Other,Food,Guava paste
+"91 Sugars, sweets",Other,Food,Sweet potato paste
+"91 Sugars, sweets",Other,Food,Bean paste
+"91 Sugars, sweets",Other,Food,Gelatin dessert
+"91 Sugars, sweets",Other,Food,Gelatin dessert with fruit
+"91 Sugars, sweets",Other,Food,Gelatin salad with vegetables
+"91 Sugars, sweets",Other,Food,Yokan
+"91 Sugars, sweets",Other,Food,Italian Ice
+"91 Sugars, sweets",Other,Food,Popsicle
+"91 Sugars, sweets",Other,Food,Freezer pop
+"91 Sugars, sweets",Other,Food,Snow cone
+"91 Sugars, sweets",Other,Food,Sugar
+"91 Sugars, sweets",Other,Food,Honey
+"91 Sugars, sweets",Other,Food,Agave liquid sweetener
+"91 Sugars, sweets",Other,Food,Molasses
+"91 Sugars, sweets",Other,Food,Sugar substitute and sugar blend
+"91 Sugars, sweets",Other,Food,Sugar substitute
+"91 Sugars, sweets",Other,Food,Candy
+"91 Sugars, sweets",Other,Food,White chocolate candy
+"91 Sugars, sweets",Other,Food,Ladoo
+"91 Sugars, sweets",Other,Food,Cough drops
+"91 Sugars, sweets",Other,Food,Chewing gum
+"91 Sugars, sweets",Other,Food,Almonds
+"91 Sugars, sweets",Other,Food,Chocolate candy
+"91 Sugars, sweets",Other,Food,Chocolate candy with nuts
+"91 Sugars, sweets",Other,Food,Chocolate candy with cereal
+"91 Sugars, sweets",Other,Food,Chocolate chips
+"91 Sugars, sweets",Other,Food,Dark chocolate candy
+"91 Sugars, sweets",Other,Food,Dark chocolate candy with nuts
+"91 Sugars, sweets",Other,Food,Chocolate candy with dried fruit
+"91 Sugars, sweets",Other,Food,Peanuts
+Other,Food,92 Nonalcoholic beverages,
+92 Nonalcoholic beverages,Other,Food,Corn beverage
+92 Nonalcoholic beverages,Other,Food,Horchata beverage
+92 Nonalcoholic beverages,Other,Food,Oatmeal beverage with water
+92 Nonalcoholic beverages,Other,Food,Oatmeal beverage with milk
+92 Nonalcoholic beverages,Other,Food,Cornmeal beverage
+92 Nonalcoholic beverages,Other,Food,Cornmeal beverage with chocolate milk
+92 Nonalcoholic beverages,Other,Food,Coffee
+92 Nonalcoholic beverages,Other,Food,Coffee substitute
+92 Nonalcoholic beverages,Other,Food,Tea
+92 Nonalcoholic beverages,Other,Food,Fruit flavored drink
+92 Nonalcoholic beverages,Other,Food,Sports drink
+92 Nonalcoholic beverages,Other,Food,Fruit juice drink
+92 Nonalcoholic beverages,Other,Food,Tamarind drink
+92 Nonalcoholic beverages,Other,Food,Fruit punch
+92 Nonalcoholic beverages,Other,Food,Lemonade
+92 Nonalcoholic beverages,Other,Food,Fruit juice beverage
+92 Nonalcoholic beverages,Other,Food,Frozen daiquiri mix
+92 Nonalcoholic beverages,Other,Food,Pina Colada
+92 Nonalcoholic beverages,Other,Food,Margarita mix
+92 Nonalcoholic beverages,Other,Food,Slush frozen drink
+92 Nonalcoholic beverages,Other,Food,Cranberry juice drink
+92 Nonalcoholic beverages,Other,Food,Vegetable and fruit juice drink
+92 Nonalcoholic beverages,Other,Food,Fruit juice drink (Sunny D)
+92 Nonalcoholic beverages,Other,Food,Grape juice drink
+92 Nonalcoholic beverages,Other,Food,Orange juice beverage
+92 Nonalcoholic beverages,Other,Food,Apple juice beverage
+92 Nonalcoholic beverages,Other,Food,Pomegranate juice beverage
+92 Nonalcoholic beverages,Other,Food,Fruit juice drink (Capri Sun)
+92 Nonalcoholic beverages,Other,Food,Sugar cane beverage
+92 Nonalcoholic beverages,Other,Food,Wine
+92 Nonalcoholic beverages,Other,Food,Nonalcoholic malt beverage
+92 Nonalcoholic beverages,Other,Food,Shirley Temple
+92 Nonalcoholic beverages,Other,Food,Frozen coffee drink
+92 Nonalcoholic beverages,Other,Food,Frozen mocha coffee drink
+92 Nonalcoholic beverages,Other,Food,Iced Coffee
+92 Nonalcoholic beverages,Other,Food,Coffee and chicory
+92 Nonalcoholic beverages,Other,Food,Chicory beverage
+92 Nonalcoholic beverages,Other,Food,Cereal beverage
+92 Nonalcoholic beverages,Other,Food,Cereal beverage with beet roots
+92 Nonalcoholic beverages,Other,Food,Iced Tea / Lemonade juice drink
+92 Nonalcoholic beverages,Other,Food,Soft drink
+92 Nonalcoholic beverages,Other,Food,Water
+Other,Food,93 Alcoholic beverages,
+93 Alcoholic beverages,Other,Food,Beer
+93 Alcoholic beverages,Other,Food,Alcoholic malt beverage
+93 Alcoholic beverages,Other,Food,Hard cider
+93 Alcoholic beverages,Other,Food,Cordial or liqueur
+93 Alcoholic beverages,Other,Food,Cocktail
+93 Alcoholic beverages,Other,Food,Alexander
+93 Alcoholic beverages,Other,Food,Bloody Mary
+93 Alcoholic beverages,Other,Food,Canadian Club and soda
+93 Alcoholic beverages,Other,Food,Cape Cod
+93 Alcoholic beverages,Other,Food,Daiquiri
+93 Alcoholic beverages,Other,Food,Gelatin shot
+93 Alcoholic beverages,Other,Food,Gimlet
+93 Alcoholic beverages,Other,Food,Gin and Tonic
+93 Alcoholic beverages,Other,Food,Greyhound
+93 Alcoholic beverages,Other,Food,Jagerbomb
+93 Alcoholic beverages,Other,Food,Kamikaze
+93 Alcoholic beverages,Other,Food,Manhattan
+93 Alcoholic beverages,Other,Food,Margarita
+93 Alcoholic beverages,Other,Food,Martini
+93 Alcoholic beverages,Other,Food,Mint julep
+93 Alcoholic beverages,Other,Food,Mojito
+93 Alcoholic beverages,Other,Food,Old fashioned
+93 Alcoholic beverages,Other,Food,Orange Blossom
+93 Alcoholic beverages,Other,Food,Rob Roy
+93 Alcoholic beverages,Other,Food,Rusty Nail
+93 Alcoholic beverages,Other,Food,Screwdriver
+93 Alcoholic beverages,Other,Food,Seabreeze
+93 Alcoholic beverages,Other,Food,Seven and Seven
+93 Alcoholic beverages,Other,Food,Tom Collins
+93 Alcoholic beverages,Other,Food,Whiskey sour
+93 Alcoholic beverages,Other,Food,Whiskey and soda
+93 Alcoholic beverages,Other,Food,Whiskey and water
+93 Alcoholic beverages,Other,Food,Whiskey and cola
+93 Alcoholic beverages,Other,Food,Whiskey and diet cola
+93 Alcoholic beverages,Other,Food,Whiskey and ginger ale
+93 Alcoholic beverages,Other,Food,Rum and cola
+93 Alcoholic beverages,Other,Food,Rum and diet cola
+93 Alcoholic beverages,Other,Food,Pina Colada
+93 Alcoholic beverages,Other,Food,Brandy and cola
+93 Alcoholic beverages,Other,Food,Vodka and soda
+93 Alcoholic beverages,Other,Food,Vodka and lemonade
+93 Alcoholic beverages,Other,Food,Vodka and cola
+93 Alcoholic beverages,Other,Food,Vodka and diet cola
+93 Alcoholic beverages,Other,Food,Vodka and energy drink
+93 Alcoholic beverages,Other,Food,Vodka and water
+93 Alcoholic beverages,Other,Food,Vodka and tonic
+93 Alcoholic beverages,Other,Food,Sloe gin fizz
+93 Alcoholic beverages,Other,Food,Black Russian
+93 Alcoholic beverages,Other,Food,White Russian
+93 Alcoholic beverages,Other,Food,Fruit punch
+93 Alcoholic beverages,Other,Food,Singapore Sling
+93 Alcoholic beverages,Other,Food,Mai Tai
+93 Alcoholic beverages,Other,Food,Tequila Sunrise
+93 Alcoholic beverages,Other,Food,Gin Rickey
+93 Alcoholic beverages,Other,Food,Long Island iced tea
+93 Alcoholic beverages,Other,Food,Fuzzy Navel
+93 Alcoholic beverages,Other,Food,Irish Coffee
+93 Alcoholic beverages,Other,Food,Liqueur with cream
+93 Alcoholic beverages,Other,Food,Frozen daiquiri
+93 Alcoholic beverages,Other,Food,Frozen margarita
+93 Alcoholic beverages,Other,Food,Eggnog
+93 Alcoholic beverages,Other,Food,Gin fizz
+93 Alcoholic beverages,Other,Food,Rum
+93 Alcoholic beverages,Other,Food,Glug
+93 Alcoholic beverages,Other,Food,Brandy
+93 Alcoholic beverages,Other,Food,Whiskey
+93 Alcoholic beverages,Other,Food,Scotch
+93 Alcoholic beverages,Other,Food,Gin
+93 Alcoholic beverages,Other,Food,Rum cooler
+93 Alcoholic beverages,Other,Food,Vodka
+93 Alcoholic beverages,Other,Food,Tequila
+93 Alcoholic beverages,Other,Food,Mimosa
+93 Alcoholic beverages,Other,Food,Champagne punch
+93 Alcoholic beverages,Other,Food,Wine
+93 Alcoholic beverages,Other,Food,Wine cooler
+93 Alcoholic beverages,Other,Food,Sangria
+93 Alcoholic beverages,Other,Food,Wine spritzer
+Other,Food,94 Noncarbonated water,
+94 Noncarbonated water,Other,Food,Water
+94 Noncarbonated water,Other,Food,Water beverage
+Other,Food,"95 Formulated nutrition beverages, energy drinks, sports drink",
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Fruit juice
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional drink or shake
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional powder mix (Carnation Instant Breakfast)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional powder mix
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional powder mix (EAS Whey Protein Powder)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional powder mix (EAS Soy Protein Powder)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional powder mix (Isopure)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional powder mix (Kellogg's Special K20 Protein Water)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional powder mix (Muscle Milk)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Nutritional powder mix (Slim Fast)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (Full Throttle)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (Monster)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (Mountain Dew AMP)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (No Fear)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (No Fear Motherload)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (NOS)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (Red Bull)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (Rockstar)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (SoBe Energize Energy Juice Drink)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (Vault)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy Drink
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (Ocean Spray Cran-Energy Juice Drink)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (XS)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink (XS Gold Plus)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Sports drink (Gatorade G)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Sports drink (Powerade)
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Sports drink
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Fluid replacement
+"95 Formulated nutrition beverages, energy drinks, sports drink",Other,Food,Energy drink
+Other,Food,"99 Used as an ingredient, not for coding",
+"99 Used as an ingredient, not for coding",Other,Food,Cheese as ingredient in sandwiches
+"99 Used as an ingredient, not for coding",Other,Food,Cheese and Queso as ingredient
+"99 Used as an ingredient, not for coding",Other,Food,Beef as ingredient in recipes
+"99 Used as an ingredient, not for coding",Other,Food,Breakfast meat as ingredient in omelet
+"99 Used as an ingredient, not for coding",Other,Food,Chicken as ingredient in recipes
+"99 Used as an ingredient, not for coding",Other,Food,Fish fillet
+"99 Used as an ingredient, not for coding",Other,Food,Breading or batter as ingredient in food
+"99 Used as an ingredient, not for coding",Other,Food,Wheat bread as ingredient in sandwiches
+"99 Used as an ingredient, not for coding",Other,Food,Wheat bun as ingredient in sandwiches
+"99 Used as an ingredient, not for coding",Other,Food,Spinach
+"99 Used as an ingredient, not for coding",Other,Food,Broccoli
+"99 Used as an ingredient, not for coding",Other,Food,Carrots
+"99 Used as an ingredient, not for coding",Other,Food,Tomatoes
+"99 Used as an ingredient, not for coding",Other,Food,Onions
+"99 Used as an ingredient, not for coding",Other,Food,Mushrooms
+"99 Used as an ingredient, not for coding",Other,Food,Green pepper
+"99 Used as an ingredient, not for coding",Other,Food,Red pepper
+"99 Used as an ingredient, not for coding",Other,Food,Cabbage
+"99 Used as an ingredient, not for coding",Other,Food,Cauliflower
+"99 Used as an ingredient, not for coding",Other,Food,Eggplant
+"99 Used as an ingredient, not for coding",Other,Food,Green beans
+"99 Used as an ingredient, not for coding",Other,Food,Summer squash
+"99 Used as an ingredient, not for coding",Other,Food,Dark green vegetables as ingredient in omelet
+"99 Used as an ingredient, not for coding",Other,Food,Tomatoes as ingredient in omelet
+"99 Used as an ingredient, not for coding",Other,Food,Other vegetables as ingredient in omelet
+"99 Used as an ingredient, not for coding",Other,Food,Vegetables as ingredient in curry
+"99 Used as an ingredient, not for coding",Other,Food,Sauce as ingredient in hamburgers
+"99 Used as an ingredient, not for coding",Other,Food,Industrial oil as ingredient in food
