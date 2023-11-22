@@ -9,10 +9,7 @@ from hashTable.food_tree import create_food_tree, get_level2_descriptions, get_g
 from anytree import Node, RenderTree, PreOrderIter
 import datetime
 
-def generateRecommendations(request):
-    # 0. Retrieve data from Flask form
-    form_data = dict(request.form)
-
+def generateRecommendations(form_data):
     constraints_mapping = {
         "checkboxSodium": "Sodium/Salt",
         "checkboxSatFat": "Saturated Fat",
@@ -22,10 +19,10 @@ def generateRecommendations(request):
     checked_boxes = ['Price per Serving']  # Always include 'Price per Serving'
 
     for key, value in constraints_mapping.items():
-        if request.form.get(key):
+        if form_data.get(key):
             checked_boxes.append(value)
 
-    print(checked_boxes)
+    # print(checked_boxes)
 
     #Creating Tree: 
     root, name_to_node = create_food_tree(
@@ -34,25 +31,25 @@ def generateRecommendations(request):
     survey_file='survey_fndds_food.csv',
     wweia_file='wweia_food_category.csv')
 
-    chosenItems = request.form['chosenItems']
+    chosenItems = form_data['chosenItems']
     chosenItems = chosenItems.split("#^$")        # pop the last item off the list, which is an empty string
     chosenItems.pop(-1)
-    print(chosenItems)
+    # print(chosenItems)
     food_codes = get_food_codes(chosenItems)
-    print(food_codes)
+    # print(food_codes)
     descriptions = lookup_food_codes_short(food_codes, 'hashTable/mergedFNDDS.csv')
-    print(descriptions)
+    # print(descriptions)
     chosen_item_order = {item: i for i, item in enumerate(descriptions)}
-    print(chosen_item_order)
+    # print(chosen_item_order)
 
     level2_descriptions = get_level2_descriptions(root, name_to_node, descriptions)
-    print(level2_descriptions)
+    # print(level2_descriptions)
     level1_descriptions = get_grandparent_level_descriptions(root, name_to_node, descriptions)
-    print(level1_descriptions)
+    # print(level1_descriptions)
     parent_nodes = get_parent_nodes(name_to_node, descriptions)
-    print(parent_nodes)
+    # print(parent_nodes)
     grandparent_nodes = get_grandparent_nodes(name_to_node, descriptions)
-    print(grandparent_nodes)
+    # print(grandparent_nodes)
 
     chosen_item_order_level2 = {item: i for i, item in enumerate(parent_nodes)}
     chosen_item_order_level1 = {item: i for i, item in enumerate(grandparent_nodes)}

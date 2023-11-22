@@ -46,7 +46,7 @@ def recommendations():
     elif request.method == "POST":
         # TODO: Change appearence of data output dictionary: 
         # data_recommendation = Level3_data_output.to_dict(orient='records')
-        level3_data_output, grouped_data = generateRecommendations(request)
+        level3_data_output, grouped_data = generateRecommendations(dict(request.form))
         data_recommendation = level3_data_output.to_dict(orient='records')
         output_as_html = level3_data_output.to_html()
         # return render_template('recommendations.html', data=data_recommendation, html_output=output_as_html)
