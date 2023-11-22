@@ -1,13 +1,5 @@
 {
   "Main_List": {
-    "Cookie": {
-      "max": 1,
-      "min": 1
-    },
-    "Bread": {
-      "max": 1,
-      "min": 1
-    },
     "Cheese": {
       "max": 1,
       "min": 1

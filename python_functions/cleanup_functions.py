@@ -42,7 +42,7 @@ def dataframe_cleanup(dat):
     # dat['Fatty acids, total saturated'] *= 9
     dat['Saturated Fat'] *= 4
     dat['Added Sugars'] *= 4
-    dat['Price per Serving'] = round(dat['Price'] / dat['No Servings'], 2)
+    # dat['Price per Serving'] = round(dat['Price'] / dat['No Servings'], 2)
 
     return dat
 

@@ -1,0 +1,1781 @@
+ID,Parent_ID,Value
+1,,Food
+2,1.0,Protein
+3,1.0,Dairy
+4,1.0,Vegetable
+5,1.0,Fruit
+6,1.0,Grain
+7,1.0,Other
+8,3.0,Milk
+9,3.0,Flavored Milk
+10,3.0,Dairy Drinks and Substitutes
+11,3.0,Cheese
+12,3.0,Yogurt
+13,8.0,"Milk, whole"
+14,8.0,"Milk, reduced fat"
+15,8.0,"Milk, lowfat"
+16,8.0,"Milk, nonfat"
+17,9.0,"Flavored milk, whole"
+18,9.0,"Flavored milk, reduced fat"
+19,9.0,"Flavored milk, lowfat"
+20,9.0,"Flavored milk, nonfat"
+21,10.0,Milk shakes and other dairy drinks
+22,10.0,Milk substitutes
+23,11.0,Cheese
+24,11.0,Cottage/ricotta cheese
+25,12.0,"Yogurt, regular"
+26,12.0,"Yogurt, Greek"
+27,2.0,Meats
+28,2.0,Poultry
+29,2.0,Seafood
+30,2.0,Eggs
+31,2.0,Cured Meats/Poultry
+32,2.0,Plant-based Protein Foods
+33,27.0,"Beef, excludes ground"
+34,27.0,Ground beef
+35,27.0,Pork
+36,27.0,"Lamb, goat, game"
+37,27.0,Liver and organ meats
+38,28.0,"Chicken, whole pieces"
+39,28.0,"Chicken patties, nuggets and tenders"
+40,28.0,"Turkey, duck, other poultry"
+41,29.0,Fish
+42,29.0,Shellfish
+43,30.0,Eggs and omelets
+44,31.0,Cold cuts and cured meats
+45,31.0,Bacon
+46,31.0,Frankfurters
+47,31.0,Sausages
+48,32.0,"Beans, peas, legumes"
+49,32.0,Nuts and seeds
+50,32.0,Processed soy products
+51,1.0,Mixed Dishes
+52,51.0,"Mixed Dishes - Meat, Poultry, Seafood"
+53,51.0,Mixed Dishes - Bean/Vegetable-based
+54,51.0,Mixed Dishes - Grain-based
+55,51.0,Mixed Dishes - Asian
+56,51.0,Mixed Dishes - Mexican
+57,51.0,Mixed Dishes - Pizza
+58,51.0,Mixed Dishes - Sandwiches (single code)
+59,51.0,Mixed Dishes - Soups
+60,52.0,Meat mixed dishes
+61,52.0,Poultry mixed dishes
+62,52.0,Seafood mixed dishes
+63,53.0,"Bean, pea, legume dishes"
+64,53.0,Vegetable dishes
+65,54.0,Rice mixed dishes
+66,54.0,"Pasta mixed dishes, excludes macaroni and cheese"
+67,54.0,Macaroni and cheese
+68,54.0,Turnovers and other grain-based items
+69,55.0,Fried rice and lo/chow mein
+70,55.0,Stir-fry and soy-based sauce mixtures
+71,55.0,"Egg rolls, dumplings, sushi"
+72,56.0,Burritos and tacos
+73,56.0,Nachos
+74,56.0,Other Mexican mixed dishes
+75,57.0,Pizza
+76,58.0,Burgers
+77,58.0,Frankfurter sandwiches
+78,58.0,Chicken fillet sandwiches
+79,58.0,Egg/breakfast sandwiches
+80,58.0,Other sandwiches (single code)
+81,58.0,Cheese sandwiches
+82,58.0,Peanut butter and jelly sandwiches
+83,58.0,Seafood sandwiches
+84,59.0,Soups
+85,6.0,Cooked Grains
+86,6.0,"Breads, Rolls, Tortillas"
+87,6.0,Quick Breads and Bread Products
+88,6.0,Ready-to-Eat Cereals
+89,6.0,Cooked Cereals
+90,85.0,Rice
+91,85.0,"Pasta, noodles, cooked grains"
+92,86.0,Yeast breads
+93,86.0,Rolls and buns
+94,86.0,Bagels and English muffins
+95,86.0,Tortillas
+96,87.0,"Biscuits, muffins, quick breads"
+97,87.0,"Pancakes, waffles, French toast"
+98,88.0,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+99,88.0,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+100,89.0,Oatmeal
+101,89.0,Grits and other cooked cereals
+102,1.0,Snacks and Sweets
+103,102.0,Savory Snacks
+104,102.0,Crackers
+105,102.0,Snack/Meal Bars
+106,102.0,Sweet Bakery Products
+107,102.0,Candy
+108,102.0,Other Desserts
+109,103.0,Potato chips
+110,103.0,"Tortilla, corn, other chips"
+111,103.0,Popcorn
+112,103.0,Pretzels/snack mix
+113,104.0,"Crackers, excludes saltines"
+114,104.0,Saltine crackers
+115,105.0,Cereal bars
+116,105.0,Nutrition bars
+117,106.0,Cakes and pies
+118,106.0,Cookies and brownies
+119,106.0,"Doughnuts, sweet rolls, pastries"
+120,107.0,Candy containing chocolate
+121,107.0,Candy not containing chocolate
+122,108.0,Ice cream and frozen dairy desserts
+123,108.0,Pudding
+124,108.0,"Gelatins, ices, sorbets"
+125,5.0,Apples
+126,5.0,Bananas
+127,5.0,Grapes
+128,5.0,Peaches and nectarines
+129,5.0,Strawberries
+130,5.0,Blueberries and other berries
+131,5.0,Citrus fruits
+132,5.0,Melons
+133,5.0,Dried fruits
+134,5.0,Other fruits and fruit salads
+135,5.0,Pears
+136,5.0,Pineapple
+137,5.0,Mango and papaya
+138,4.0,"Vegetables, excluding Potatoes"
+139,4.0,White Potatoes
+140,138.0,Tomatoes
+141,138.0,Carrots
+142,138.0,Other red and orange vegetables
+143,138.0,Broccoli
+144,138.0,Spinach
+145,138.0,Lettuce and lettuce salads
+146,138.0,Other dark green vegetables
+147,138.0,String beans
+148,138.0,Cabbage
+149,138.0,Onions
+150,138.0,Corn
+151,138.0,Other starchy vegetables
+152,138.0,Other vegetables and combinations
+153,138.0,Fried vegetables
+154,138.0,"Coleslaw, non-lettuce salads"
+155,138.0,Vegetables on a sandwich
+156,139.0,"White potatoes, baked or boiled"
+157,139.0,French fries and other fried white potatoes
+158,139.0,Mashed potatoes and white potato mixtures
+159,1.0,Beverages
+160,159.0,100% Juice
+161,159.0,Diet Beverages
+162,159.0,Sweetened Beverages
+163,159.0,Coffee and Tea
+164,160.0,Citrus juice
+165,160.0,Apple juice
+166,160.0,Other fruit juice
+167,160.0,Vegetable juice
+168,161.0,Diet soft drinks
+169,161.0,Diet sport and energy drinks
+170,161.0,Other diet drinks
+171,162.0,Soft drinks
+172,162.0,Fruit drinks
+173,162.0,Sport and energy drinks
+174,162.0,Nutritional beverages
+175,162.0,Smoothies and grain drinks
+176,163.0,Coffee
+177,163.0,Tea
+178,1.0,Alcoholic Beverages
+179,1.0,Water
+180,178.0,Beer
+181,178.0,Wine
+182,178.0,Liquor and cocktails
+183,179.0,Plain Water
+184,179.0,Flavored or Enhanced Water
+185,183.0,Tap water
+186,183.0,Bottled water
+187,184.0,Flavored or carbonated water
+188,184.0,Enhanced water
+189,7.0,Fats and Oils
+190,7.0,Condiments and Sauces
+191,189.0,Butter and animal fats
+192,189.0,Margarine
+193,189.0,"Cream cheese, sour cream, whipped cream"
+194,189.0,Cream and cream substitutes
+195,189.0,Mayonnaise
+196,189.0,Salad dressings and vegetable oils
+197,190.0,Tomato-based condiments
+198,190.0,Soy-based condiments
+199,190.0,Mustard and other condiments
+200,190.0,"Olives, pickles, pickled vegetables"
+201,190.0,"Pasta sauces, tomato-based"
+202,190.0,"Dips, gravies, other sauces"
+203,7.0,Sugars
+204,1.0,Baby Foods and Formulas
+205,203.0,Other
+206,203.0,Sugars and honey
+207,203.0,Sugar substitutes
+208,203.0,"Jams, syrups, toppings"
+209,204.0,Baby Foods
+210,204.0,Baby Beverages
+211,204.0,Infant Formulas
+212,204.0,Human milk
+213,209.0,Baby food: cereals
+214,209.0,Baby food: fruit
+215,209.0,Baby food: vegetable
+216,209.0,Baby food: meat and dinners
+217,209.0,Baby food: yogurt
+218,209.0,Baby food: snacks and sweets
+219,210.0,Baby juice
+220,210.0,Baby water
+221,211.0,"Formula, ready-to-feed"
+222,211.0,"Formula, prepared from powder"
+223,211.0,"Formula, prepared from concentrate"
+224,212.0,Human milk
+225,7.0,Protein and nutritional powders
+226,1.0,Not included in a food category
+227,204.0,Baby food: mixtures
+228,51.0,Deli and cured meat sandwiches
+229,51.0,Meat and BBQ sandwiches
+230,51.0,Vegetable sandwiches/burgers
+231,35.0,Pork Ribs
+232,35.0,Pork Spareribs
+233,40.0,Ground Turkey
+234,43.0,Eggs
+235,121.0,Candy Variety Pack
+236,171.0,Soda
+237,116.0,Protein Bars
+238,174.0,Kombucha
+239,111.0,Microwave Popcorn
+240,25.0,Yogurt Pouches
+241,174.0,Sparkling Probiotic
+242,35.0,Baby Back Ribs
+243,226.0,Charcoal Briquettes
+244,93.0,Hot Dog Buns
+245,47.0,Smoked Sausage
+246,171.0,Lemon Lime Soda
+247,50.0,Turkey Sausage Sticks
+248,186.0,Drinking Water
+249,121.0,Candy Variety Mix
+250,50.0,Breakfast Sausage
+251,197.0,Ketchup
+252,38.0,Chicken Drumsticks
+253,46.0,Hot Dogs
+254,75.0,Frozen Pizza
+255,208.0,Strawberry Syrup
+256,152.0,Mushrooms
+257,226.0,Breakfast Cup
+258,121.0,Licorice Candy
+259,226.0,Merchandise
+260,208.0,Chocolate Syrup
+261,152.0,Frozen Vegetables
+262,228.0,Turkey Breast
+263,109.0,Potato Snacks
+264,121.0,Candy Variety Bag
+265,34.0,Ground Beef
+266,44.0,Bacon
+267,121.0,Lollipops
+268,182.0,Margarita Cocktail
+269,121.0,Candy Bars
+270,182.0,Margarita Wine Cocktail
+271,182.0,Wine Cocktail
+272,13.0,Whole Milk
+273,120.0,Chocolate Candy Bars
+274,121.0,Strawberry Candy
+275,17.0,Chocolate Milk
+276,182.0,Frozen Daiquiri Cocktail
+277,121.0,Candy Pouches
+278,14.0,Reduced Fat Milk
+279,226.0,Margarita Salt
+280,22.0,Lactose-Free Milk
+281,134.0,Watermelon Punch
+282,121.0,Hard Candy
+283,182.0,Margarita Mix
+284,120.0,Chocolate Candy
+285,93.0,Organic Bread
+286,121.0,Breath Mint Candy
+287,182.0,Pina Colada Mix
+288,118.0,Chocolate Sandwich Cookies
+289,93.0,Hamburger Buns
+290,121.0,Caramel Candy
+291,93.0,Sandwich Bread
+292,92.0,Bread
+293,116.0,Snack Bars
+294,226.0,Breath Mints
+295,93.0,White Bread
+296,182.0,Cocktails
+297,15.0,Low-Fat Milk
+298,121.0,Candy Mix
+299,16.0,Skim Milk
+300,226.0,Bubblegum
+301,226.0,Gum
+302,117.0,Pecan Pie
+303,117.0,Snack Cakes
+304,226.0,Sugar-Free Gum
+305,226.0,Chewing Gum
+306,117.0,Doughnuts
+307,17.0,Egg Nog
+308,121.0,Peanut Brittle
+309,117.0,Cherry Pie
+310,13.0,Evaporated Milk
+311,93.0,Italian Bread
+312,226.0,Bubble Gum
+313,121.0,Mint Candy
+314,22.0,Lactose Free Milk
+315,117.0,Cinnamon Cake
+316,119.0,Apple Fritters
+317,226.0,Mints
+318,22.0,Condensed Milk
+319,119.0,Donuts
+320,22.0,Almondmilk
+321,119.0,Powdered Sugar Donuts
+322,96.0,Blueberry Muffins
+323,22.0,Dry Milk
+324,22.0,Sweetened Condensed Milk
+325,118.0,Brownie Bites
+326,119.0,Chocolate Frosted Mini Donuts
+327,119.0,Cinnamon Rolls
+328,22.0,Powdered Milk
+329,121.0,Junior Mints
+330,96.0,Cinnamon Bread
+331,13.0,Buttermilk
+332,95.0,Flour Tortillas
+333,117.0,Pumpkin Cake Roll
+334,94.0,Cinnamon Raisin Bagels
+335,119.0,Honey Buns
+336,80.0,Sub Rolls
+337,68.0,Croissants
+338,121.0,Peppermint Candy
+339,226.0,Sugar Free Gum
+340,68.0,Texas Toast
+341,226.0,Keto Fat Cups
+342,121.0,Gummy Bears
+343,121.0,Fruit Chews
+344,121.0,Gummy Candy
+345,120.0,Chocolate Candy Bar
+346,96.0,Blueberry Muffin
+347,120.0,Chocolate Candy Truffles
+348,120.0,Milk Chocolate Candy
+349,120.0,Chocolate Assortment
+350,79.0,Frozen Frittata
+351,120.0,Dark Chocolate Candy Bar
+352,121.0,Candy Assortment
+353,174.0,Electrolyte Powder
+354,121.0,Candy Ropes
+355,116.0,Energy Chew
+356,226.0,Toffee Baking Bits
+357,13.0,Milk Bar
+358,120.0,Chocolate
+359,120.0,Dark Chocolate
+360,226.0,Energy Gum
+361,120.0,Chocolate Squares
+362,120.0,White Chocolate Candy Truffles
+363,120.0,Chocolate Bar
+364,121.0,Toffee Candy
+365,120.0,Dark Chocolate Truffles
+366,121.0,Candy Bar
+367,188.0,Coconut Water
+368,226.0,Snack Box
+369,120.0,Chocolate Truffles
+370,187.0,Sparkling Water
+371,186.0,Bottled Water
+372,120.0,Dark Chocolate Candy
+373,120.0,Chocolate Melting Wafers
+374,226.0,Lunch Snack
+375,123.0,Snack Pack
+376,186.0,Distilled Water
+377,187.0,Water Enhancer
+378,186.0,Spring Water
+379,174.0,Liquid Drink Enhancer
+380,174.0,Drink Mix
+381,104.0,Cheese and Crackers Snack Kit
+382,174.0,Drink Enhancer
+383,202.0,Cheese Dip & Breadsticks
+384,50.0,Meat Snack Kit
+385,187.0,Water Beverage
+386,226.0,Snack Plate
+387,174.0,Hydration Drink Mix
+388,187.0,Seltzer Water
+389,174.0,Sports Drink
+390,170.0,Soft Drink Mix
+391,226.0,Snack Kit
+392,187.0,Tonic Water
+393,187.0,Crystal Light
+394,226.0,Hazelnut Spread
+395,188.0,Enhanced Water
+396,116.0,Protein Snack Pack
+397,169.0,Energy Drink
+398,174.0,Energy Drink Mix
+399,177.0,Green Tea
+400,187.0,Alkaline Water
+401,177.0,Iced Tea
+402,166.0,Sweet Tea
+403,17.0,Hot Cocoa Drink Mix
+404,174.0,Powdered Drink Mix
+405,226.0,Marshmallows
+406,176.0,Ground Coffee
+407,176.0,Coffee Pods
+408,172.0,Lemonade Drink Mix
+409,17.0,Chocolate Drink Mix
+410,226.0,Cocoa Powder
+411,17.0,Hot Cocoa
+412,225.0,Protein Shake
+413,21.0,Chocolate Malt Powder
+414,225.0,Meal Replacement Shake
+415,22.0,Malted Milk Powder
+416,21.0,Nutrition Shake
+417,176.0,Instant Coffee
+418,173.0,Gatorade Drink Mix
+419,174.0,Chilled Coffee Drink
+420,174.0,Nutritional Drink
+421,176.0,Whole Bean Coffee
+422,225.0,Drink Powder
+423,176.0,Coffee
+424,226.0,Coffee Bags
+425,226.0,Beverage Mix
+426,176.0,Cold Brew Coffee Concentrate
+427,176.0,Decaf Coffee
+428,22.0,Oat Milk Latte
+429,176.0,Instant Coffee Drink Mix
+430,176.0,Coffee Variety Pack
+431,176.0,Vanilla Latte
+432,176.0,Decaffeinated Coffee
+433,176.0,Iced Coffee Pods
+434,194.0,Coffee Creamer
+435,96.0,Coffee Muffin
+436,226.0,K-Cup Pods
+437,197.0,Salsa
+438,176.0,Decaf Coffee Pods
+439,201.0,Salsa Verde
+440,44.0,Beef Jerky
+441,44.0,Teriyaki Jerky
+442,201.0,Simmer Sauce
+443,47.0,Ground Italian Sausage
+444,68.0,Sausage Roll
+445,214.0,Applesauce Variety Pack
+446,35.0,Breakfast Sausage Patties
+447,35.0,Pork Sausage Patties
+448,112.0,Pretzel Sticks
+449,116.0,Protein Bar
+450,116.0,Keto Bar
+451,133.0,Medjool Dates
+452,116.0,Nut and Seed Bar
+453,68.0,Cheese Puffs
+454,226.0,Puff Snack
+455,118.0,Peanut Butter Cookies
+456,49.0,Almonds
+457,49.0,Walnuts
+458,49.0,Trail Mix
+459,112.0,Snack Mix
+460,226.0,Flower Bunch
+461,49.0,Cashews
+462,109.0,Snack Chips
+463,226.0,Puffcorn
+464,49.0,Pistachios
+465,49.0,Mixed Nuts
+466,49.0,Toasted Coconut Cashews
+467,49.0,Blueberry Almonds
+468,49.0,Dry Roasted Peanuts
+469,226.0,Iodized Salt
+470,49.0,Honey Roasted Peanuts
+471,197.0,White Vinegar
+472,109.0,Cheese Puff Chips
+473,226.0,Black Pepper
+474,109.0,Cheese Snack Chips
+475,226.0,Almond Flour
+476,226.0,Seasoning
+477,116.0,Granola Bars
+478,226.0,Seasoning Blend
+479,181.0,Cooking Wine
+480,197.0,White Wine Vinegar
+481,152.0,Boiled Peanuts
+482,226.0,Cheetos
+483,226.0,Steak Seasoning
+484,49.0,Pecan Halves
+485,197.0,Apple Cider Vinegar
+486,197.0,Seasoned Salt
+487,197.0,Balsamic Vinegar
+488,197.0,Rice Vinegar
+489,49.0,Pumpkin Seeds
+490,226.0,Hamburger Seasoning
+491,133.0,Raisins
+492,226.0,Munch Mix
+493,109.0,Flavored Snack Chips
+494,202.0,Gravy Mix
+495,49.0,Chopped Walnuts
+496,49.0,Honey Roasted Pecans
+497,49.0,Sunflower Kernels
+498,225.0,Protein Puff
+499,49.0,Salted Peanuts
+500,49.0,Cashew Snacks
+501,133.0,Dates
+502,202.0,BBQ Sauce
+503,202.0,Barbecue Sauce
+504,202.0,Burger Dipping Sauce
+505,226.0,Glazed Mix
+506,197.0,Steak Sauce
+507,201.0,Balsamic Reduction
+508,49.0,Brazil Nuts
+509,49.0,Peanuts
+510,197.0,Tomato Ketchup
+511,196.0,Blue Cheese Dressing
+512,196.0,Ranch Dressing
+513,45.0,Bacon Pieces
+514,226.0,Croutons
+515,196.0,Thousand Island Dressing
+516,196.0,Coleslaw Dressing
+517,196.0,Mayonnaise
+518,196.0,Italian Dressing
+519,200.0,Pickles
+520,195.0,Vegenaise Spread
+521,152.0,French Fried Onions
+522,200.0,Dill Pickles
+523,196.0,Honey Mustard Dressing
+524,196.0,Mayo-like Dressing
+525,196.0,Whipped Dressing
+526,202.0,Chicken Gravy
+527,196.0,French Dressing
+528,44.0,Bacon Bits
+529,200.0,Black Olives
+530,199.0,Honey Mustard
+531,200.0,Stuffed Olives
+532,196.0,Dressing
+533,200.0,Sweet Gherkins
+534,152.0,Pickled Beets
+535,196.0,Sandwich Spread
+536,208.0,Strawberry Spread
+537,202.0,Aioli
+538,200.0,Sweet Pickles
+539,11.0,Pepper Jack Cheese
+540,38.0,Chicken Breast Tenderloins
+541,38.0,Chicken Breasts
+542,11.0,Cheese Slices
+543,193.0,Sour Cream
+544,202.0,Garlic Spread
+545,22.0,Plant-Based Chicken
+546,17.0,Strawberry Milk
+547,17.0,Eggnog
+548,68.0,Crescent Rolls
+549,93.0,Dinner Rolls
+550,96.0,Muffins
+551,92.0,Sourdough Bread
+552,93.0,French Bread
+553,93.0,Wheat Bread
+554,17.0,Chocolate Drink
+555,117.0,Carrot Cake
+556,226.0,Flavored Straws
+557,226.0,Menstrual Pain Relief
+558,121.0,Cinnamon Candy
+559,22.0,Almond Milk
+560,65.0,Microwaveable Rice
+561,121.0,Candy Bag
+562,152.0,Sweet Peas
+563,44.0,Pepperoni Lunch Kit
+564,226.0,Cornstarch
+565,121.0,Chewy Candy
+566,187.0,Sweet Tea Drink Mix
+567,188.0,Electrolyte Water
+568,166.0,Grape Juice
+569,172.0,Fruit Punch Juice Drink
+570,174.0,Cappuccino Drink Mix
+571,172.0,Juice Drink
+572,166.0,Energizing Juice
+573,166.0,Apple Cider
+574,171.0,"Sweet Tea, Lemonade"
+575,225.0,Nutritional Drink Mix
+576,175.0,Smoothie
+577,174.0,Chai Latte
+578,166.0,Orange Juice
+579,116.0,Diabetes Care Shake
+580,182.0,Hard Iced Tea
+581,166.0,Lemonade Juice
+582,166.0,Iced Tea Mix
+583,166.0,Raspberry Lemonade Juice
+584,172.0,Lemonade
+585,175.0,Fruit Smoothie
+586,174.0,Kombucha Drink
+587,166.0,Fruit Juice Drink
+588,170.0,Iced Tea Drink Mix
+589,172.0,Juice Cocktail
+590,172.0,Strawberry Lemonade Juice
+591,17.0,Kids Drink
+592,177.0,Tea Bags
+593,187.0,"Ready-to-Drink, Grapefruit, Can"
+594,166.0,Juice Shot
+595,174.0,Protein Drink
+596,226.0,Kombucha Variety Pack
+597,177.0,Chai Tea
+598,174.0,Vitaminwater
+599,186.0,Mineral Water
+600,226.0,Hydrate
+601,176.0,Ready-to-Drink Coffee
+602,151.0,French Fries
+603,134.0,Fruit Blend
+604,226.0,Parchment Paper
+605,134.0,Fruit Bowls
+606,226.0,Disposable Cutlery
+607,226.0,Snack Pouches
+608,133.0,Dried Fruit Snack
+609,49.0,Sliced Almonds
+610,49.0,Roasted Pecans
+611,49.0,Chopped Pecans
+612,226.0,Seasoning Mix
+613,68.0,Toaster Pastries
+614,226.0,Poultry Seasoning
+615,207.0,Stevia Sweetener
+616,197.0,Garlic Salt
+617,60.0,Pot Roast Seasoning
+618,226.0,BBQ Rub
+619,74.0,Fajita Seasoning
+620,201.0,Spaghetti Sauce Mix
+621,208.0,Fruit & Nut Topping
+622,202.0,Steak Marinade Mix
+623,202.0,Jalapeno Toppings
+624,113.0,Cheese Crackers
+625,196.0,Poppy Seed Dressing
+626,200.0,Salad Olives
+627,152.0,Jalapeno Peppers
+628,200.0,Pickle Chips
+629,200.0,Pickled Jalapeno Slices
+630,152.0,Pickled Peppers
+631,200.0,Okra Pickles
+632,200.0,Pickle Spears
+633,152.0,Pickled Jalapeno Peppers
+634,200.0,Kalamata Olives
+635,171.0,Root Beer Soda
+636,44.0,Black Forest Ham
+637,11.0,Parmesan Cheese
+638,41.0,Canned Tuna
+639,60.0,Frozen Meal
+640,48.0,Black Beans
+641,11.0,Cheddar Cheese
+642,92.0,Artisan Bread
+643,95.0,Corn Tortillas
+644,119.0,Mini Donuts
+645,93.0,Cinnamon Raisin Bread
+646,123.0,Chocolate Mousse
+647,22.0,Soymilk
+648,22.0,Plant-Based Milk
+649,22.0,Soy Milk
+650,15.0,Lowfat Milk
+651,121.0,Jelly Beans
+652,202.0,Caramel Apple Dip
+653,121.0,Sour Candy
+654,116.0,Protein Candy Bites
+655,121.0,Gummi Bears
+656,226.0,Vitamin D3 Jelly Beans
+657,121.0,Sugar Free Chocolate Caramels
+658,121.0,Caramel Bits
+659,121.0,Candy Party Pack
+660,121.0,Ginger Candy
+661,121.0,Gummy Rings
+662,225.0,Fiber Supplement
+663,226.0,Lunchables
+664,187.0,Flavored Water
+665,174.0,Electrolyte Beverage
+666,187.0,SportWater
+667,187.0,Hard Seltzer
+668,176.0,Instant Coffee Beverage Mix
+669,171.0,Root Beer
+670,134.0,Acai Powder
+671,13.0,Milk Variety Pack
+672,16.0,Goat Milk
+673,166.0,Fruit Juice
+674,16.0,Powdered Goat Milk
+675,166.0,Apple Juice
+676,174.0,Electrolyte Drink Mix
+677,166.0,Juice Variety Pack
+678,134.0,"Dried Cranberries, Glazed Walnuts"
+679,49.0,Cocktail Peanuts
+680,133.0,"Dried Berries, Golden Raisins"
+681,49.0,Roasted Almonds
+682,116.0,Keto Chocolate Mix
+683,226.0,Wing Mix
+684,226.0,Cajun Seasoning
+685,226.0,Flushable Wipes
+686,201.0,Chili Kit
+687,202.0,Chili Seasoning Mix
+688,152.0,Water Chestnuts
+689,49.0,Nut Mix
+690,226.0,Curry Powder
+691,226.0,Ground Cumin
+692,49.0,Spicy Peanuts
+693,68.0,Fish Fry Breading
+694,202.0,Sauce Mix
+695,60.0,Meatball Seasoning
+696,60.0,Beef Stew Seasoning
+697,117.0,Pumpkin Pie Spice
+698,202.0,Ranch Dip Mix
+699,202.0,Ranch Dip
+700,200.0,Green Olives
+701,152.0,Pickled Asparagus
+702,196.0,Caesar Salad Dressing
+703,201.0,Sauce
+704,42.0,Frozen Shrimp
+705,68.0,Hot Pocket
+706,76.0,Burger Patties
+707,11.0,Cheese
+708,110.0,Corn Snacks
+709,38.0,Chicken Breast
+710,142.0,Bell Peppers
+711,34.0,Ground Beef Patties
+712,93.0,Whole Grain Bread
+713,226.0,Baking Powder
+714,187.0,Hydration
+715,174.0,Hydration Drink
+716,110.0,Corn Chips
+717,206.0,Brown Sugar
+718,152.0,Mixed Vegetables
+719,48.0,Pinto Beans
+720,22.0,Coconut Milk
+721,156.0,Mashed Potatoes
+722,174.0,Organic Coconut Water
+723,21.0,Mocha Drink
+724,22.0,Plant-Based Juice Drink
+725,186.0,Purified Water
+726,166.0,Cranberry Juice
+727,166.0,Limeade Juice
+728,167.0,Tomato Juice
+729,166.0,Pineapple Orange Juice
+730,226.0,Vitamin Shot
+731,225.0,Superfood Powder
+732,225.0,Fruit & Fiber Powder
+733,225.0,Vitamin C Supplement
+734,174.0,Electrolyte Powder Packets
+735,225.0,Vitamin C Powder Mix
+736,49.0,Flax Seed
+737,49.0,Cocoa Almonds
+738,49.0,Nuts
+739,49.0,Honey Roasted Almonds
+740,119.0,Fruit Crisps
+741,49.0,Macadamia Nuts
+742,134.0,Dried Cranberries
+743,110.0,Corn Snack
+744,202.0,Avocado Ranch Sauce
+745,196.0,Raspberry Vinaigrette Dressing
+746,196.0,Spicy Ranch
+747,202.0,Buffalo Ranch Sauce
+748,11.0,Shredded Cheese
+749,226.0,Ginger Ale
+750,99.0,Granola
+751,60.0,Bone Broth
+752,33.0,New York Strip Steak
+753,226.0,Smoked Paprika
+754,48.0,Organic Quinoa
+755,47.0,Pork Sausage
+756,134.0,Canned Peaches
+757,194.0,Whipped Topping
+758,121.0,Gummies Candy
+759,174.0,Weight Loss Drink Mix
+760,49.0,Sunflower Seeds
+761,22.0,Plant-Based Snack
+762,60.0,Pot Roast Seasoning Mix
+763,202.0,Guacamole Mix
+764,42.0,Crab Boil
+765,201.0,Alfredo Sauce
+766,201.0,Rice Seasoning Mix
+767,226.0,Ground Allspice
+768,84.0,Broccoli Cheddar Soup
+769,49.0,Wasabi Almonds
+770,198.0,Liquid Aminos
+771,196.0,Garlic Vinaigrette
+772,226.0,Sage
+773,44.0,Bacon Crumbles
+774,226.0,Oregano
+775,196.0,Black Walnut Oil
+776,226.0,Paprika
+777,45.0,Turkey Bacon
+778,66.0,Linguine
+779,11.0,American Cheese
+780,226.0,Thyme Leaves
+781,226.0,Ground Cardamom
+782,226.0,Cinnamon Sticks
+783,201.0,Crushed Tomatoes
+784,119.0,Ice Cream Sandwiches
+785,118.0,Sugar Cookies
+786,93.0,Brioche Buns
+787,93.0,Whole Wheat Bread
+788,94.0,Bagel Thins
+789,94.0,Cinnamon Bagels
+790,68.0,Garlic Bread
+791,93.0,Butter Bread
+792,93.0,Potato Bread
+793,117.0,Pumpkin Pie
+794,11.0,Mozzarella Cheese
+795,196.0,Vegetable Oil Spread
+796,65.0,Boil-in-Bag Rice
+797,206.0,Raw Honey
+798,65.0,Instant Rice
+799,166.0,Fruit Juice Boxes
+800,175.0,Fruit Juice Smoothie
+801,219.0,Toddler Juice
+802,49.0,Raw Peanuts
+803,202.0,Guacamole Seasoning
+804,226.0,Bar Mix
+805,49.0,Dark Chocolate Almonds
+806,226.0,Ground Coriander
+807,49.0,Macadamias
+808,198.0,Seasoning Sauce
+809,60.0,Sloppy Joes Seasoning Mix
+810,72.0,Frozen Burritos
+811,25.0,Probiotic Yogurt
+812,152.0,Butternut Squash
+813,228.0,Ham
+814,93.0,English Muffins
+815,228.0,Smoked Ham
+816,228.0,Honey Ham
+817,11.0,Cheese Blend
+818,134.0,Pineapple Chunks
+819,166.0,Pina Colada Juice
+820,166.0,Lime Juice
+821,166.0,Pomegranate Juice
+822,134.0,Elderberry Shot
+823,166.0,Prune Juice
+824,187.0,Sparkling Juice
+825,134.0,Crushed Pineapple
+826,176.0,Cold Brew Latte
+827,49.0,Health Seeds
+828,49.0,Black Walnuts
+829,49.0,Pecans
+830,49.0,Hemp Seeds
+831,226.0,BBQ Seasoning
+832,49.0,Pistachio Butter
+833,226.0,Flavor Enhancer
+834,65.0,Jambalaya
+835,201.0,Chili Mix
+836,62.0,Salmon Seasoning
+837,120.0,Dark Chocolate Baking Chips
+838,117.0,Chocolate Cupcakes
+839,49.0,Ground Flax Seed
+840,68.0,Frozen Snack
+841,68.0,Frozen Snacks
+842,167.0,Beet Juice
+843,134.0,Frozen Pineapple
+844,134.0,Applesauce
+845,63.0,Black Bean Chili
+846,39.0,Chicken Breast Strips
+847,47.0,Chicken Sausage
+848,96.0,Breakfast Bread
+849,118.0,Sandwich Cookies
+850,122.0,Frozen Dessert
+851,117.0,Sweet Potato Pie
+852,118.0,Chocolate Cookies
+853,199.0,Dijon Mustard
+854,172.0,Citrus Punch
+855,166.0,Cherry Juice
+856,177.0,Iced Tea Bags
+857,60.0,Dry Rub
+858,226.0,Smoking Rub
+859,60.0,Meatloaf
+860,226.0,BBQ Seasoning Rub
+861,226.0,Spices & Seasonings
+862,64.0,Veggie Roaster
+863,61.0,Poultry Blend
+864,226.0,Spice Blend
+865,202.0,Barbecue Dry Rub
+866,62.0,Fish Fry
+867,41.0,Frozen Tilapia Fillets
+868,145.0,Spinach Salad
+869,76.0,Beef Burgers
+870,197.0,Hot Sauce
+871,197.0,Organic Ketchup
+872,202.0,Guacamole
+873,65.0,Quinoa and Brown Rice
+874,134.0,Chia Squeeze Pouch
+875,196.0,Extra Virgin Olive Oil
+876,60.0,Frozen Meals
+877,207.0,Agave Sweetener
+878,84.0,Pho Broth
+879,226.0,Basil Leaves
+880,226.0,Matcha Powder
+881,177.0,Chamomile Tea
+882,117.0,Creme Horns
+883,94.0,Whole Wheat Bagels
+884,117.0,White Cake
+885,292.0,Deli Swirl Bread
+886,93.0,Slider Buns
+887,117.0,Lemon Drizzle Cakes
+888,92.0,Rye Bread
+889,11.0,Gouda Cheese
+890,187.0,Sparkling Cider
+891,226.0,Snack Pouch
+892,167.0,Tomato Cocktail
+893,166.0,Cold-Pressed Juice
+894,152.0,Frozen Side
+895,44.0,Sliced Ham
+896,152.0,Organic Chives
+897,226.0,Cilantro
+898,44.0,Ham Lunch Meat
+899,60.0,Corn Dogs
+900,22.0,Tofu
+901,44.0,Sliced Turkey Breast
+902,47.0,Italian Sausage
+903,49.0,Poppy Seeds
+904,226.0,Cumin Seed
+905,35.0,Pulled Pork
+906,202.0,Hot Fudge Topping
+907,122.0,Frozen Fruit Pops
+908,50.0,Turkey Sausage
+909,41.0,Tuna
+910,152.0,Canned Pumpkin
+911,174.0,Digestion Shot
+912,197.0,Bloody Mary Mix
+913,166.0,Mango Juice
+914,134.0,Passion Fruit Pulp
+915,166.0,Blueberry Juice
+916,167.0,Carrot Juice
+917,225.0,Whey Protein Isolate
+918,134.0,Dark Sweet Cherries
+919,166.0,Papaya Juice
+920,194.0,Whipped Cream Topping
+921,62.0,Imitation Crab Flake
+922,34.0,Beef Patties
+923,134.0,Goji Berries
+924,46.0,Beef Franks
+925,76.0,Ground Beef Burgers
+926,44.0,Cooked Ham
+927,41.0,Tuna Creations
+928,117.0,Strawberry Cheesecake
+929,117.0,Cheesecake Dessert
+930,68.0,Pita Bread
+931,93.0,Gluten Free Bread Rolls
+932,68.0,Gluten Free Pizza Crust
+933,226.0,Food Colors
+934,117.0,Cheesecake
+935,117.0,Variety Cake
+936,68.0,Taco Shells
+937,118.0,Chocolate Chunk Cookies
+938,117.0,Mini Eclairs
+939,80.0,Tortilla Wraps
+940,68.0,Pita Breads
+941,96.0,Hawaiian Bread
+942,117.0,Chocolate Cake
+943,60.0,Meatloaf Seasoning
+944,49.0,Chia Seeds
+945,38.0,Organic Chicken Breasts
+946,39.0,Chicken Strips
+947,11.0,Brie Cheese
+948,44.0,Deli Meat
+949,120.0,Mixed Chocolates
+950,66.0,Pasta
+951,226.0,Lip Balm
+952,118.0,Fig Bars
+953,177.0,Herbal Tea
+954,38.0,Rotisserie Chicken
+955,152.0,Green Bell Pepper
+956,41.0,Salmon
+957,64.0,Vegetable Blend
+958,68.0,Cornbread Mix
+959,117.0,Mini Cupcakes
+960,123.0,Banana Pudding
+961,117.0,Red Velvet Cupcakes
+962,118.0,Chocolate Chip Cookies
+963,68.0,Keto Hot Dog Buns
+964,68.0,Danish
+965,118.0,Carrot Cake Cookies
+966,119.0,Protein Sweet Roll
+967,117.0,Cookie Icing
+968,117.0,Cupcakes
+969,119.0,Sticky Bun
+970,48.0,Canned Beans
+971,92.0,Dry Yeast
+972,177.0,Unsweet Tea
+973,196.0,Avocado Oil
+974,35.0,Pork Hocks
+975,118.0,Oatmeal Raisin Cookies
+976,68.0,Gluten-Free Pie Crust
+977,93.0,Brioche Rolls
+978,93.0,Multigrain Bread
+979,80.0,Italian Loaf
+980,22.0,Non-Dairy Frozen Dessert
+981,93.0,Whole Wheat Buns
+982,117.0,Cheesecake Bites
+983,117.0,Pecan Tarts
+984,117.0,Tiramisu Cake
+985,117.0,Marshmallow Treats
+986,65.0,Jambalaya Rice
+987,113.0,Pretzel Crisps
+988,95.0,Almond Flour Tortillas
+989,22.0,Dairy-Free Yogurt Alternative
+990,84.0,Bean Soup
+991,33.0,Flank Steak
+992,42.0,Shrimp Cocktail
+993,207.0,Sweetener
+994,201.0,Seafood Sauce
+995,117.0,Apple Pie
+996,122.0,Orange Sherbet
+997,152.0,Frozen Corn
+998,68.0,Garlic Cheese Loaf
+999,93.0,Slider Rolls
+1000,46.0,Turkey Franks
+1001,72.0,Bean and Rice Burrito
+1002,22.0,Cashew Milk
+1003,44.0,Canadian Bacon
+1004,71.0,Vegetable Dumplings
+1005,41.0,Frozen Salmon
+1006,42.0,Crawfish Tails
+1007,134.0,Acai Bowl
+1008,228.0,Beef Summer Sausage
+1009,35.0,Breakfast Patties
+1010,152.0,Frozen Brussels Sprouts
+1011,22.0,Dairy-Free Slices
+1012,46.0,Chicken Franks
+1013,64.0,Breaded Okra
+1014,35.0,Pork Loin Filet
+1015,192.0,Butter Substitute
+1016,72.0,Taquitos
+1017,33.0,Filet Mignon
+1018,33.0,Ground Bison
+1019,117.0,Blackberry Cobbler
+1020,22.0,Vegan Pizza
+1021,35.0,Pork Tenderloin
+1022,96.0,Gluten Free English Muffins
+1023,115.0,Oat Bites
+1024,230.0,Veggie Burgers
+1025,118.0,Italian Cookies
+1026,91.0,Gluten Free Noodles
+1027,206.0,Sanding Sugar
+1028,117.0,Cake Bites
+1029,68.0,Bread Baguettes
+1030,206.0,Sparkling Sugar
+1031,117.0,Italian Creme Cake
+1032,117.0,Marshmallow Treat
+1033,133.0,Freeze-Dried Fruit
+1034,122.0,Coffee Ice Cream
+1035,42.0,Frozen Shrimp Cocktail
+1036,134.0,Berry Blend
+1037,41.0,Frozen Cod Fillets
+1038,152.0,Frozen Sweet Peas
+1039,68.0,Cauliflower Pizza
+1040,75.0,Pizza
+1041,38.0,Pulled Chicken
+1042,122.0,Frozen Fruit Bars
+1043,230.0,Plant-Based Burger Patties
+1044,117.0,Chocolate Cr√®me Pie
+1045,42.0,Lobster Tails
+1046,122.0,Banana Twin Pops
+1047,122.0,Ice Cream Cups
+1048,41.0,Catfish Fillets
+1049,38.0,Roasted Chicken
+1050,122.0,Ice Cream Bars
+1051,122.0,Frozen Treats
+1052,46.0,Wieners
+1053,66.0,Stuffed Shells
+1054,226.0,Snack Tray
+1055,122.0,Frozen Treat Bars
+1056,226.0,Chocolate Baking Chips
+1057,35.0,Spiral-Cut Ham
+1058,122.0,Frozen Treat Bar
+1059,122.0,Strawberry Ice Cream
+1060,72.0,Frozen Burrito
+1061,66.0,Breakfast Bowl
+1062,41.0,Tuna Bowl
+1063,37.0,Calf Liver
+1064,124.0,Ice Pops
+1065,22.0,Plant-Based Chick'n
+1066,72.0,Bean & Rice Burrito
+1067,206.0,Sugar Pearls
+1068,228.0,Corned Beef Brisket
+1069,35.0,Pork Chops
+1070,60.0,Meatballs
+1071,68.0,Flat Bread
+1072,118.0,Dark Chocolate Cookies
+1073,44.0,Beef Snack Sticks
+1074,116.0,Nut Bar
+1075,117.0,Honey Bun Cake
+1076,93.0,Hawaiian Rolls
+1077,117.0,Brownies
+1078,134.0,Cranberry Pecan
+1079,133.0,Prunes
+1080,65.0,Brown Rice
+1081,46.0,Veggie Hot Dogs
+1082,99.0,Keto Cereal
+1083,68.0,Frozen Hushpuppies
+1084,75.0,Cauliflower Crust Pizza
+1085,42.0,Frozen Mussels
+1086,75.0,Breakfast Pizza
+1087,22.0,Plant-Based Meat Substitute
+1088,36.0,Ground Lamb
+1089,60.0,Chili
+1090,68.0,Plant-Based Sausage Roll
+1091,22.0,Ice Cream Alternative
+1092,124.0,Sorbetto
+1093,68.0,Pizza Rolls
+1094,206.0,Sugar Blend
+1095,80.0,Biscuit Sandwich
+1096,80.0,Biscuit Sandwiches
+1097,41.0,Frozen Tuna Steaks
+1098,48.0,Canned Black Eyed Peas
+1099,35.0,Pork Roast
+1100,64.0,Power Bowls
+1101,122.0,Ice Cream Bar
+1102,118.0,Chocolate Chips
+1103,22.0,Coconut Milk Yogurt Alternative
+1104,44.0,Turkey Jerky
+1105,134.0,Apple Straws
+1106,134.0,Mandarin Oranges
+1107,84.0,Condensed Soup
+1108,152.0,Canned Green Beans
+1109,181.0,White Wine
+1110,202.0,Dip
+1111,39.0,Chicken Tenders
+1112,64.0,Cauliflower Crust
+1113,118.0,No Bake Cookies
+1114,111.0,Popcorn Variety Pack
+1115,164.0,Grapefruit Juice
+1116,171.0,Soda Pop
+1117,174.0,Protein Coffee
+1118,124.0,Sherbet
+1119,22.0,Vegan Nuggets
+1120,22.0,Creamer
+1121,22.0,Plant-Based Ground
+1122,117.0,Cherry Pie Filling
+1123,100.0,Rolled Oats
+1124,11.0,Goat Cheese
+1125,152.0,Green Chiles
+1126,134.0,Apple Snack
+1127,60.0,Beef Brisket
+1128,202.0,Dipping Sauce
+1129,181.0,Chardonnay Wine
+1130,41.0,Tuna Steaks
+1131,60.0,Beef Chili
+1132,68.0,Whole Grains
+1133,36.0,Lamb Shoulder Chop
+1134,97.0,Frozen Waffles
+1135,44.0,Deli Ham
+1136,41.0,Pink Salmon
+1137,116.0,Protein Cookie
+1138,40.0,Frozen Turkey Breast
+1139,41.0,Frozen Snapper Fillets
+1140,35.0,Seasoned Ribs
+1141,42.0,Cocktail Shrimp
+1142,226.0,Weight Range
+1143,228.0,Carved Ham
+1144,226.0,Grilling Blends
+1145,226.0,BBQ Seasoning Mix
+1146,202.0,Biscuit Gravy Mix
+1147,226.0,Burger Seasoning
+1148,201.0,Spaghetti Sauce
+1149,197.0,Onion Salt
+1150,226.0,Spicy Seasoning
+1151,47.0,Smoked Sausages
+1152,29.0,Canned Clams
+1153,152.0,Root Blend
+1154,36.0,Lamb Leg Steak
+1155,64.0,Frozen Cauliflower Wings
+1156,122.0,Frozen Treat
+1157,152.0,Scalloped Potatoes
+1158,66.0,Cheese Ravioli
+1159,152.0,Frozen Vegetable
+1160,63.0,Taco Meatless Mix
+1161,36.0,Lamb Chop
+1162,117.0,Chocolate Creme Pie
+1163,122.0,Gelato
+1164,36.0,Lamb Breast
+1165,49.0,Nut Butter
+1166,60.0,Frozen Dinner
+1167,226.0,Organic Thyme
+1168,80.0,Frozen Breakfast Sandwiches
+1169,93.0,Kaiser Rolls
+1170,166.0,Orange Juice Drink
+1171,202.0,Salsa Con Queso
+1172,202.0,Spinach Dip
+1173,171.0,Orange Soda
+1174,226.0,Pocky Sticks
+1175,120.0,Movie Theater Candy
+1176,42.0,Shrimp
+1177,79.0,Breakfast Sandwich
+1178,134.0,Frozen Fruit and Veggie Blends
+1179,25.0,Frozen Yogurt
+1180,226.0,Meat Thermometer
+1181,117.0,Unicorn Cakes
+1182,99.0,Granola Clusters
+1183,75.0,Gluten Free Pizza
+1184,206.0,Cane Sugar
+1185,197.0,Taco Sauce
+1186,11.0,Cheese Spread
+1187,196.0,Vegetable Oil
+1188,122.0,Ice Cream Cones
+1189,191.0,Butter Sticks
+1190,66.0,Frozen Ravioli
+1191,202.0,Cheese Dip
+1192,72.0,Chicken Taquitos
+1193,48.0,Black Eyed Peas
+1194,119.0,Ice Cream Sandwich
+1195,117.0,Chocolate Muffins
+1196,66.0,Gluten Free Lasagna
+1197,134.0,Frozen Fruit Blend
+1198,64.0,Veggie Spirals
+1199,91.0,Gluten-Free Pasta
+1200,116.0,Nut Bars
+1201,39.0,Frozen Chicken Tenders
+1202,226.0,Gluten-Free Dinner Kit
+1203,11.0,Irish Cheese
+1204,66.0,Frozen Lasagna
+1205,75.0,Four Cheese Pizza
+1206,33.0,Sirloin Steak
+1207,93.0,Sprouted Bread
+1208,11.0,Swiss Cheese
+1209,152.0,Red Onions
+1210,44.0,Turkey Lunch Meat
+1211,44.0,Turkey Deli Meat
+1212,33.0,Chuck Roast
+1213,44.0,Lunch Meat
+1214,61.0,Chicken Wings
+1215,226.0,Garlic
+1216,74.0,Tostadas
+1217,226.0,Bread Crumbs
+1218,49.0,Almond Butter
+1219,166.0,Lemon Juice
+1220,202.0,Onion Dip
+1221,152.0,Shredded Potatoes
+1222,68.0,French Toast Sticks
+1223,68.0,Frozen Appetizers
+1224,68.0,Garlic Texas Toast
+1225,152.0,Seasoned Potatoes
+1226,63.0,Chili Beans
+1227,11.0,Provolone Cheese
+1228,44.0,Turkey Lunchmeat
+1229,152.0,Onions
+1230,228.0,Chorizo
+1231,149.0,Sweet Onion
+1232,11.0,Cheese Product
+1233,202.0,Cheese Sauce
+1234,202.0,Queso Dip
+1235,152.0,Avocado Salsa
+1236,117.0,Angel Food Cake
+1237,123.0,Chocolate Parfait Dessert
+1238,117.0,Peach Cobbler
+1239,123.0,Sugar Free Pudding
+1240,202.0,Bean Dips
+1241,151.0,Red Potatoes
+1242,80.0,Sausage Biscuits
+1243,152.0,Hash Browns
+1244,151.0,Frozen Potatoes
+1245,186.0,Bottle
+1246,225.0,Energy Gel
+1247,38.0,Chicken Thighs
+1248,152.0,Frozen Green Beans
+1249,35.0,Ground Pork Sausage
+1250,60.0,Beef Stew Meat
+1251,93.0,Sandwich Buns
+1252,226.0,Oregano Leaves
+1253,61.0,Turkey Sausage Patties
+1254,65.0,Microwaveable Rice Cups
+1255,48.0,Cannellini Beans
+1256,84.0,Chicken Broth
+1257,119.0,Danish Pastry
+1258,226.0,Parsley
+1259,48.0,Chickpeas
+1260,117.0,Twinkies
+1261,174.0,Matcha Juice Drink
+1262,166.0,Juice Blend
+1263,174.0,Aloe Vera Juice
+1264,99.0,Cereal Bars
+1265,68.0,Organic Snack Waffle
+1266,68.0,Garlic Knots
+1267,48.0,Garbanzo Beans
+1268,38.0,Boneless Chicken Breast
+1269,47.0,Bratwurst
+1270,228.0,Diced Ham
+1271,115.0,Granola Bar
+1272,116.0,Energy Chews
+1273,226.0,Dandruff Shampoo
+1274,116.0,Nut Crunch Bars
+1275,202.0,Chipotle Sauce
+1276,41.0,Tuna Pouch
+1277,84.0,Vegetable Broth
+1278,47.0,Beef Bratwurst
+1279,38.0,Grilled Chicken
+1280,91.0,Macaroni
+1281,115.0,Cereal Treat Bars
+1282,201.0,Green Chile Salsa
+1283,44.0,Smoked Ham Lunch Meat
+1284,35.0,Country Style Ribs
+1285,35.0,Ham Steak
+1286,39.0,Boneless Chicken Bites
+1287,171.0,Citrus Soda
+1288,122.0,Vanilla Ice Cream
+1289,91.0,Egg Noodles
+1290,116.0,Breakfast Snack Bars
+1291,118.0,Fiber Brownie
+1292,116.0,Energy Bars
+1293,122.0,Fudge Pops
+1294,35.0,Pork Sausage Links
+1295,97.0,Power Waffles
+1296,226.0,Kosher Salt
+1297,228.0,Summer Sausage
+1298,42.0,Shrimp Scampi
+1299,35.0,Pork Sausage Patty
+1300,66.0,Tortellini Pasta
+1301,75.0,Pepperoni Pizza
+1302,152.0,Frozen Green Peppers
+1303,46.0,Smoked Sausage Hot Dogs
+1304,68.0,Frozen Asian Entre
+1305,93.0,Yeast Rolls
+1306,11.0,Queso
+1307,22.0,Oat Milk
+1308,38.0,Whole Chicken
+1309,33.0,T-Bone Steak
+1310,117.0,Cake Mix
+1311,152.0,Frozen Okra
+1312,122.0,Frozen Yogurt Bars
+1313,48.0,Baked Beans
+1314,80.0,Breakfast Sandwiches
+1315,76.0,Cheese Sliders
+1316,41.0,Fish Fillets
+1317,39.0,Turkey Breakfast Patties
+1318,134.0,Frozen Berries
+1319,79.0,Frozen Breakfast Sandwich
+1320,71.0,Potstickers
+1321,226.0,Popcorn Kernels
+1322,152.0,Peperoncini
+1323,133.0,Freeze Dried Fruit Crisps
+1324,38.0,Chicken Tenderloins
+1325,39.0,Breaded Chicken Tenders
+1326,65.0,White Rice
+1327,65.0,Jasmine Rice
+1328,22.0,Plant-Based Egg
+1329,39.0,Plant-Based Chicken Nuggets
+1330,22.0,Plant-Based Meat
+1331,93.0,Bakery Buns
+1332,121.0,Gumdrops
+1333,176.0,Iced Espresso
+1334,196.0,Salad Dressing Mix
+1335,97.0,Gluten Free Waffles
+1336,226.0,Coconut Flakes
+1337,11.0,Cheddar Cheese Sticks
+1338,226.0,Bay Leaves
+1339,64.0,Stuffed Peppers
+1340,134.0,Frozen Strawberries
+1341,35.0,Sausage Patties
+1342,123.0,Banana Pudding Dessert
+1343,206.0,Agave Nectar
+1344,34.0,Wagyu Beef Patties
+1345,68.0,Sausage Rolls
+1346,118.0,Gluten Free Cookies
+1347,60.0,Mexican Casserole
+1348,120.0,Peanut Butter Cups
+1349,39.0,Chicken Nuggets
+1350,134.0,Frozen Mango
+1351,117.0,Crunch Cake
+1352,94.0,Gluten-Free Bagels
+1353,118.0,Lemon Cookies
+1354,22.0,Kefir
+1355,226.0,Boudin
+1356,121.0,Peppermint Patties
+1357,109.0,Vegetable Chips
+1358,113.0,Gluten Free Crackers
+1359,121.0,Gummi Candy
+1360,35.0,Smoked Ribs
+1361,41.0,Smoked Salmon
+1362,68.0,Cheese Bread
+1363,134.0,Frozen Blackberries
+1364,68.0,Frozen Wontons
+1365,134.0,Frozen Mango Chunks
+1366,66.0,Lasagna
+1367,226.0,Malt Beverage
+1368,117.0,Key Lime Pie
+1369,117.0,Frozen Pie
+1370,226.0,Gluten Free Meal
+1371,84.0,Plant-Based Soup
+1372,226.0,Frozen Dog Treats
+1373,134.0,Frozen Raspberries
+1374,117.0,Pound Cake
+1375,68.0,Chimichangas
+1376,134.0,Frozen Cherries
+1377,33.0,Ribeye Steak
+1378,74.0,Cheese Enchiladas
+1379,97.0,Protein Pancakes
+1380,35.0,Bone-in Ham
+1381,42.0,Raw Oysters
+1382,97.0,Protein Waffles
+1383,119.0,Frozen Cream Puffs
+1384,42.0,Crab Meat
+1385,40.0,Whole Duck
+1386,35.0,Country Sausage
+1387,64.0,Plant-based Soup
+1388,25.0,Coconut Milk Yogurt
+1389,194.0,Coconut Cream
+1390,90.0,Basmati Rice
+1391,208.0,Strawberry Jam
+1392,202.0,Burnt Ends Dip
+1393,197.0,Picante Sauce
+1394,11.0,Pimiento Cheese
+1395,207.0,Sugar Substitute
+1396,33.0,Wagyu Beef
+1397,22.0,Golden Milk Powder
+1398,42.0,Fresh Oysters
+1399,36.0,Lamb Leg
+1400,226.0,Dried Basil
+1401,109.0,Potato Skins Snacks
+1402,122.0,Fudge Bars
+1403,60.0,Cheesy Ham & Potato Bake
+1404,48.0,Edamame Soybeans
+1405,11.0,Spreadable Cheese
+1406,117.0,Banana Cream Pie
+1407,152.0,Frozen Onions
+1408,68.0,Pizza Snack Roll
+1409,202.0,Guacamole Salsa
+1410,437.0,Ghost Pepper Salsa
+1411,202.0,Veggie Dip
+1412,124.0,Sorbet
+1413,122.0,Chocolate Ice Cream
+1414,226.0,Frozen Food
+1415,226.0,Variety Pack
+1416,75.0,Thin Crust Pizza
+1417,152.0,Collard Greens
+1418,117.0,Chocolate Ding Dongs
+1419,48.0,Green Beans
+1420,117.0,Macaron Assortment
+1421,74.0,Gluten Free Enchilada
+1422,96.0,Blueberry Muffin Mix
+1423,68.0,Gluten Free Wafer
+1424,201.0,Pasta Sauce
+1425,22.0,Plant-Based Filets
+1426,22.0,Tofu Scramble
+1427,60.0,Shepherd's Pie
+1428,70.0,Stir Fry Sauce
+1429,202.0,Gravy
+1430,60.0,Steak Rolls
+1431,119.0,Donut Holes
+1432,96.0,Banana Nut Muffins
+1433,202.0,Tzatziki Dip
+1434,228.0,Tuna Salad
+1435,60.0,TV Dinner
+1436,68.0,Cornbread Bites
+1437,39.0,Chicken Bites
+1438,134.0,Frozen Bananas
+1439,119.0,Donut Sticks
+1440,93.0,Garlic Herb Bread
+1441,93.0,Raisin Bread
+1442,35.0,Pork Neckbones
+1443,93.0,Multi Grain Bread
+1444,93.0,Brioche Hot Dog Buns
+1445,42.0,Snow Crab Legs
+1446,228.0,Veggie Bacon
+1447,47.0,Kielbasa
+1448,35.0,Glazed Ham
+1449,41.0,Mahi-Mahi Fillets
+1450,22.0,Vegan Deli Slices
+1451,80.0,Sub Sandwich
+1452,228.0,Pepperoni
+1453,226.0,Party Tray
+1454,208.0,Caramel Syrup
+1455,166.0,Frozen Orange Juice
+1456,80.0,Croissant Sandwich
+1457,48.0,Butter Beans
+1458,117.0,Cream Pie
+1459,80.0,Croissant Sandwiches
+1460,96.0,Frozen Biscuits
+1461,134.0,Frozen Banana Dippers
+1462,152.0,Frozen Mushrooms
+1463,111.0,Popcorn Snacks
+1464,226.0,Dill Weed
+1465,198.0,Coconut Aminos
+1466,151.0,Microwave-Ready Potatoes
+1467,124.0,Freezer Pops
+1468,157.0,Steak Fries
+1469,22.0,Beefless Ground
+1470,84.0,Butternut Squash Soup
+1471,84.0,Miso Broth
+1472,226.0,Dandelion Root
+1473,96.0,Pie Crusts
+1474,84.0,Soup
+1475,84.0,Gluten Free Soup
+1476,174.0,Herbal Tea Supplement
+1477,122.0,Frozen Dessert Bars
+1478,68.0,Tostada Bowls
+1479,175.0,Yogurt Smoothie Drink
+1480,196.0,Cooking Oil
+1481,11.0,Cheese Variety Pack
+1482,66.0,Beef Ravioli
+1483,122.0,Sherbet Cup
+1484,99.0,Baked Bars
+1485,120.0,Chocolate Bars
+1486,149.0,Yellow Onions
+1487,197.0,Spicy Ketchup
+1488,197.0,Sugar Free Ketchup
+1489,197.0,Fancy Ketchup
+1490,201.0,Tomato Paste
+1491,194.0,Half & Half
+1492,100.0,Steel Cut Oats
+1493,38.0,Frozen Chicken
+1494,66.0,Vegetable Lasagna
+1495,122.0,Frozen Dessert Bar
+1496,76.0,Frozen Cheese Burgers
+1497,117.0,Coconut Cream Pie
+1498,194.0,Whipping Cream
+1499,44.0,Salami
+1500,226.0,Bread Machine Yeast
+1501,226.0,Ground Cinnamon
+1502,226.0,Cayenne Pepper
+1503,66.0,Ravioli
+1504,208.0,Raspberry Preserves
+1505,191.0,Shortening Sticks
+1506,25.0,Organic Yogurt Pouches
+1507,117.0,Double Chocolate Muffin
+1508,39.0,Popcorn Chicken
+1509,118.0,Pecan Spinwheels
+1510,120.0,Dark Chocolate Dipped Fruit
+1511,66.0,Lasagne Pasta
+1512,38.0,Butter Chicken
+1513,100.0,Oats
+1514,118.0,Cookie Dough
+1515,201.0,Pizza Sauce
+1516,66.0,Brown Rice Pasta
+1517,112.0,Gluten Free Pretzels
+1518,96.0,Chocolate Chip Muffins
+1519,225.0,Protein Powder
+1520,91.0,Ready to Eat Noodles
+1521,202.0,Spinach Artichoke Dip
+1522,226.0,Mousse
+1523,68.0,Cheesy Snacks
+1524,226.0,Dill Seed
+1525,172.0,Zero Sugar Punch
+1526,64.0,Vegetable Medley
+1527,226.0,Bread Flour
+1528,60.0,Shredded Beef
+1529,166.0,Watermelon Juice
+1530,152.0,Hominy
+1531,197.0,Sriracha Sauce
+1532,206.0,Coconut Sugar
+1533,181.0,Rose Wine
+1534,181.0,Red Wine
+1535,130.0,Frozen Blueberries
+1536,37.0,Braunschweiger
+1537,196.0,Olive Oil Spray
+1538,177.0,Black Tea Bags
+1539,124.0,Italian Ice
+1540,226.0,Cabernet Sauvignon
+1541,134.0,Orange Peel
+1542,225.0,Plant Protein Powder
+1543,198.0,Soy-Free Sauce
+1544,226.0,Maca Powder
+1545,208.0,Blueberry Filling/Topping
+1546,191.0,Coconut Oil & Ghee
+1547,66.0,Miso Noodle Bowl
+1548,93.0,Hard Rolls
+1549,177.0,Black Tea
+1550,117.0,Lemon Cake
+1551,117.0,Cheesecakes
+1552,66.0,Ramen Noodles
+1553,172.0,Lemonade Juice Drink
+1554,141.0,Baby Carrots
+1555,228.0,Pork Skins
+1556,25.0,Baby Yogurt
+1557,226.0,Cacao Powder
+1558,84.0,Chicken Soup
+1559,66.0,Pesto Tortellini
+1560,202.0,Sugar-Free Dipping Sauce
+1561,202.0,Barbeque Sauce
+1562,202.0,Buffalo Wing Sauce
+1563,66.0,Spaghetti with Meat Sauce
+1564,201.0,Marinara Sauce
+1565,120.0,Milk Chocolate with Almonds
+1566,64.0,Vegetable Juice
+1567,177.0,Earl Grey Tea
+1568,25.0,Yogurt Pouch
+1569,118.0,Cookie Variety Pack
+1570,171.0,Cherry Soda
+1571,226.0,Parsley Flakes
+1572,25.0,Yogurt Cups
+1573,133.0,Organic Raisins
+1574,154.0,Potato Salad
+1575,118.0,Vanilla Wafers
+1576,100.0,Instant Oatmeal
+1577,198.0,Fish Sauce
+1578,99.0,Granola Cereal
+1579,196.0,Olive Oil Cooking Spray
+1580,152.0,Canned Corn
+1581,84.0,Vegetable Soup
+1582,206.0,Granulated Sugar
+1583,196.0,Cooking Spray
+1584,99.0,Multigrain Cereal
+1585,65.0,Instant Brown Rice
+1586,181.0,Sparkling Wine
+1587,174.0,Aloe Vera Drink
+1588,84.0,Lentil Soup
+1589,91.0,Rice Noodles
+1590,134.0,Dried Fruit
+1591,133.0,Pitted Prunes
+1592,68.0,Chicken Pot Pie
+1593,226.0,Pinot Noir
+1594,152.0,Kale
+1595,133.0,Dried Pineapple
+1596,133.0,Freeze Dried Peach Crisps
+1597,134.0,Dried Apricots
+1598,133.0,Freeze Dried Fruit
+1599,109.0,Banana Chips
+1600,134.0,Dried Blueberries
+1601,109.0,Apple Chips
+1602,11.0,Cheddar Cheese Slices
+1603,97.0,Chocolate Chip Waffles
+1604,157.0,Sweet Potato Fries
+1605,165.0,Frozen Apple Juice
+1606,48.0,Frozen Lima Beans
+1607,38.0,Diced Chicken Breast
+1608,65.0,Gluten Free Risotto
+1609,226.0,Herbs de Provence
+1610,226.0,Marjoram
+1611,226.0,Ground Black Pepper
+1612,84.0,Ramen Broth
+1613,226.0,Caraway Seed
+1614,152.0,Okra
+1615,71.0,Chicken Egg Rolls
+1616,226.0,Ground Sage
+1617,66.0,Ramen Noodle Bowl
+1618,208.0,Maple Syrup
+1619,134.0,Cherry Fruit Filling
+1620,121.0,Yogurt Raisins
+1621,226.0,All Purpose Flour
+1622,91.0,Spaghetti Pasta
+1623,152.0,Diced Tomatoes
+1624,41.0,Seasoned Tuna
+1625,93.0,Sprouted Whole Grain Bread
+1626,11.0,String Cheese
+1627,48.0,Lentils
+1628,191.0,Shortening
+1629,49.0,Sesame Seeds
+1630,196.0,Coconut Cooking Oil
+1631,226.0,Tarragon
+1632,191.0,Ghee
+1633,202.0,Chicken Dipping Sauce
+1634,113.0,Cracker Snacks
+1635,208.0,Honey
+1636,118.0,Protein Cookies
+1637,29.0,Imitation Crab Legs
+1638,109.0,Pringles Snack Stacks
+1639,112.0,Pretzel Twists
+1640,112.0,Peanut Butter Pretzel
+1641,41.0,Swai Fillets
+1642,49.0,Sunflower Butter
+1643,22.0,Dairy-Free Cheese Slices
+1644,145.0,Romaine Lettuce
+1645,152.0,Yellow Squash
+1646,68.0,French Baguette
+1647,25.0,Yogurt Tubes
+1648,96.0,Mini Muffins
+1649,48.0,Frozen Edamame
+1650,68.0,Pizza Bagels
+1651,68.0,Breadsticks
+1652,194.0,Whipped Cream
+1653,97.0,Waffles
+1654,152.0,Canned Yams
+1655,168.0,Diet Soda
+1656,66.0,Macaroni Salad
+1657,74.0,Pico De Gallo
+1658,93.0,Butter Buns
+1659,65.0,Rice Side Dish
+1660,92.0,Instant Yeast
+1661,65.0,Wild Rice
+1662,134.0,Fruit Tray
+1663,121.0,Assorted Candy
+1664,115.0,Granola Squares
+1665,115.0,Peanut Butter Wafer Bars
+1666,116.0,Nutrition Snack Bars
+1667,68.0,Rice Krispies Treats
+1668,115.0,Fruit & Grain Bars
+1669,97.0,Snack Waffle
+1670,99.0,Oatmeal Squares
+1671,117.0,Marshmallow Squares
+1672,66.0,Pasta Salad
+1673,181.0,Chardonnay
+1674,48.0,Wasabi Peas
+1675,181.0,Pinot Grigio
+1676,121.0,Sugar Free Chocolate Candy
+1677,44.0,Jerky Multipack
+1678,228.0,Cheese and Prosciutto Wrap
+1679,116.0,Breakfast Bars
+1680,120.0,Dark Chocolate Bar
+1681,120.0,Peanut Butter Dark Chocolate Bars
+1682,226.0,Keto Snack
+1683,116.0,Fruit & Nut Bars
+1684,97.0,Snack Waffles
+1685,116.0,Snack Bar
+1686,91.0,Fettuccine Pasta
+1687,81.0,Beef & Cheese Multipack
+1688,97.0,Blueberry Waffles
+1689,111.0,Flavored Popcorn
+1690,111.0,Popped-Corn Snack
+1691,172.0,Fruit Punch
+1692,74.0,Chicken Fajitas
+1693,117.0,Coffee Cake
+1694,109.0,Snack Chips Variety Pack
+1695,201.0,Vodka Sauce
+1696,172.0,Fruit Punch Juice
+1697,201.0,Enchilada Sauce
+1698,112.0,Pretzel Rods
+1699,134.0,Canned Pears
+1700,202.0,Garlic Aioli
+1701,180.0,Lager Beer
+1702,122.0,Ice Cream Variety Pack
+1703,142.0,Sweet Potatoes
+1704,116.0,Protein Snacks
+1705,226.0,Cocktail Mixers
+1706,121.0,Lollipop Candy
+1707,22.0,Cashew Milk Powder
+1708,121.0,Caramel Apple Pops
+1709,121.0,Candy Rolls
+1710,226.0,Halloween Flag
+1711,121.0,Sugar Free Candy
+1712,121.0,Fruit Chew Candy
+1713,134.0,Fruit Slices
+1714,120.0,Chocolates
+1715,121.0,Toffee
+1716,121.0,Caramel Candies
+1717,226.0,Candy Canes
+1718,121.0,Candy Theater Box
+1719,121.0,Hazelnut Bar
+1720,120.0,Chocolate Confections
+1721,121.0,Sugar-Free Mints
+1722,120.0,White Chocolate Candy Bar
+1723,187.0,Water Drops
+1724,121.0,Jelly Candy
+1725,121.0,Salt Water Taffy
+1726,121.0,Peach Rings
+1727,188.0,Probiotic Water
+1728,17.0,Drinking Chocolate
+1729,176.0,"Coffee Pods, Cappuccino"
+1730,176.0,Coffee K-Cups
+1731,226.0,Infuser Bags
+1732,177.0,White Tea Bags
+1733,176.0,Espresso Capsules
+1734,176.0,Flavored Coffee
+1735,176.0,Coffee K Cups
+1736,176.0,Maple Flavored Coffee
+1737,63.0,Channa Masala
+1738,60.0,Microwavable Entree
+1739,226.0,Yeast Extract
+1740,44.0,Pork Jerky
+1741,226.0,Indian Food
+1742,64.0,Indian Meal
+1743,112.0,Keto Snack Mix
+1744,226.0,Popped Sorghum
+1745,64.0,Vegetable Korma
+1746,116.0,Fruit Bars
+1747,134.0,Pineapple Snacks
+1748,134.0,Banana Bites
+1749,99.0,Granola Minis
+1750,226.0,Red Roses
+1751,226.0,Rainbow Roses
+1752,226.0,Flowers
+1753,226.0,Poultry Spice Blend
+1754,226.0,Himalayan Salt
+1755,196.0,Vegan Dressing
+1756,197.0,Veggie Ketchup
+1757,197.0,Keto Ketchup
+1758,226.0,Keto Bundle
+1759,196.0,Poppyseed Dressing
+1760,134.0,"Dried Cranberries, Candied Pecans"
+1761,196.0,Raspberry Vinaigrette
+1762,176.0,Cappuccino Coffee Pods
+1763,121.0,Rock Candy
+1764,121.0,Lollipop Rings
+1765,187.0,Cactus Water
+1766,226.0,Yerba Mate
+1767,186.0,Water
+1768,226.0,Super Tea
+1769,226.0,Mineral Drops
+1770,226.0,Vegetable Spice Blend
+1771,214.0,Fruit Pouches
+1772,226.0,Herbal Coffee
+1773,202.0,Pimento Spread
+1774,120.0,Chocolate Mix
+1775,50.0,Turkey Sausage Snack Bites
+1776,22.0,Plant-Based Formula
+1777,21.0,Kids Shake
+1778,90.0,Long Grain Rice
+1779,201.0,Green Chile Sauce
+1780,226.0,Himalayan Pink Salt

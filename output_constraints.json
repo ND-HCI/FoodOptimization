@@ -1,6 +1,14 @@
 {
   "Main_List": {
-    "Macaroni or noodles with cheese, Easy Mac type": {
+    "Milk": {
+      "max": 1,
+      "min": 1
+    },
+    "Eggs": {
+      "max": 1,
+      "min": 1
+    },
+    "Chicken Soup": {
       "max": 1,
       "min": 1
     }

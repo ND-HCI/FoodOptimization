@@ -5,7 +5,7 @@ from collections import Counter
 from sklearn.preprocessing import StandardScaler
 from Optimizer2 import NutOptimizer
 import pandas as pd
-from python_functions.get_food_code import get_food_codes, lookup_food_codes
+from python_functions.get_food_code import get_food_codes, lookup_food_codes_short
 # from python_functions.get_keyword_list import lookup_food_codes
 import python_functions.cleanup_functions as cleanup_functions
 from hashTable.food_tree import create_food_tree, get_level2_descriptions, get_grandparent_level_descriptions, get_grandparent_nodes, get_parent_nodes
@@ -73,19 +73,23 @@ def recommendations():
         print(chosenItems)
         food_codes = get_food_codes(chosenItems)
         print(food_codes)
-        descriptions = lookup_food_codes(food_codes, 'hashTable/mergedFNDDS.csv')
+        descriptions = lookup_food_codes_short(food_codes, 'hashTable/mergedFNDDS.csv')
         print(descriptions)
         chosen_item_order = {item: i for i, item in enumerate(descriptions)}
         print(chosen_item_order)
 
         level2_descriptions = get_level2_descriptions(root, name_to_node, descriptions)
+        print(level2_descriptions)
         level1_descriptions = get_grandparent_level_descriptions(root, name_to_node, descriptions)
+        print(level1_descriptions)
         parent_nodes = get_parent_nodes(name_to_node, descriptions)
+        print(parent_nodes)
         grandparent_nodes = get_grandparent_nodes(name_to_node, descriptions)
+        print(grandparent_nodes)
 
         chosen_item_order_level2 = {item: i for i, item in enumerate(parent_nodes)}
         chosen_item_order_level1 = {item: i for i, item in enumerate(grandparent_nodes)}
-        print(chosen_item_order_level1)
+        # print(chosen_item_order_level1)
 
         main_data = pd.read_csv('database_cleaned_fullgrocery_with_parents.csv')
         # Assuming database_cleaned_fullgrocery_with_parents is your DataFrame
@@ -139,6 +143,9 @@ def recommendations():
                 
         num_checked = len(checked_boxes)
         weights = [1/num_checked if col in checked_boxes else 0 for col in optimization_cols]
+
+        if Level3.empty:
+            print("Level3 DataFrame is empty!")
 
         #First Recommendation: 
         opt = NutOptimizer(data=Level3)
@@ -267,5 +274,5 @@ def recommendations():
         # return render_template('recommendations.html', data=data_recommendation, html_output=output_as_html)
         return render_template('recommendations.html', data=grouped_data, html_output=output_as_html)
 
-app.run(debug=True, port=5501)
+app.run(debug=True, port=5510)
 

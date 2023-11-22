@@ -1,0 +1,969 @@
+ID,Parent_ID,Value
+1,,Food
+2,1,Protein
+3,1,Dairy
+4,1,Vegetable
+5,1,Fruit
+6,1,Grain
+7,1,Other
+8,3,Milk and Milk Products:
+9,8,"Milks, milk drinks"
+10,9,Dairy Milk Varieties
+11,10,Milk
+12,11,"Milk, reduced fat (2%)"
+13,11,"Milk, whole"
+14,11,"Milk, low fat (1%)"
+15,10,Processed Milk
+16,15,"Milk, evaporated, whole"
+17,15,"Milk, fat free (skim)"
+18,15,"Milk, condensed, sweetened"
+19,15,"Milk, malted"
+20,10,Special Milk Types
+21,20,Buttermilk
+22,20,Goat’s Milk
+23,9,Other Milk Types
+24,23,Lactose-free milk varieties
+25,24,Lactose-free milk
+26,25,Lactose-free reduced fat
+27,25,Lactose-free whole milk
+28,25,Lactose-free skim milk
+29,25,Lactose-free fat free (skim)
+30,23,Non-dairy milk varieties
+31,30,Soy milk
+32,30,Almond milk
+33,32,"Almond milk, sweetened"
+34,32,"Almond milk, sweetened, chocolate"
+35,32,"Almond milk, unsweetened"
+36,32,"Almond milk, unsweetened, chocolate"
+37,30,Rice milk
+38,30,Coconut milk
+39,30,Oat Milk
+40,39,"Oat milk, unsweetened"
+41,39,"Oat milk, sweetened"
+42,30,Hemp Milk
+43,42,"Hemp milk, unsweetened"
+44,42,"Hemp milk, sweetened"
+45,9,Flavored Milk & Drinks
+46,45,Chocolate-Based Drinks
+47,46,Chocolate milk
+48,46,Hot chocolate / Cocoa
+49,45,Fruit-Flavored Milk
+50,49,Strawberry milk
+51,45,Seasonal & Special Drinks
+52,51,Eggnog
+53,8,Yogurt Like Products
+54,53,Yogurts & Dips
+55,54,Yogurt
+56,55,"Yogurt, whole milk, plain"
+57,55,"Yogurt, low fat milk, plain"
+58,55,"Yogurt, nonfat milk, plain"
+59,55,"Yogurt, liquid"
+60,55,"Yogurt, coconut milk"
+61,55,"Yogurt, Greek"
+62,55,"Yogurt, soy"
+63,54,Dips
+64,63,Chipotle dip
+65,63,Onion dip
+66,63,Ranch dip
+67,63,Spinach dip
+68,63,Tzatziki dip
+69,63,Vegetable dip
+70,53,Sour Cream
+71,8,Creams and cream substitutes
+72,71,Cream Products
+73,72,Cream
+74,72,Coffee creamer
+75,74,Half & Half
+76,74,Non-Dairy Creamer
+77,76,Almond Milk Creamer
+78,76,Soy Milk Creamer
+79,74,Coffee Creamer Powder
+80,8,Milk desserts and sauces
+81,80,Frozen Yogurt Types
+82,81,Frozen Yogurt
+83,81,Frozen yogurt sandwich
+84,81,Frozen yogurt bar
+85,81,Frozen yogurt cone
+86,80,Ice Creams and Related Products
+87,86,Ice cream
+88,86,Gelato
+89,86,Ice cream bar
+90,86,Ice cream candy bar
+91,86,Ice cream sandwich
+92,86,Ice cream cone
+93,86,Ice cream sundae
+94,86,Banana split
+95,86,Soft serve
+96,86,Popsicles and Similar Products
+97,96,Sherbet
+98,96,Creamsicle
+99,96,Fudgesicle
+100,96,Ice cream soda
+101,80,Puddings & Custards
+102,101,Pudding
+103,101,Custard
+104,101,Flan
+105,101,Creme brulee
+106,101,Firni
+107,101,Banana pudding
+108,101,Mousse
+109,101,Dulce de leche
+110,80,International Desserts
+111,110,Barfi or Burfi
+112,110,Trifle
+113,110,Tiramisu
+114,80,Other
+115,114,Toppings
+116,115,Whipped Cream
+117,8,Cheeses
+118,117,Cheese-Based Dips
+119,118,Artichoke dip
+120,118,Seafood dip
+121,118,Cheese dip
+122,118,Cheese fondue
+123,117,Cheese Based Sauces
+124,123,Cheese sauce
+125,123,Alfredo Sauce
+126,117,Cheese Type Products
+127,126,Cream Cheese Products
+128,127,Cream Cheese
+129,127,Cream cheese spread
+130,127,Cheese spread
+131,126,Cheese ball
+132,126,Imitation cheese
+133,117,Cheese
+134,133,"Cheese, Blue or Roquefort"
+135,133,"Cheese, Brick"
+136,133,"Cheese, Camembert"
+137,133,"Cheese, Brie"
+138,133,"Cheese, Cheddar"
+139,133,"Cheese, Colby"
+140,133,"Cheese, Feta"
+141,133,"Cheese, Fontina"
+142,133,"Cheese, goat"
+143,133,"Cheese, Gouda or Edam"
+144,133,"Cheese, Gruyere"
+145,133,"Cheese, Limburger"
+146,133,"Cheese, Monterey"
+147,133,"Cheese, Mozzarella"
+148,133,"Cheese, Muenster"
+149,133,"Cheese, Parmesan"
+150,133,"Cheese, Port du Salut"
+151,133,"Cheese, Provolone"
+152,133,"Cheese, Swiss"
+153,133,"Cheese, paneer"
+154,133,"Cheese, Mexican blend"
+155,133,"Cheese, American"
+156,133,"Cheese, Ricotta"
+157,133,"Cheese, cottage"
+158,117,Queso
+159,158,Queso Anejo
+160,158,Queso Asadero
+161,158,Queso Fresco
+162,158,Queso cotija
+163,2,"Meat, Poultry, Fish, and Mixtures"
+164,163,Red meat
+165,164,Beef
+166,165,Beef Steak
+167,166,"Beef, steak, chuck"
+168,166,"Beef, steak, cube"
+169,166,"Beef, steak, flank"
+170,166,"Beef, steak, ribeye"
+171,166,"Beef, steak, sirloin"
+172,166,"Beef, steak, T-bone"
+173,166,"Beef, steak, tenderloin"
+174,166,"Beef, steak, country fried"
+175,165,Roasts and Other Cuts
+176,175,"Beef, oxtails"
+177,175,"Beef, neck bones"
+178,175,"Beef, short ribs"
+179,175,"Beef, cow head"
+180,175,"Beef, pot roast"
+181,175,"Beef, roast"
+182,175,"Beef, brisket"
+183,175,"Beef, stew meat"
+184,165,Ground Beef & Patty
+185,184,"Beef, ground"
+186,184,"Beef, ground, patty"
+187,165,Specialty Beef Items
+188,187,"Beef, corned"
+189,165,Beef jerky
+190,164,Pork
+191,190,Fresh Cuts
+192,191,"Pork, ground"
+193,191,"Pork, chop"
+194,191,"Pork, steak"
+195,191,"Pork, tenderloin"
+196,191,"Pork, roast"
+197,191,"Pork, ribs"
+198,191,"Pork, ears"
+199,191,"Pork, belly"
+200,190,Processed Pork
+201,200,Pork jerky
+202,200,Ham
+203,202,"Ham, prosciutto"
+204,202,"Ham, canned"
+205,202,"Ham, ground"
+206,190,Bacon Types
+207,206,Bacon
+208,206,Pork bacon
+209,206,Bacon or side pork
+210,206,Fried pork chunks
+211,164,"Lamb, veal, game"
+212,211,Veal
+213,212,"Veal, Chop"
+214,212,"Veal, Ground"
+215,212,"Veal, Roast"
+216,211,Lamb
+217,216,"Lamb, Chop"
+218,216,"Lamb, Ground"
+219,211,Goat
+220,211,Rabbit
+221,211,Venison
+222,221,Venison/deer jerky
+223,221,Venison sausage
+224,211,Moose
+225,163,Poultry
+226,225,Chicken
+227,226,Chicken breast
+228,226,Chicken leg
+229,226,Chicken drumstick
+230,226,Chicken thigh
+231,226,Chicken wing
+232,226,Chicken skin
+233,226,Chicken feet
+234,226,Processed chicken
+235,234,Fried chicken chunks
+236,234,Chicken patty
+237,234,Chicken filet
+238,234,Chicken nuggets
+239,234,Chicken tenders or strips
+240,225,Turkey
+241,240,Turkey bacon
+242,240,"Turkey, ground"
+243,240,"Turkey, thigh"
+244,240,"Turkey, drumstick"
+245,240,"Turkey, ground"
+246,240,"Turkey, nugget"
+247,225,Other
+248,247,Duck
+249,247,Goose
+250,247,Cornish game hen
+251,247,Dove
+252,247,Quail
+253,247,Pheasant
+254,225,Animal Fat or Drippings
+255,163,"Organ meats frankfurters, sausages"
+256,255,Meat spreads
+257,256,Meat spread or potted meat
+258,256,Chicken salad spread
+259,256,Ham salad spread
+260,255,Organ meats
+261,260,Spam
+262,260,Liver
+263,260,Heart
+264,260,Kidney
+265,260,Gizzard
+266,255,Sausage-likes
+267,266,Mortadella
+268,266,Bologna
+269,266,Pepperoni
+270,266,Hot dog
+271,266,Beef sausage
+272,266,Bratwurst
+273,266,Turkey or chicken and beef sausage
+274,266,Chorizo
+275,266,Knockwurst
+276,266,Polish sausage
+277,266,Italian sausage
+278,266,Sausage
+279,266,Pork sausage
+280,266,Turkey sausage
+281,266,Chicken sausage
+282,266,Vienna sausage
+283,266,Pickled sausage
+284,163,Lunch Meats
+285,284,Ham Lunch Meat
+286,285,Smoked ham slices
+287,285,Honey ham
+288,284,Turkey Lunch Meat
+289,288,Turkey breast slices
+290,288,Smoked turkey slices
+291,284,Chicken Lunch Meat
+292,291,Chicken breast slices
+293,291,Rotisserie chicken slices
+294,284,Beef Lunch Meat
+295,294,Roast beef slices
+296,294,Corned beef slices
+297,294,Pastrami
+298,284,Specialty and Gourmet Lunch
+299,298,Capicola
+300,298,Mortadella
+301,298,Prosciutto
+302,284,Mixed Lunch Meat
+303,302,Olive loaf
+304,302,Head cheese
+305,302,Bologna
+306,302,Liverwurst
+307,284,International Varieties
+308,307,Salami
+309,307,Chorizo slices
+310,307,Soppressata
+311,284,Vegetarian and Vegan Lunch Meats
+312,163,"Fish, shellfish"
+313,312,Fish
+314,313,Salmon
+315,313,Tilapia
+316,313,Cod
+317,312,Other
+318,317,Caviar
+319,317,Octopus
+320,317,Calamari
+321,317,Turtle
+322,312,Shellfish
+323,322,Abalone
+324,322,Clams
+325,322,Crab
+326,322,Crayfish
+327,322,Lobster
+328,322,Mussels
+329,322,Oysters
+330,322,Scallops
+331,322,Shrimp
+332,322,Escargot
+333,322,Plant Based
+334,322,Bacon-Like
+335,322,Plant Based Bacon
+336,2,Eggs
+337,336,Eggs Products Only
+338,337,Egg Types
+339,338,Brown Eggs
+340,338,Eggs
+341,337,Egg White
+342,337,Liquid Egg
+343,342,Egg Replacer
+344,336,Other Egg Types
+345,344,Quail Eggs
+346,344,Duck Eggs
+347,336,Egg Preparations
+348,347,Boiled Eggs
+349,347,Egg Salad
+350,347,Egg Scramble Kit
+351,336,Egg substitute
+352,336,Egg mixtures
+353,352,Egg salad
+354,352,Egg white
+355,2,"Dry Beans, Peas, Other Legumes, Nuts, and Seeds"
+356,355,Legumes
+357,356,Dips
+358,357,Bean dip
+359,357,Layer dip
+360,357,Hummus
+361,357,Black bean sauce
+362,355,Bean soups
+363,362,Bean type soups
+364,362,Bean with bacon or ham soup
+365,362,Black bean soup
+366,362,Soybean soup
+367,362,Bean and ham soup
+368,362,Liquid from stewed kidney beans
+369,362,Garbanzo bean or chickpea soup
+370,362,Split pea and ham soup
+371,362,Split pea soup
+372,362,Lentil soup
+373,355,Tofu
+374,355,Bean Products
+375,374,Beans
+376,374,White beans
+377,374,Black beans
+378,374,Fava beans
+379,374,Lima beans
+380,374,Pink beans
+381,374,Pinto beans
+382,374,Kidney beans
+383,374,Peruvian beans
+384,374,Soybeans
+385,374,Mung beans
+386,374,Baked beans
+387,374,Refried beans
+388,374,Blackeyed peas
+389,374,Chickpeas
+390,374,Split peas
+391,374,Wasabi peas
+392,374,Lentils
+393,374,Dal
+394,374,Papad
+395,374,Soy nuts
+396,374,Edamame
+397,374,Falafel
+398,374,Bean cake
+399,355,Beans with other
+400,399,Black beans with meat
+401,399,Pinto beans with meat
+402,399,Kidney beans with meat
+403,399,Refried beans with meat
+404,399,Pork and beans
+405,399,Beans with meat
+406,399,Black bean salad
+407,399,Chili with beans
+408,399,Lentil curry
+409,399,Lentil curry with rice
+410,355,Meat substitute meals
+411,410,Swiss steak
+412,410,Pot pie
+413,410,Vegetarian chili
+414,410,Vegetarian stroganoff
+415,410,Bean chips
+416,410,Soy chips
+417,410,Sambar
+418,410,Vegetarian stew
+419,410,Soybean curd
+420,410,Soybean curd cheese
+421,410,Yogurt
+422,410,Vermicelli
+423,410,Textured vegetable protein
+424,410,Frozen dessert
+425,410,Bacon strip
+426,410,Breakfast link
+427,410,Chicken
+428,410,Hot dog
+429,410,Luncheon slice
+430,410,Meatball
+431,410,Veggie burger patty
+432,410,Veggie burger
+433,410,Falafel sandwich
+434,355,"Nuts, nut butters, nut mixtures"
+435,434,Raw nuts
+436,435,Nuts
+437,435,Almonds
+438,435,Brazil nuts
+439,435,Cashews
+440,435,Chestnuts
+441,435,Coconut
+442,435,Hazelnuts
+443,435,Macadamia nuts
+444,435,Mixed nuts
+445,435,Peanuts
+446,435,Pecans
+447,435,Pine nuts
+448,435,Pistachio nuts
+449,435,Walnuts
+450,434,Nut butters/sauce
+451,450,Peanut sauce
+452,450,Soy nut butter
+453,450,Almond butter
+454,450,Cashew butter
+455,450,Peanut butter
+456,450,Peanut butter and jelly
+457,450,Peanut butter and chocolate spread
+458,434,Paste
+459,458,Almond paste
+460,434,Nut mixes
+461,460,Trail mix
+462,460,Trail mix with nuts
+463,460,Trail mix with nuts and fruit
+464,460,Trail mix with chocolate
+465,460,Trail mix with chocolate
+466,460,Trail mix with pretzels
+467,355,Seeds and seed mixtures
+468,355,Seeds
+469,468,Pumpkin seeds
+470,468,Sunflower seeds
+471,468,Sesame seeds
+472,468,Flax seeds
+473,468,Chia seeds
+474,355,Seed mixtures
+475,474,Tahini
+476,474,Mixed seeds
+477,355,Legume Based Soups
+478,477,Bean soup
+479,477,Lentil Soup
+480,5,Fruit Types
+481,480,Citrus Fruits
+482,481,Clementine
+483,481,Grapefruit
+484,481,Kumquat
+485,481,Lemon
+486,481,Lime
+487,481,Orange
+488,481,Tangerine
+489,480,Raw fruits
+490,489,Common Fruits
+491,490,Apple
+492,490,Banana
+493,490,Grapes
+494,489,Tropical and Exotic Fruits
+495,494,Mango
+496,494,Guava
+497,494,Kiwi
+498,494,Dragonfruit
+499,494,Lychee
+500,494,Soursop
+501,489,Others
+502,501,Avocado
+503,501,Nectarine
+504,501,Peach
+505,501,Pear
+506,501,Pineapple
+507,501,Apricot
+508,501,Plum
+509,501,Pomegranate
+510,501,Rhubarb
+511,501,Tamarind
+512,501,Starfruit
+513,501,Passionfruit
+514,501,Persimmon
+515,501,Fig
+516,480,Fresh Berries
+517,516,Blackberries
+518,516,Blueberries
+519,516,Cranberries
+520,516,Raspberries
+521,516,Strawberries
+522,480,Melons
+523,522,Cantaloupe
+524,522,Honeydew melon
+525,522,Watermelon
+526,522,papaya
+527,480,Frozen fruit products
+528,5,Dried fruits
+529,528,Dried berries
+530,529,Dried Blueberries
+531,529,Dried Cherries
+532,529,Dried Cranberries
+533,528,All other dried fruits
+534,533,Dried Fruit mixture
+535,533,Dried Apple
+536,533,Dried Apricot
+537,533,Dried Banana chips
+538,533,Dried Currants
+539,533,Dried Date
+540,533,Dried Fig
+541,533,Dried Mango
+542,533,Dried Papaya
+543,533,Dried Peach
+544,533,Dried Pear
+545,533,Dried Persimmon
+546,533,Dried Pineapple
+547,533,Dried Prune
+548,533,Dried Raisins
+549,533,Dried Tamarind
+550,5,Fruit Snacks and Desserts
+551,550,Fruit mixtures
+552,551,Guacamole
+553,551,Guacamole with tomatoes
+554,551,Lime souffle
+555,551,Soup
+556,551,Chutney
+557,551,Fruit salad
+558,551,Fruit cocktail
+559,551,Fruit mixture
+560,551,Apple salad with dressing
+561,551,Pineapple salad with dressing
+562,550,Deserts
+563,562,Pie filling
+564,563,Lemon pie filling
+565,563,Cherry pie filling
+566,563,Blueberry pie filling
+567,563,Apple pie filling
+568,550,Fruit Snacks:
+569,568,Applesauce
+570,568,Cranberry Sauce
+571,5,Fruit Juices and nectars
+572,571,Smoothies
+573,572,Fruit smoothie
+574,572,Fruit smoothie juice drink
+575,571,Nectars
+576,575,Fruit nectar
+577,571,Juice
+578,577,Cranberry juice
+579,577,Grape juice
+580,577,Pineapple juice
+581,577,Pomegranate juice
+582,577,Prune juice
+583,577,Strawberry juice
+584,577,Watermelon juice
+585,577,Apple cider
+586,577,Apple juice
+587,577,Hawaiian Punch
+588,571,Citrus Juices
+589,588,Lemon Juice
+590,588,Lime Juice
+591,588,Grapefruit Juice
+592,588,Orange Juice
+593,588,Tangerine Juice
+594,588,Fruit Juice Blend
+595,4,"White potatoes, starchy vegetables"
+596,595,Starchy vegetable snacks
+597,596,Plantain chips
+598,596,Taro Chips
+599,596,Potato Chips
+600,596,Potato Sticks
+601,595,Starchy Vegetables Raw
+602,601,Potato
+603,601,Sweet Potato
+604,601,Yam
+605,595,Starchy Potato Snacks
+606,605,Potato skins
+595,605,Sweet Potato Snacks
+608,595,Sweet potato chips
+609,595,Sweet potato fries
+610,595,Sweet potato tots
+611,595,Breakfast Potatoes
+612,611,Potato patty
+613,611,Hash Browns
+614,595,Potato Dishes
+615,614,Potato salad
+616,614,Mashed potatoes
+617,614,Baked potatoes
+618,595,Other vegetables
+619,618,Plantain
+620,618,Green banana
+621,618,Cassava
+622,618,Dasheen
+623,618,Taro
+624,618,Fufu
+625,618,Yuca fries
+626,4,Dark-green vegetables
+627,626,Raw dark green vegetables
+628,627,Chard
+629,627,Collards
+630,627,Escarole
+631,627,Kale
+632,627,Lambsquarter
+633,627,Mustard greens
+634,627,Turnip greens
+635,627,Watercress
+636,627,Broccoli
+637,627,Romaine lettuce
+638,627,Spinach
+639,4,Orange vegetables
+640,639,Raw orange vegetables
+641,640,Carrots
+642,640,Squash
+643,640,Winter squash
+644,640,Sweet potato
+645,640,Peas and carrots
+646,640,pumpkin
+647,4,"Tomatoes, tomato mixtures"
+648,647,Raw tomatoes
+649,648,Tomatoes
+650,648,Fried green tomatoes
+651,648,Sun-dried tomatoes
+652,647,Tomato juice types
+653,652,Tomato juice
+654,652,Tomato and vegetable juice
+655,4,Other vegetables
+656,655,Other vegetable salad
+657,656,Broccoli slaw salad
+658,656,Coleslaw
+659,656,Salad
+660,655,Other vegetable dips
+661,660,Eggplant dip
+662,655,Other vegetables raw
+663,662,Herbs
+664,663,Basil
+665,663,Chives
+666,663,Cilantro
+667,663,Parsley
+668,662,Seaweed
+669,662,Yeast
+670,662,Green beans
+671,662,Lettuce
+672,662,Artichokes
+673,662,Corn
+674,662,Mushrooms
+675,662,Squash
+676,662,Garlic
+677,662,Pepper
+678,662,Hot peppers
+679,662,Pimiento
+680,662,Yeast extract spread
+681,662,Horseradish
+682,662,Raw vegetable
+683,662,Sprouts
+684,662,Alfalfa sprouts
+685,662,Artichoke
+686,662,Asparagus
+687,662,Bean sprouts
+688,662,Beets
+689,662,Broccoflower
+690,662,Brussel sprouts
+691,662,Cactus
+692,662,Cauliflower
+693,662,Celery
+694,662,Fennel bulb
+695,662,Cucumber
+696,662,Eggplant
+697,662,Jicama
+698,662,Kohlrabi
+699,662,Radish
+700,662,Rutabaga
+701,662,snowpeas
+702,662,Summer squash
+703,662,Turnip
+704,662,Bamboo shoots
+705,662,Bitter melon
+706,662,Burdock
+707,662,Christophine
+708,662,Flowers or blossoms of sesbania
+709,662,Lotus root
+710,662,Mushroom
+711,662,Okra
+712,662,Palm hearts
+713,662,Parsnips
+714,662,Peppers
+715,662,Daikon radish
+716,662,Salsify
+717,662,Snowpea
+718,662,Winter melon
+719,662,Broccoli
+720,662,Jalapenos
+721,662,Green peas
+722,662,Lima beans
+723,662,Breadfruit
+724,662,Blackeyed peas
+725,662,Water chestnut
+726,662,Pickles
+727,662,Spaghetti squash
+728,662,Cabbage
+729,662,Kimchi
+730,662,Ginger root
+731,662,Olives
+732,655,Vegetable mixtures
+733,655,Classic mixed vegetables
+734,655,Stir Fry
+735,655,Lima beans and corn
+736,655,Peas and corn
+737,655,Mixed salad greens
+738,655,Sauerkraut
+739,655,Radishes
+740,655,Zucchini
+741,655,Yellow string beans
+742,655,Onions
+743,655,Leek
+744,4,Vegetable Type Soup
+745,744,Starchy vegetable soups
+746,745,Potato soup
+747,745,Potato chowder
+748,744,Common Vegetable Types Soup
+749,748,Broccoli soup
+750,748,Spinach soup
+751,748,Asparagus soup
+752,748,Cabbage soup
+753,748,Kimchi soup
+754,748,Celery soup
+755,748,Mushroom soup
+756,748,Onion soup
+757,748,Pea soup
+758,748,Seaweed soup
+759,748,Vegetable broth
+760,748,Tomato soup
+761,6,"Yeast Breads, rolls"
+762,761,Full Breads
+763,762,Bread Types
+764,762,"Bread, white"
+765,762,"Bread, Cuban"
+766,762,"Bread, French"
+767,762,"Bread, naan"
+768,762,"Bread, pita"
+769,762,"Bread, cheese"
+770,762,"Bread, cinnamon"
+771,762,"Bread, Challah"
+772,762,"Bread, onion"
+773,762,"Bread, potato"
+774,762,"Bread, raisin"
+775,762,"Bread, sour dough"
+776,762,"Bread, sweet potato"
+777,762,"Bread, vegetable"
+778,762,"Bread, whole grain white"
+779,762,"Bread, whole wheat"
+780,762,"Bread, sprouted wheat"
+781,762,"Bread, wheat"
+782,762,"Bread, rye"
+783,762,"Bread, marble rye and pumpernickel"
+784,762,"Bread, pumpernickel"
+785,762,"Bread, black"
+786,762,"Bread, oatmeal"
+787,762,"Bread, oat bran"
+788,762,"Bread, multigrain"
+789,762,"Bread, barley"
+790,762,"Bread, soy"
+791,762,"Bread, sunflower meal"
+792,762,"Bread, rice"
+793,762,"Bread, Spanish coffee"
+794,762,"Bread, Boston Brown"
+795,762,"Bread, nut"
+796,762,"Bread, pumpkin"
+797,762,"Bread, fruit"
+798,762,"Bread, zucchini"
+799,762,"Bread, Irish soda"
+800,761,Focaccia
+801,761,Garlic bread
+802,761,Rolls
+803,761,Breadsticks
+804,761,Bakery breads
+805,804,Pan dulce
+806,804,Coffee cake
+807,804,Croissant
+808,804,Brioche
+809,804,Pannetone
+810,804,Muffin
+811,761,Bagel Type
+812,811,Bagel
+813,761,Bread helpers
+814,813,Croutons
+815,761,Other breads
+816,815,Full quick Breads
+817,816,Biscuit
+818,816,Scone
+819,816,Cornbread
+820,816,Tortilla
+821,816,Taco shell
+822,6,"Cakes, cookies, pies, pastries, bars"
+823,822,Cake Types
+824,823,Cake or cupcake
+825,823,Cake
+826,823,Cheesecake
+827,823,Snack cake
+828,823,Ice cream cake
+829,822,Pie
+830,829,Pie
+831,829,Tart
+832,829,Dessert pizza
+833,829,Pie shell
+834,829,Cobbler
+835,829,Crisp
+836,829,Strudel
+837,822,Pastries
+838,837,Baklava
+839,837,Basbousa
+840,837,Turnover
+841,837,Fritter
+842,837,Cream puff
+843,837,Sopaipilla
+844,837,Pastry
+845,837,Cheese pastry puffs
+846,837,Breakfast pastry
+847,837,Danish pastry
+848,837,Doughnut
+849,837,Doughnut holes
+850,837,Churros
+851,837,Beignet
+852,837,Breakfast tart
+853,837,Coffee cake
+854,837,Crepe
+855,822,Meal pastries
+856,855,Empanada
+857,855,Tamale
+858,822,Cookie types
+859,858,Cookie
+860,858,Cookie bar
+861,858,Pocky
+862,858,Marie biscuit
+863,858,Cookies
+864,822,Granola bars
+865,864,Cereal or granola bar
+866,864,Breakfast bar
+867,864,Nutrition bar
+868,6,"Crackers, snack products"
+869,868,Chips
+870,868,Snacks
+871,868,Puffed/popped snacks
+872,871,Rice cake
+873,871,Popcorn cake
+874,871,Rice paper
+875,871,Popcorn
+876,868,Cracker snacks
+877,876,Corn nuts
+878,876,Crackers
+879,876,Graham crackers
+880,876,Pretzels
+881,6,"Pancakes, waffles, french toast, other grain products"
+882,881,Pancakes
+883,881,Crepe
+884,881,Waffle
+885,881,French toast
+886,6,"Pastas, rice, cooked cereals"
+887,886,Pasta Types
+888,887,Noodles
+889,887,Pasta
+890,889,Spaghetti
+891,889,Penne
+892,889,Fettuccine
+893,889,Linguine
+894,889,Macaroni
+895,889,Rigatoni
+896,889,Farfalle
+897,889,Rotini
+898,889,Lasagna
+899,889,Ravioli
+900,889,Tortellini
+901,889,Orzo
+902,889,Gnocchi
+903,889,Cavatappi
+904,889,Manicotti
+905,886,Long rice noodles
+906,886,Rice noodles
+907,886,Rice-likes
+908,907,Barley
+909,907,Buckwheat groats
+910,907,Millet
+911,907,Quinoa
+912,907,Bulgur
+913,907,Couscous
+914,907,Rice
+915,907,Congee
+916,907,Yellow rice
+917,886,Cooked cereals
+919,917,Cream of wheat
+920,886,Whole wheat cereal
+921,920,Wheat cereal
+922,920,Oat bran cereal
+923,920,Oatmeal
+924,886,Mush grains
+925,924,Grits
+926,924,"Cereals, not cooked"
+927,924,Oats
+928,924,Cereal
+929,7,Baking/Mixes
+930,929,Mixes
+931,929,Salad Dressing
+932,929,Spices
+933,929,Oil
+934,929,Sauce
+935,929,Seasoning
+936,929,Condiments
+937,936,Mustard
+938,936,Honey mustard dip
+939,936,Hot pepper sauce
+940,936,Wasabi paste
+941,936,Relish
+942,936,Tomato sauces
+943,942,Enchilada sauce
+944,942,Salsa verde or salsa
+945,942,Spaghetti sauce
+946,942,Spaghetti sauce with added vegetables
+947,942,Vodka sauce with tomatoes and cream
+948,942,Hot thai sauce
+949,942,Buffalo sauce
+950,942,Ketchup
+951,942,Tomato chili sauce
+952,942,Salsa
+953,942,Taco sauce
+954,942,Barbecue sauce
+955,942,Steak sauce
+956,942,Cocktail sauce
+957,929,Dessert Toppings
+958,957,Sprinkles
+959,929,Flour/Dry Mixes
+960,7,Drinks
+961,960,Sweeteners
+962,960,Alcoholic Beverages
+963,962,Beer
+964,962,Liquor
+965,960,Other
+966,965,Whey
+967,965,Beverage Powder
+968,965,Protein shake
+969,965,Smoothie

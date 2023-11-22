@@ -1,0 +1,16 @@
+ID,Parent_ID,Value
+1,,Food
+2,1,Dairy
+3,2,Cheese
+4,3,"Cheese, Cheddar"
+5,3,"Cheese, cottage"
+6,1,Grains
+7,6,Bread
+8,7,"Bread, white"
+9,7,"Bread, whole grain white"
+10,1,Protein
+11,10,Chicken
+12,11,Chicken breast
+13,11,Ground Chicken
+14,11,Popcorn Chicken
+15,11,Chicken Thighs
