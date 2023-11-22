@@ -44,9 +44,15 @@ def recommendations():
     if request.method == "GET":
         return render_template('recommendations.html', test="get", data={})
     elif request.method == "POST":
-        # TODO: Change appearence of data output dictionary: 
-        # data_recommendation = Level3_data_output.to_dict(orient='records')
-        level3_data_output, grouped_data = generateRecommendations(dict(request.form))
+        # TODO: Change appearence of data output dictionary:
+        
+        # prepare chosenItems
+        form_data = dict(request.form)
+        form_data['chosenItems'] = form_data['chosenItems'].split("#^$")
+        # pop the last item off the list, which is an empty string
+        form_data['chosenItems'].pop(-1)
+
+        level3_data_output, grouped_data = generateRecommendations(form_data)
         data_recommendation = level3_data_output.to_dict(orient='records')
         output_as_html = level3_data_output.to_html()
         # return render_template('recommendations.html', data=data_recommendation, html_output=output_as_html)

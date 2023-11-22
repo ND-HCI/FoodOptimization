@@ -10,6 +10,7 @@ from anytree import Node, RenderTree, PreOrderIter
 import datetime
 
 def generateRecommendations(form_data):
+    # print('form_data',form_data)
     constraints_mapping = {
         "checkboxSodium": "Sodium/Salt",
         "checkboxSatFat": "Saturated Fat",
@@ -20,24 +21,25 @@ def generateRecommendations(form_data):
 
     for key, value in constraints_mapping.items():
         if form_data.get(key):
+            print('value',value)
             checked_boxes.append(value)
 
     # print(checked_boxes)
 
-    #Creating Tree: 
+    #Creating Tree:
+    target_dir = ""
+
     root, name_to_node = create_food_tree(
-    schema_file='schema.csv',
-    food_file='food.csv',
-    survey_file='survey_fndds_food.csv',
-    wweia_file='wweia_food_category.csv')
+    schema_file=target_dir+'schema.csv',
+    food_file=target_dir+'food.csv',
+    survey_file=target_dir+'survey_fndds_food.csv',
+    wweia_file=target_dir+'wweia_food_category.csv')
 
     chosenItems = form_data['chosenItems']
-    chosenItems = chosenItems.split("#^$")        # pop the last item off the list, which is an empty string
-    chosenItems.pop(-1)
     # print(chosenItems)
     food_codes = get_food_codes(chosenItems)
     # print(food_codes)
-    descriptions = lookup_food_codes_short(food_codes, 'hashTable/mergedFNDDS.csv')
+    descriptions = lookup_food_codes_short(food_codes, target_dir+'hashTable/mergedFNDDS.csv')
     # print(descriptions)
     chosen_item_order = {item: i for i, item in enumerate(descriptions)}
     # print(chosen_item_order)
@@ -55,12 +57,16 @@ def generateRecommendations(form_data):
     chosen_item_order_level1 = {item: i for i, item in enumerate(grandparent_nodes)}
     # print(chosen_item_order_level1)
 
-    main_data = pd.read_csv('database_cleaned_fullgrocery_with_parents.csv')
+    main_data = pd.read_csv(target_dir+'database_cleaned_fullgrocery_with_parents.csv')
     # Assuming database_cleaned_fullgrocery_with_parents is your DataFrame
     main_data.rename(columns={'ID': 'ID_x'}, inplace=True)
 
     # Filter rows that contain the descriptions in the 'Keyword' column
     Level3 = main_data[main_data['Keyword'].isin(descriptions)]
+    ####
+    #  TODO:
+    #  Error handling for when there is no keyword in description
+    ####
 
     output = {"Main_List": {}}
     output_level2 = {"Main_List_Level2": {}}
@@ -75,7 +81,7 @@ def generateRecommendations(form_data):
         output["Main_List"][item] = {"max": count, "min": count}
 
     # Save the dictionary as a JSON file
-    with open('output_constraints.json', 'w+') as outfile:
+    with open(target_dir+'output_constraints.json', 'w+') as outfile:
         json.dump(output, outfile, indent=2)
 
     # Create JSON Dictionary of List Items for Level2
@@ -83,7 +89,7 @@ def generateRecommendations(form_data):
         output_level2["Main_List_Level2"][item] = {"max": count, "min": count}
 
     # Save the dictionary as a JSON file
-    with open('output_constraints_Level2.json', 'w+') as outfile2:
+    with open(target_dir+'output_constraints_Level2.json', 'w+') as outfile2:
         json.dump(output_level2, outfile2, indent=2)
 
             # Create JSON Dictionary of List Items for Level2
@@ -91,19 +97,19 @@ def generateRecommendations(form_data):
         output_Level1["Main_List_Level1"][item] = {"max": count, "min": count}
 
     # Save the dictionary as a JSON file
-    with open('output_constraints_Level1.json', 'w+') as outfile3:
+    with open(target_dir+'output_constraints_Level1.json', 'w+') as outfile3:
         json.dump(output_Level1, outfile3, indent=2)
 
     # Import CSV and Read CSV
     Level3 = cleanup_functions.dataset_converter(Level3, "Keyword", "ID_x")        
     Level3 = cleanup_functions.dataframe_cleanup(Level3)
-    Level3.to_csv('test_cleanup.csv', index=False)
+    Level3.to_csv(target_dir+'test_cleanup.csv', index=False)
 
     #Scale all of the Hierarchy Levels: 
     scaler = StandardScaler()
     optimization_cols = ['Price per Serving', 'Sodium/Salt', 'Saturated Fat', 'Added Sugars']
     Level3[optimization_cols] = scaler.fit_transform(Level3[optimization_cols])
-    Level3.to_csv('Level3_main_database_file.csv', index =False)
+    Level3.to_csv(target_dir+'Level3_main_database_file.csv', index =False)
             
     num_checked = len(checked_boxes)
     weights = [1/num_checked if col in checked_boxes else 0 for col in optimization_cols]
@@ -113,7 +119,7 @@ def generateRecommendations(form_data):
 
     #First Recommendation: 
     opt = NutOptimizer(data=Level3)
-    opt.load_constraints_json("output_constraints.json")
+    opt.load_constraints_json(target_dir+"output_constraints.json")
     opt.optimize_all(optimization_cols, weights, verbose=False, var_type='binary')
     Level3_data_output = opt.get_all_results()
     Level3_data_output = Level3_data_output["Main_List"]
@@ -123,7 +129,7 @@ def generateRecommendations(form_data):
     # Sort the DataFrame by the new column
     Level3_data_output = Level3_data_output.sort_values('Order')
     print(Level3_data_output)
-    Level3_data_output.to_csv('Level3_data_output.csv', index=False)
+    Level3_data_output.to_csv(target_dir+'Level3_data_output.csv', index=False)
     id_list = Level3_data_output['ID_x'].tolist()
     print(id_list)
     
@@ -134,11 +140,11 @@ def generateRecommendations(form_data):
     Level2 = cleanup_functions.dataset_converter(Level2, "Parent", "ID_x")        
     Level2 = cleanup_functions.dataframe_cleanup(Level2)
     Level2[optimization_cols] = scaler.fit_transform(Level2[optimization_cols])
-    Level2.to_csv('Level2_main_database_file.csv', index =False)
+    Level2.to_csv(target_dir+'Level2_main_database_file.csv', index =False)
 
     #Second Recommendation: 
     opt2 = NutOptimizer(data=Level2)
-    opt2.load_constraints_json("output_constraints_Level2.json")
+    opt2.load_constraints_json(target_dir+"output_constraints_Level2.json")
     opt2.optimize_all(optimization_cols, weights, verbose=False, var_type='binary')
     Level2_data_output = opt2.get_all_results()
     Level2_data_output = Level2_data_output["Main_List_Level2"]  
@@ -156,12 +162,12 @@ def generateRecommendations(form_data):
     Level1 = cleanup_functions.dataset_converter(Level1, "Grandparent", "ID_x")
     Level1 = cleanup_functions.dataframe_cleanup(Level1)
     Level1[optimization_cols] = scaler.fit_transform(Level1[optimization_cols])
-    Level1.to_csv('Level1_main_database_file.csv', index =False)
+    Level1.to_csv(target_dir+'Level1_main_database_file.csv', index =False)
 
 
     #Third Recommendation
     opt3 = NutOptimizer(data=Level1)
-    opt3.load_constraints_json("output_constraints_Level1.json")
+    opt3.load_constraints_json(target_dir+"output_constraints_Level1.json")
     opt3.optimize_all(optimization_cols, weights, verbose=False, var_type='binary')
     Level1_data_output = opt3.get_all_results()
     Level1_data_output = Level1_data_output["Main_List_Level1"] 
@@ -215,14 +221,14 @@ def generateRecommendations(form_data):
     timestamp = str(datetime.datetime.now())
     
     try: 
-        with open('products_output.json', 'r') as infile: 
+        with open(target_dir+'products_output.json', 'r') as infile: 
             contents = json.load(infile)
     except FileNotFoundError:
         contents = {}
     except json.JSONDecodeError: 
         contents = {}
       # should generate a string with the date and time
-    with open('products_output.json', 'w') as outfile:
+    with open(target_dir+'products_output.json', 'w') as outfile:
         # contents = {}
         # # if there is anything in the file, attempt to load it. Otherwise, file is empty
         # if outfile.read(1):  

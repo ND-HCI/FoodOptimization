@@ -28669,5 +28669,1547 @@
     "Order": {
       "47": 0
     }
+  },
+  "2023-11-22 10:44:35.516520": {
+    "ID_x": {
+      "54": 41358531259,
+      "34": 732313122031
+    },
+    "No Servings": {
+      "54": 25.0,
+      "34": 6.0
+    },
+    "Description": {
+      "54": "Sweet Sue\u00ae Boned Chicken",
+      "34": "Crunch Pak Sweet Apple Slices Snack Packs"
+    },
+    "Unnamed: 3": {
+      "54": 0,
+      "34": 0
+    },
+    "Categories": {
+      "54": "Canned & Packaged",
+      "34": "Produce"
+    },
+    "Size": {
+      "54": "50 oz",
+      "34": "6 ct / 2 oz"
+    },
+    "Price": {
+      "54": 10.49,
+      "34": 4.49
+    },
+    "Nut Score": {
+      "54": 53,
+      "34": 91
+    },
+    "fdc_id_x": {
+      "54": 2116616,
+      "34": 1489521
+    },
+    "gtin_upc": {
+      "54": 41358531259,
+      "34": 732313122031
+    },
+    "serving_size": {
+      "54": 56.0,
+      "34": 57.0
+    },
+    "serving_size_unit": {
+      "54": "g",
+      "34": "g"
+    },
+    "branded_food_category": {
+      "54": "Canned Meat",
+      "34": "Pre-Packaged Fruit & Vegetables"
+    },
+    "description_x": {
+      "54": "BONED CHICKEN",
+      "34": "SWEET APPLE SLICES"
+    },
+    "ingredients": {
+      "54": "CHICKEN, WATER, SALT, CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SODIUM PHOSPHATE (TO MAINTAIN FLAVOR AND FIRMNESS).",
+      "34": "INGREDIENTS: APPLES, CALCIUM ASCORBATE (A BLEND OF CALCIUM AND VITAMIN C TO MAINTAIN FRESHNESS AND COLOR)"
+    },
+    "publication_date": {
+      "54": "2021-10-28",
+      "34": "2021-03-19"
+    },
+    "Protein - g": {
+      "54": 10.9984,
+      "34": 0.0
+    },
+    "Total lipid (fat)": {
+      "54": 72.02159999999999,
+      "34": 0.0
+    },
+    "Total Carbohydrate": {
+      "54": 0.0,
+      "34": 6.9996
+    },
+    "Energy - kcal": {
+      "54": 119.84,
+      "34": 30.21
+    },
+    "Energy - kJ": {
+      "54": 0,
+      "34": 0
+    },
+    "Fiber, total dietary": {
+      "54": 0.0,
+      "34": 1.026
+    },
+    "Calcium, Ca": {
+      "54": 20.16,
+      "34": 19.95
+    },
+    "Iron, Fe": {
+      "54": 0.3584,
+      "34": 0.0
+    },
+    "Magnesium, Mg": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Phosphorus, P": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Potassium, K": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Sodium/Salt": {
+      "54": -0.044951703667081414,
+      "34": -1.4287695939607636
+    },
+    "Zinc, Zn": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Vitamin A, IU": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Vitamin E": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "54": 0.0,
+      "34": 47.994
+    },
+    "Thiamin": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Riboflavin": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Niacin": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Folic acid": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Choline, total": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "54": 0.0,
+      "34": 4.9989
+    },
+    "Fatty acids, total trans": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Saturated Fat": {
+      "54": 0.5111962046021379,
+      "34": -0.7792713690849943
+    },
+    "Vitamin B-6": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Vitamin B-12": {
+      "54": 0.0,
+      "34": 0.0
+    },
+    "Added Sugars": {
+      "54": -0.369211577066245,
+      "34": -0.369211577066245
+    },
+    "FDC_Description": {
+      "54": "Chicken, for use with vegetables",
+      "34": "Apple, dried"
+    },
+    "Food_Code": {
+      "54": 89901006,
+      "34": 62101100
+    },
+    "Keyword": {
+      "54": "Chicken",
+      "34": "Apple"
+    },
+    "Parent": {
+      "54": "41 Legumes",
+      "34": "63 Other fruits"
+    },
+    "Grandparent": {
+      "54": "Proteins",
+      "34": "Fruits"
+    },
+    "Apple": {
+      "54": 0,
+      "34": 1
+    },
+    "Chicken": {
+      "54": 1,
+      "34": 0
+    },
+    "Protein - cal": {
+      "54": 43.9936,
+      "34": 0.0
+    },
+    "Carb - cal": {
+      "54": 0.0,
+      "34": 27.9984
+    },
+    "Price per Serving": {
+      "54": -1.0876848577253508,
+      "34": -0.9035237174650009
+    },
+    "Amount": {
+      "54": 1.0,
+      "34": 1.0
+    },
+    "image_url": {
+      "54": "https://www.kroger.com/product/images/medium/front/0004135853125",
+      "34": "https://www.kroger.com/product/images/medium/front/0073231312203"
+    },
+    "Order": {
+      "54": 0,
+      "34": 1
+    }
+  },
+  "2023-11-22 10:45:23.796019": {
+    "ID_x": {
+      "55": 796853100058,
+      "34": 732313122031
+    },
+    "No Servings": {
+      "55": 14.0,
+      "34": 6.0
+    },
+    "Description": {
+      "55": "Keystone All Natural Chicken",
+      "34": "Crunch Pak Sweet Apple Slices Snack Packs"
+    },
+    "Unnamed: 3": {
+      "55": 0,
+      "34": 0
+    },
+    "Categories": {
+      "55": "Canned & Packaged",
+      "34": "Produce"
+    },
+    "Size": {
+      "55": "28 oz",
+      "34": "6 ct / 2 oz"
+    },
+    "Price": {
+      "55": 7.99,
+      "34": 4.49
+    },
+    "Nut Score": {
+      "55": 77,
+      "34": 91
+    },
+    "fdc_id_x": {
+      "55": 2038523,
+      "34": 1489521
+    },
+    "gtin_upc": {
+      "55": 796853100058,
+      "34": 732313122031
+    },
+    "serving_size": {
+      "55": 56.0,
+      "34": 57.0
+    },
+    "serving_size_unit": {
+      "55": "g",
+      "34": "g"
+    },
+    "branded_food_category": {
+      "55": "Canned Meat",
+      "34": "Pre-Packaged Fruit & Vegetables"
+    },
+    "description_x": {
+      "55": "CHICKEN",
+      "34": "SWEET APPLE SLICES"
+    },
+    "ingredients": {
+      "55": "CHICKEN, SEA SALT.",
+      "34": "INGREDIENTS: APPLES, CALCIUM ASCORBATE (A BLEND OF CALCIUM AND VITAMIN C TO MAINTAIN FRESHNESS AND COLOR)"
+    },
+    "publication_date": {
+      "55": "2021-10-28",
+      "34": "2021-03-19"
+    },
+    "Protein - g": {
+      "55": 12.0008,
+      "34": 0.0
+    },
+    "Total lipid (fat)": {
+      "55": 9.0216,
+      "34": 0.0
+    },
+    "Total Carbohydrate": {
+      "55": 0.0,
+      "34": 6.9996
+    },
+    "Energy - kcal": {
+      "55": 59.92,
+      "34": 30.21
+    },
+    "Energy - kJ": {
+      "55": 0,
+      "34": 0
+    },
+    "Fiber, total dietary": {
+      "55": 0.0,
+      "34": 1.026
+    },
+    "Calcium, Ca": {
+      "55": 0.0,
+      "34": 19.95
+    },
+    "Iron, Fe": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Magnesium, Mg": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Phosphorus, P": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Potassium, K": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Sodium/Salt": {
+      "55": -1.1062391221345018,
+      "34": -1.4287695939607636
+    },
+    "Zinc, Zn": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin A, IU": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin E": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "55": 0.0,
+      "34": 47.994
+    },
+    "Thiamin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Riboflavin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Niacin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Folic acid": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Choline, total": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "55": 0.0,
+      "34": 4.9989
+    },
+    "Fatty acids, total trans": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Saturated Fat": {
+      "55": -0.5217565393581899,
+      "34": -0.7792713690849943
+    },
+    "Vitamin B-6": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin B-12": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Added Sugars": {
+      "55": -0.369211577066245,
+      "34": -0.369211577066245
+    },
+    "FDC_Description": {
+      "55": "Chicken, for use with vegetables",
+      "34": "Apple, dried"
+    },
+    "Food_Code": {
+      "55": 89901006,
+      "34": 62101100
+    },
+    "Keyword": {
+      "55": "Chicken",
+      "34": "Apple"
+    },
+    "Parent": {
+      "55": "41 Legumes",
+      "34": "63 Other fruits"
+    },
+    "Grandparent": {
+      "55": "Proteins",
+      "34": "Fruits"
+    },
+    "Apple": {
+      "55": 0,
+      "34": 1
+    },
+    "Chicken": {
+      "55": 1,
+      "34": 0
+    },
+    "Protein - cal": {
+      "55": 48.0032,
+      "34": 0.0
+    },
+    "Carb - cal": {
+      "55": 0.0,
+      "34": 27.9984
+    },
+    "Price per Serving": {
+      "55": -1.0039752485161009,
+      "34": -0.9035237174650009
+    },
+    "Amount": {
+      "55": 1.0,
+      "34": 1.0
+    },
+    "image_url": {
+      "55": "https://www.kroger.com/product/images/medium/front/0079685310005",
+      "34": "https://www.kroger.com/product/images/medium/front/0073231312203"
+    },
+    "Order": {
+      "55": 0,
+      "34": 1
+    }
+  },
+  "2023-11-22 10:46:04.917883": {
+    "ID_x": {
+      "55": 796853100058,
+      "34": 732313122031
+    },
+    "No Servings": {
+      "55": 14.0,
+      "34": 6.0
+    },
+    "Description": {
+      "55": "Keystone All Natural Chicken",
+      "34": "Crunch Pak Sweet Apple Slices Snack Packs"
+    },
+    "Unnamed: 3": {
+      "55": 0,
+      "34": 0
+    },
+    "Categories": {
+      "55": "Canned & Packaged",
+      "34": "Produce"
+    },
+    "Size": {
+      "55": "28 oz",
+      "34": "6 ct / 2 oz"
+    },
+    "Price": {
+      "55": 7.99,
+      "34": 4.49
+    },
+    "Nut Score": {
+      "55": 77,
+      "34": 91
+    },
+    "fdc_id_x": {
+      "55": 2038523,
+      "34": 1489521
+    },
+    "gtin_upc": {
+      "55": 796853100058,
+      "34": 732313122031
+    },
+    "serving_size": {
+      "55": 56.0,
+      "34": 57.0
+    },
+    "serving_size_unit": {
+      "55": "g",
+      "34": "g"
+    },
+    "branded_food_category": {
+      "55": "Canned Meat",
+      "34": "Pre-Packaged Fruit & Vegetables"
+    },
+    "description_x": {
+      "55": "CHICKEN",
+      "34": "SWEET APPLE SLICES"
+    },
+    "ingredients": {
+      "55": "CHICKEN, SEA SALT.",
+      "34": "INGREDIENTS: APPLES, CALCIUM ASCORBATE (A BLEND OF CALCIUM AND VITAMIN C TO MAINTAIN FRESHNESS AND COLOR)"
+    },
+    "publication_date": {
+      "55": "2021-10-28",
+      "34": "2021-03-19"
+    },
+    "Protein - g": {
+      "55": 12.0008,
+      "34": 0.0
+    },
+    "Total lipid (fat)": {
+      "55": 9.0216,
+      "34": 0.0
+    },
+    "Total Carbohydrate": {
+      "55": 0.0,
+      "34": 6.9996
+    },
+    "Energy - kcal": {
+      "55": 59.92,
+      "34": 30.21
+    },
+    "Energy - kJ": {
+      "55": 0,
+      "34": 0
+    },
+    "Fiber, total dietary": {
+      "55": 0.0,
+      "34": 1.026
+    },
+    "Calcium, Ca": {
+      "55": 0.0,
+      "34": 19.95
+    },
+    "Iron, Fe": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Magnesium, Mg": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Phosphorus, P": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Potassium, K": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Sodium/Salt": {
+      "55": -1.1062391221345018,
+      "34": -1.4287695939607636
+    },
+    "Zinc, Zn": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin A, IU": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin E": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "55": 0.0,
+      "34": 47.994
+    },
+    "Thiamin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Riboflavin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Niacin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Folic acid": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Choline, total": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "55": 0.0,
+      "34": 4.9989
+    },
+    "Fatty acids, total trans": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Saturated Fat": {
+      "55": -0.5217565393581899,
+      "34": -0.7792713690849943
+    },
+    "Vitamin B-6": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin B-12": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Added Sugars": {
+      "55": -0.369211577066245,
+      "34": -0.369211577066245
+    },
+    "FDC_Description": {
+      "55": "Chicken, for use with vegetables",
+      "34": "Apple, dried"
+    },
+    "Food_Code": {
+      "55": 89901006,
+      "34": 62101100
+    },
+    "Keyword": {
+      "55": "Chicken",
+      "34": "Apple"
+    },
+    "Parent": {
+      "55": "41 Legumes",
+      "34": "63 Other fruits"
+    },
+    "Grandparent": {
+      "55": "Proteins",
+      "34": "Fruits"
+    },
+    "Apple": {
+      "55": 0,
+      "34": 1
+    },
+    "Chicken": {
+      "55": 1,
+      "34": 0
+    },
+    "Protein - cal": {
+      "55": 48.0032,
+      "34": 0.0
+    },
+    "Carb - cal": {
+      "55": 0.0,
+      "34": 27.9984
+    },
+    "Price per Serving": {
+      "55": -1.0039752485161009,
+      "34": -0.9035237174650009
+    },
+    "Amount": {
+      "55": 1.0,
+      "34": 1.0
+    },
+    "image_url": {
+      "55": "https://www.kroger.com/product/images/medium/front/0079685310005",
+      "34": "https://www.kroger.com/product/images/medium/front/0073231312203"
+    },
+    "Order": {
+      "55": 0,
+      "34": 1
+    }
+  },
+  "2023-11-22 10:50:34.924280": {
+    "ID_x": {
+      "55": 796853100058,
+      "34": 732313122031
+    },
+    "No Servings": {
+      "55": 14.0,
+      "34": 6.0
+    },
+    "Description": {
+      "55": "Keystone All Natural Chicken",
+      "34": "Crunch Pak Sweet Apple Slices Snack Packs"
+    },
+    "Unnamed: 3": {
+      "55": 0,
+      "34": 0
+    },
+    "Categories": {
+      "55": "Canned & Packaged",
+      "34": "Produce"
+    },
+    "Size": {
+      "55": "28 oz",
+      "34": "6 ct / 2 oz"
+    },
+    "Price": {
+      "55": 7.99,
+      "34": 4.49
+    },
+    "Nut Score": {
+      "55": 77,
+      "34": 91
+    },
+    "fdc_id_x": {
+      "55": 2038523,
+      "34": 1489521
+    },
+    "gtin_upc": {
+      "55": 796853100058,
+      "34": 732313122031
+    },
+    "serving_size": {
+      "55": 56.0,
+      "34": 57.0
+    },
+    "serving_size_unit": {
+      "55": "g",
+      "34": "g"
+    },
+    "branded_food_category": {
+      "55": "Canned Meat",
+      "34": "Pre-Packaged Fruit & Vegetables"
+    },
+    "description_x": {
+      "55": "CHICKEN",
+      "34": "SWEET APPLE SLICES"
+    },
+    "ingredients": {
+      "55": "CHICKEN, SEA SALT.",
+      "34": "INGREDIENTS: APPLES, CALCIUM ASCORBATE (A BLEND OF CALCIUM AND VITAMIN C TO MAINTAIN FRESHNESS AND COLOR)"
+    },
+    "publication_date": {
+      "55": "2021-10-28",
+      "34": "2021-03-19"
+    },
+    "Protein - g": {
+      "55": 12.0008,
+      "34": 0.0
+    },
+    "Total lipid (fat)": {
+      "55": 9.0216,
+      "34": 0.0
+    },
+    "Total Carbohydrate": {
+      "55": 0.0,
+      "34": 6.9996
+    },
+    "Energy - kcal": {
+      "55": 59.92,
+      "34": 30.21
+    },
+    "Energy - kJ": {
+      "55": 0,
+      "34": 0
+    },
+    "Fiber, total dietary": {
+      "55": 0.0,
+      "34": 1.026
+    },
+    "Calcium, Ca": {
+      "55": 0.0,
+      "34": 19.95
+    },
+    "Iron, Fe": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Magnesium, Mg": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Phosphorus, P": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Potassium, K": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Sodium/Salt": {
+      "55": -1.1062391221345018,
+      "34": -1.4287695939607636
+    },
+    "Zinc, Zn": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin A, IU": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin E": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "55": 0.0,
+      "34": 47.994
+    },
+    "Thiamin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Riboflavin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Niacin": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Folic acid": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Choline, total": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "55": 0.0,
+      "34": 4.9989
+    },
+    "Fatty acids, total trans": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Saturated Fat": {
+      "55": -0.5217565393581899,
+      "34": -0.7792713690849943
+    },
+    "Vitamin B-6": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Vitamin B-12": {
+      "55": 0.0,
+      "34": 0.0
+    },
+    "Added Sugars": {
+      "55": -0.369211577066245,
+      "34": -0.369211577066245
+    },
+    "FDC_Description": {
+      "55": "Chicken, for use with vegetables",
+      "34": "Apple, dried"
+    },
+    "Food_Code": {
+      "55": 89901006,
+      "34": 62101100
+    },
+    "Keyword": {
+      "55": "Chicken",
+      "34": "Apple"
+    },
+    "Parent": {
+      "55": "41 Legumes",
+      "34": "63 Other fruits"
+    },
+    "Grandparent": {
+      "55": "Proteins",
+      "34": "Fruits"
+    },
+    "Apple": {
+      "55": 0,
+      "34": 1
+    },
+    "Chicken": {
+      "55": 1,
+      "34": 0
+    },
+    "Protein - cal": {
+      "55": 48.0032,
+      "34": 0.0
+    },
+    "Carb - cal": {
+      "55": 0.0,
+      "34": 27.9984
+    },
+    "Price per Serving": {
+      "55": -1.0039752485161009,
+      "34": -0.9035237174650009
+    },
+    "Amount": {
+      "55": 1.0,
+      "34": 1.0
+    },
+    "image_url": {
+      "55": "https://www.kroger.com/product/images/medium/front/0079685310005",
+      "34": "https://www.kroger.com/product/images/medium/front/0073231312203"
+    },
+    "Order": {
+      "55": 0,
+      "34": 1
+    }
+  },
+  "2023-11-22 10:54:13.692575": {
+    "ID_x": {
+      "29": 732313122031,
+      "4": 24105581059
+    },
+    "No Servings": {
+      "29": 6.0,
+      "4": 8.0
+    },
+    "Description": {
+      "29": "Crunch Pak Sweet Apple Slices Snack Packs",
+      "4": "Just Bare\u00ae Boneless Skinless Breast Fillets Family Pack"
+    },
+    "Unnamed: 3": {
+      "29": 0,
+      "4": 0
+    },
+    "Categories": {
+      "29": "Produce",
+      "4": "Meat & Seafood, Natural & Organic"
+    },
+    "Size": {
+      "29": "6 ct / 2 oz",
+      "4": "32 oz"
+    },
+    "Price": {
+      "29": 4.49,
+      "4": 14.29
+    },
+    "Nut Score": {
+      "29": 91,
+      "4": 0
+    },
+    "fdc_id_x": {
+      "29": 1489521,
+      "4": 2081622
+    },
+    "gtin_upc": {
+      "29": 732313122031,
+      "4": 24105581059
+    },
+    "serving_size": {
+      "29": 57.0,
+      "4": 112.0
+    },
+    "serving_size_unit": {
+      "29": "g",
+      "4": "g"
+    },
+    "branded_food_category": {
+      "29": "Pre-Packaged Fruit & Vegetables",
+      "4": "Poultry, Chicken & Turkey"
+    },
+    "description_x": {
+      "29": "SWEET APPLE SLICES",
+      "4": "HAND-TRIMMED BONELESS, SKINLESS CHICKEN BREAST FILLETS"
+    },
+    "ingredients": {
+      "29": "INGREDIENTS: APPLES, CALCIUM ASCORBATE (A BLEND OF CALCIUM AND VITAMIN C TO MAINTAIN FRESHNESS AND COLOR)",
+      "4": "ALL NATURAL* CHICKEN BREAST MEAT."
+    },
+    "publication_date": {
+      "29": "2021-03-19",
+      "4": "2021-10-28"
+    },
+    "Protein - g": {
+      "29": 0.0,
+      "4": 25.9952
+    },
+    "Total lipid (fat)": {
+      "29": 0.0,
+      "4": 13.5072
+    },
+    "Total Carbohydrate": {
+      "29": 6.9996,
+      "4": 0.0
+    },
+    "Energy - kcal": {
+      "29": 30.21,
+      "4": 119.84
+    },
+    "Energy - kJ": {
+      "29": 0,
+      "4": 0
+    },
+    "Fiber, total dietary": {
+      "29": 1.026,
+      "4": 0.0
+    },
+    "Calcium, Ca": {
+      "29": 19.95,
+      "4": 0.0
+    },
+    "Iron, Fe": {
+      "29": 0.0,
+      "4": 0.7168
+    },
+    "Magnesium, Mg": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Phosphorus, P": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Potassium, K": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Sodium/Salt": {
+      "29": -1.401528458158403,
+      "4": -1.1646060488390295
+    },
+    "Zinc, Zn": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Vitamin A, IU": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Vitamin E": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "29": 47.994,
+      "4": 0.0
+    },
+    "Thiamin": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Riboflavin": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Niacin": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Folic acid": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Choline, total": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "29": 4.9989,
+      "4": 0.0
+    },
+    "Fatty acids, total trans": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Saturated Fat": {
+      "29": -0.4774936595774829,
+      "4": -0.4774936595774829
+    },
+    "Vitamin B-6": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Vitamin B-12": {
+      "29": 0.0,
+      "4": 0.0
+    },
+    "Added Sugars": {
+      "29": -0.2889782012219634,
+      "4": -0.2889782012219634
+    },
+    "FDC_Description": {
+      "29": "Apple, dried",
+      "4": "Chicken breast, fried, coated, prepared skinless, coating eaten, from raw"
+    },
+    "Food_Code": {
+      "29": 62101100,
+      "4": 24127202
+    },
+    "Keyword": {
+      "29": "Apple",
+      "4": "Chicken breast"
+    },
+    "Parent": {
+      "29": "63 Other fruits",
+      "4": "24 Poultry"
+    },
+    "Grandparent": {
+      "29": "Fruits",
+      "4": "Proteins"
+    },
+    "Apple": {
+      "29": 1,
+      "4": 0
+    },
+    "Chicken breast": {
+      "29": 0,
+      "4": 1
+    },
+    "Protein - cal": {
+      "29": 0.0,
+      "4": 103.9808
+    },
+    "Carb - cal": {
+      "29": 27.9984,
+      "4": 0.0
+    },
+    "Price per Serving": {
+      "29": -0.6403083245466726,
+      "4": -0.12652470536477348
+    },
+    "Amount": {
+      "29": 1.0,
+      "4": 1.0
+    },
+    "image_url": {
+      "29": "https://www.kroger.com/product/images/medium/front/0073231312203",
+      "4": "https://www.kroger.com/product/images/medium/front/0002410558105"
+    },
+    "Order": {
+      "29": 0,
+      "4": 1
+    }
+  },
+  "2023-11-22 11:22:20.872704": {
+    "ID_x": {
+      "48": 796853100058
+    },
+    "No Servings": {
+      "48": 14.0
+    },
+    "Description": {
+      "48": "Keystone All Natural Chicken"
+    },
+    "Unnamed: 3": {
+      "48": 0
+    },
+    "Categories": {
+      "48": "Canned & Packaged"
+    },
+    "Size": {
+      "48": "28 oz"
+    },
+    "Price": {
+      "48": 7.99
+    },
+    "Nut Score": {
+      "48": 77
+    },
+    "fdc_id_x": {
+      "48": 2038523
+    },
+    "gtin_upc": {
+      "48": 796853100058
+    },
+    "serving_size": {
+      "48": 56.0
+    },
+    "serving_size_unit": {
+      "48": "g"
+    },
+    "branded_food_category": {
+      "48": "Canned Meat"
+    },
+    "description_x": {
+      "48": "CHICKEN"
+    },
+    "ingredients": {
+      "48": "CHICKEN, SEA SALT."
+    },
+    "publication_date": {
+      "48": "2021-10-28"
+    },
+    "Protein - g": {
+      "48": 12.0008
+    },
+    "Total lipid (fat)": {
+      "48": 9.0216
+    },
+    "Total Carbohydrate": {
+      "48": 0.0
+    },
+    "Energy - kcal": {
+      "48": 59.92
+    },
+    "Energy - kJ": {
+      "48": 0
+    },
+    "Fiber, total dietary": {
+      "48": 0.0
+    },
+    "Calcium, Ca": {
+      "48": 0.0
+    },
+    "Iron, Fe": {
+      "48": 0.0
+    },
+    "Magnesium, Mg": {
+      "48": 0.0
+    },
+    "Phosphorus, P": {
+      "48": 0.0
+    },
+    "Potassium, K": {
+      "48": 0.0
+    },
+    "Sodium/Salt": {
+      "48": -1.4632469096905367
+    },
+    "Zinc, Zn": {
+      "48": 0.0
+    },
+    "Vitamin A, IU": {
+      "48": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "48": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "48": 0.0
+    },
+    "Vitamin E": {
+      "48": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "48": 0.0
+    },
+    "Thiamin": {
+      "48": 0.0
+    },
+    "Riboflavin": {
+      "48": 0.0
+    },
+    "Niacin": {
+      "48": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "48": 0.0
+    },
+    "Folic acid": {
+      "48": 0.0
+    },
+    "Choline, total": {
+      "48": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "48": 0.0
+    },
+    "Fatty acids, total trans": {
+      "48": 0.0
+    },
+    "Saturated Fat": {
+      "48": -0.6165612557033662
+    },
+    "Vitamin B-6": {
+      "48": 0.0
+    },
+    "Vitamin B-12": {
+      "48": 0.0
+    },
+    "Added Sugars": {
+      "48": -0.31732331564339133
+    },
+    "FDC_Description": {
+      "48": "Chicken, for use with vegetables"
+    },
+    "Food_Code": {
+      "48": 89901006
+    },
+    "Keyword": {
+      "48": "Chicken"
+    },
+    "Parent": {
+      "48": "41 Legumes"
+    },
+    "Grandparent": {
+      "48": "Proteins"
+    },
+    "Chicken": {
+      "48": 1
+    },
+    "Protein - cal": {
+      "48": 48.0032
+    },
+    "Carb - cal": {
+      "48": 0.0
+    },
+    "Price per Serving": {
+      "48": -0.9914566614288217
+    },
+    "Amount": {
+      "48": 1.0
+    },
+    "image_url": {
+      "48": "https://www.kroger.com/product/images/medium/front/0079685310005"
+    },
+    "Order": {
+      "48": 0
+    }
+  },
+  "2023-11-22 11:36:57.410803": {
+    "ID_x": {
+      "47": 41358531259
+    },
+    "No Servings": {
+      "47": 25.0
+    },
+    "Description": {
+      "47": "Sweet Sue\u00ae Boned Chicken"
+    },
+    "Unnamed: 3": {
+      "47": 0
+    },
+    "Categories": {
+      "47": "Canned & Packaged"
+    },
+    "Size": {
+      "47": "50 oz"
+    },
+    "Price": {
+      "47": 10.49
+    },
+    "Nut Score": {
+      "47": 53
+    },
+    "fdc_id_x": {
+      "47": 2116616
+    },
+    "gtin_upc": {
+      "47": 41358531259
+    },
+    "serving_size": {
+      "47": 56.0
+    },
+    "serving_size_unit": {
+      "47": "g"
+    },
+    "branded_food_category": {
+      "47": "Canned Meat"
+    },
+    "description_x": {
+      "47": "BONED CHICKEN"
+    },
+    "ingredients": {
+      "47": "CHICKEN, WATER, SALT, CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SODIUM PHOSPHATE (TO MAINTAIN FLAVOR AND FIRMNESS)."
+    },
+    "publication_date": {
+      "47": "2021-10-28"
+    },
+    "Protein - g": {
+      "47": 10.9984
+    },
+    "Total lipid (fat)": {
+      "47": 72.02159999999999
+    },
+    "Total Carbohydrate": {
+      "47": 0.0
+    },
+    "Energy - kcal": {
+      "47": 119.84
+    },
+    "Energy - kJ": {
+      "47": 0
+    },
+    "Fiber, total dietary": {
+      "47": 0.0
+    },
+    "Calcium, Ca": {
+      "47": 20.16
+    },
+    "Iron, Fe": {
+      "47": 0.3584
+    },
+    "Magnesium, Mg": {
+      "47": 0.0
+    },
+    "Phosphorus, P": {
+      "47": 0.0
+    },
+    "Potassium, K": {
+      "47": 0.0
+    },
+    "Sodium/Salt": {
+      "47": -0.28281643778019944
+    },
+    "Zinc, Zn": {
+      "47": 0.0
+    },
+    "Vitamin A, IU": {
+      "47": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "47": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "47": 0.0
+    },
+    "Vitamin E": {
+      "47": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "47": 0.0
+    },
+    "Thiamin": {
+      "47": 0.0
+    },
+    "Riboflavin": {
+      "47": 0.0
+    },
+    "Niacin": {
+      "47": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "47": 0.0
+    },
+    "Folic acid": {
+      "47": 0.0
+    },
+    "Choline, total": {
+      "47": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "47": 0.0
+    },
+    "Fatty acids, total trans": {
+      "47": 0.0
+    },
+    "Saturated Fat": {
+      "47": 0.39047051220385454
+    },
+    "Vitamin B-6": {
+      "47": 0.0
+    },
+    "Vitamin B-12": {
+      "47": 0.0
+    },
+    "Added Sugars": {
+      "47": -0.31732331564339133
+    },
+    "FDC_Description": {
+      "47": "Chicken, for use with vegetables"
+    },
+    "Food_Code": {
+      "47": 89901006
+    },
+    "Keyword": {
+      "47": "Chicken"
+    },
+    "Parent": {
+      "47": "41 Legumes"
+    },
+    "Grandparent": {
+      "47": "Proteins"
+    },
+    "Chicken": {
+      "47": 1
+    },
+    "Protein - cal": {
+      "47": 43.9936
+    },
+    "Carb - cal": {
+      "47": 0.0
+    },
+    "Price per Serving": {
+      "47": -1.0807373613462585
+    },
+    "Amount": {
+      "47": 1.0
+    },
+    "image_url": {
+      "47": "https://www.kroger.com/product/images/medium/front/0004135853125"
+    },
+    "Order": {
+      "47": 0
+    }
   }
 }
