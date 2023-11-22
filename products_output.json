@@ -27437,5 +27437,709 @@
     "Order": {
       "47": 0
     }
+  },
+  "2023-11-22 09:41:41.779134": {
+    "ID_x": {
+      "47": 41358531259
+    },
+    "No Servings": {
+      "47": 25.0
+    },
+    "Description": {
+      "47": "Sweet Sue\u00ae Boned Chicken"
+    },
+    "Unnamed: 3": {
+      "47": 0
+    },
+    "Categories": {
+      "47": "Canned & Packaged"
+    },
+    "Size": {
+      "47": "50 oz"
+    },
+    "Price": {
+      "47": 10.49
+    },
+    "Nut Score": {
+      "47": 53
+    },
+    "fdc_id_x": {
+      "47": 2116616
+    },
+    "gtin_upc": {
+      "47": 41358531259
+    },
+    "serving_size": {
+      "47": 56.0
+    },
+    "serving_size_unit": {
+      "47": "g"
+    },
+    "branded_food_category": {
+      "47": "Canned Meat"
+    },
+    "description_x": {
+      "47": "BONED CHICKEN"
+    },
+    "ingredients": {
+      "47": "CHICKEN, WATER, SALT, CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SODIUM PHOSPHATE (TO MAINTAIN FLAVOR AND FIRMNESS)."
+    },
+    "publication_date": {
+      "47": "2021-10-28"
+    },
+    "Protein - g": {
+      "47": 10.9984
+    },
+    "Total lipid (fat)": {
+      "47": 72.02159999999999
+    },
+    "Total Carbohydrate": {
+      "47": 0.0
+    },
+    "Energy - kcal": {
+      "47": 119.84
+    },
+    "Energy - kJ": {
+      "47": 0
+    },
+    "Fiber, total dietary": {
+      "47": 0.0
+    },
+    "Calcium, Ca": {
+      "47": 20.16
+    },
+    "Iron, Fe": {
+      "47": 0.3584
+    },
+    "Magnesium, Mg": {
+      "47": 0.0
+    },
+    "Phosphorus, P": {
+      "47": 0.0
+    },
+    "Potassium, K": {
+      "47": 0.0
+    },
+    "Sodium/Salt": {
+      "47": -0.28281643778019944
+    },
+    "Zinc, Zn": {
+      "47": 0.0
+    },
+    "Vitamin A, IU": {
+      "47": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "47": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "47": 0.0
+    },
+    "Vitamin E": {
+      "47": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "47": 0.0
+    },
+    "Thiamin": {
+      "47": 0.0
+    },
+    "Riboflavin": {
+      "47": 0.0
+    },
+    "Niacin": {
+      "47": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "47": 0.0
+    },
+    "Folic acid": {
+      "47": 0.0
+    },
+    "Choline, total": {
+      "47": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "47": 0.0
+    },
+    "Fatty acids, total trans": {
+      "47": 0.0
+    },
+    "Saturated Fat": {
+      "47": 0.39047051220385454
+    },
+    "Vitamin B-6": {
+      "47": 0.0
+    },
+    "Vitamin B-12": {
+      "47": 0.0
+    },
+    "Added Sugars": {
+      "47": -0.31732331564339133
+    },
+    "FDC_Description": {
+      "47": "Chicken, for use with vegetables"
+    },
+    "Food_Code": {
+      "47": 89901006
+    },
+    "Keyword": {
+      "47": "Chicken"
+    },
+    "Parent": {
+      "47": "41 Legumes"
+    },
+    "Grandparent": {
+      "47": "Proteins"
+    },
+    "Chicken": {
+      "47": 1
+    },
+    "Protein - cal": {
+      "47": 43.9936
+    },
+    "Carb - cal": {
+      "47": 0.0
+    },
+    "Price per Serving": {
+      "47": -1.0807373613462585
+    },
+    "Amount": {
+      "47": 1.0
+    },
+    "image_url": {
+      "47": "https://www.kroger.com/product/images/medium/front/0004135853125"
+    },
+    "Order": {
+      "47": 0
+    }
+  },
+  "2023-11-22 09:57:39.902470": {
+    "ID_x": {
+      "47": 41358531259
+    },
+    "No Servings": {
+      "47": 25.0
+    },
+    "Description": {
+      "47": "Sweet Sue\u00ae Boned Chicken"
+    },
+    "Unnamed: 3": {
+      "47": 0
+    },
+    "Categories": {
+      "47": "Canned & Packaged"
+    },
+    "Size": {
+      "47": "50 oz"
+    },
+    "Price": {
+      "47": 10.49
+    },
+    "Nut Score": {
+      "47": 53
+    },
+    "fdc_id_x": {
+      "47": 2116616
+    },
+    "gtin_upc": {
+      "47": 41358531259
+    },
+    "serving_size": {
+      "47": 56.0
+    },
+    "serving_size_unit": {
+      "47": "g"
+    },
+    "branded_food_category": {
+      "47": "Canned Meat"
+    },
+    "description_x": {
+      "47": "BONED CHICKEN"
+    },
+    "ingredients": {
+      "47": "CHICKEN, WATER, SALT, CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SODIUM PHOSPHATE (TO MAINTAIN FLAVOR AND FIRMNESS)."
+    },
+    "publication_date": {
+      "47": "2021-10-28"
+    },
+    "Protein - g": {
+      "47": 10.9984
+    },
+    "Total lipid (fat)": {
+      "47": 72.02159999999999
+    },
+    "Total Carbohydrate": {
+      "47": 0.0
+    },
+    "Energy - kcal": {
+      "47": 119.84
+    },
+    "Energy - kJ": {
+      "47": 0
+    },
+    "Fiber, total dietary": {
+      "47": 0.0
+    },
+    "Calcium, Ca": {
+      "47": 20.16
+    },
+    "Iron, Fe": {
+      "47": 0.3584
+    },
+    "Magnesium, Mg": {
+      "47": 0.0
+    },
+    "Phosphorus, P": {
+      "47": 0.0
+    },
+    "Potassium, K": {
+      "47": 0.0
+    },
+    "Sodium/Salt": {
+      "47": -0.28281643778019944
+    },
+    "Zinc, Zn": {
+      "47": 0.0
+    },
+    "Vitamin A, IU": {
+      "47": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "47": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "47": 0.0
+    },
+    "Vitamin E": {
+      "47": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "47": 0.0
+    },
+    "Thiamin": {
+      "47": 0.0
+    },
+    "Riboflavin": {
+      "47": 0.0
+    },
+    "Niacin": {
+      "47": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "47": 0.0
+    },
+    "Folic acid": {
+      "47": 0.0
+    },
+    "Choline, total": {
+      "47": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "47": 0.0
+    },
+    "Fatty acids, total trans": {
+      "47": 0.0
+    },
+    "Saturated Fat": {
+      "47": 0.39047051220385454
+    },
+    "Vitamin B-6": {
+      "47": 0.0
+    },
+    "Vitamin B-12": {
+      "47": 0.0
+    },
+    "Added Sugars": {
+      "47": -0.31732331564339133
+    },
+    "FDC_Description": {
+      "47": "Chicken, for use with vegetables"
+    },
+    "Food_Code": {
+      "47": 89901006
+    },
+    "Keyword": {
+      "47": "Chicken"
+    },
+    "Parent": {
+      "47": "41 Legumes"
+    },
+    "Grandparent": {
+      "47": "Proteins"
+    },
+    "Chicken": {
+      "47": 1
+    },
+    "Protein - cal": {
+      "47": 43.9936
+    },
+    "Carb - cal": {
+      "47": 0.0
+    },
+    "Price per Serving": {
+      "47": -1.0807373613462585
+    },
+    "Amount": {
+      "47": 1.0
+    },
+    "image_url": {
+      "47": "https://www.kroger.com/product/images/medium/front/0004135853125"
+    },
+    "Order": {
+      "47": 0
+    }
+  },
+  "2023-11-22 09:59:36.615474": {
+    "ID_x": {
+      "47": 41358531259
+    },
+    "No Servings": {
+      "47": 25.0
+    },
+    "Description": {
+      "47": "Sweet Sue\u00ae Boned Chicken"
+    },
+    "Unnamed: 3": {
+      "47": 0
+    },
+    "Categories": {
+      "47": "Canned & Packaged"
+    },
+    "Size": {
+      "47": "50 oz"
+    },
+    "Price": {
+      "47": 10.49
+    },
+    "Nut Score": {
+      "47": 53
+    },
+    "fdc_id_x": {
+      "47": 2116616
+    },
+    "gtin_upc": {
+      "47": 41358531259
+    },
+    "serving_size": {
+      "47": 56.0
+    },
+    "serving_size_unit": {
+      "47": "g"
+    },
+    "branded_food_category": {
+      "47": "Canned Meat"
+    },
+    "description_x": {
+      "47": "BONED CHICKEN"
+    },
+    "ingredients": {
+      "47": "CHICKEN, WATER, SALT, CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SODIUM PHOSPHATE (TO MAINTAIN FLAVOR AND FIRMNESS)."
+    },
+    "publication_date": {
+      "47": "2021-10-28"
+    },
+    "Protein - g": {
+      "47": 10.9984
+    },
+    "Total lipid (fat)": {
+      "47": 72.02159999999999
+    },
+    "Total Carbohydrate": {
+      "47": 0.0
+    },
+    "Energy - kcal": {
+      "47": 119.84
+    },
+    "Energy - kJ": {
+      "47": 0
+    },
+    "Fiber, total dietary": {
+      "47": 0.0
+    },
+    "Calcium, Ca": {
+      "47": 20.16
+    },
+    "Iron, Fe": {
+      "47": 0.3584
+    },
+    "Magnesium, Mg": {
+      "47": 0.0
+    },
+    "Phosphorus, P": {
+      "47": 0.0
+    },
+    "Potassium, K": {
+      "47": 0.0
+    },
+    "Sodium/Salt": {
+      "47": -0.28281643778019944
+    },
+    "Zinc, Zn": {
+      "47": 0.0
+    },
+    "Vitamin A, IU": {
+      "47": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "47": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "47": 0.0
+    },
+    "Vitamin E": {
+      "47": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "47": 0.0
+    },
+    "Thiamin": {
+      "47": 0.0
+    },
+    "Riboflavin": {
+      "47": 0.0
+    },
+    "Niacin": {
+      "47": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "47": 0.0
+    },
+    "Folic acid": {
+      "47": 0.0
+    },
+    "Choline, total": {
+      "47": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "47": 0.0
+    },
+    "Fatty acids, total trans": {
+      "47": 0.0
+    },
+    "Saturated Fat": {
+      "47": 0.39047051220385454
+    },
+    "Vitamin B-6": {
+      "47": 0.0
+    },
+    "Vitamin B-12": {
+      "47": 0.0
+    },
+    "Added Sugars": {
+      "47": -0.31732331564339133
+    },
+    "FDC_Description": {
+      "47": "Chicken, for use with vegetables"
+    },
+    "Food_Code": {
+      "47": 89901006
+    },
+    "Keyword": {
+      "47": "Chicken"
+    },
+    "Parent": {
+      "47": "41 Legumes"
+    },
+    "Grandparent": {
+      "47": "Proteins"
+    },
+    "Chicken": {
+      "47": 1
+    },
+    "Protein - cal": {
+      "47": 43.9936
+    },
+    "Carb - cal": {
+      "47": 0.0
+    },
+    "Price per Serving": {
+      "47": -1.0807373613462585
+    },
+    "Amount": {
+      "47": 1.0
+    },
+    "image_url": {
+      "47": "https://www.kroger.com/product/images/medium/front/0004135853125"
+    },
+    "Order": {
+      "47": 0
+    }
+  },
+  "2023-11-22 10:01:20.916922": {
+    "ID_x": {
+      "47": 41358531259
+    },
+    "No Servings": {
+      "47": 25.0
+    },
+    "Description": {
+      "47": "Sweet Sue\u00ae Boned Chicken"
+    },
+    "Unnamed: 3": {
+      "47": 0
+    },
+    "Categories": {
+      "47": "Canned & Packaged"
+    },
+    "Size": {
+      "47": "50 oz"
+    },
+    "Price": {
+      "47": 10.49
+    },
+    "Nut Score": {
+      "47": 53
+    },
+    "fdc_id_x": {
+      "47": 2116616
+    },
+    "gtin_upc": {
+      "47": 41358531259
+    },
+    "serving_size": {
+      "47": 56.0
+    },
+    "serving_size_unit": {
+      "47": "g"
+    },
+    "branded_food_category": {
+      "47": "Canned Meat"
+    },
+    "description_x": {
+      "47": "BONED CHICKEN"
+    },
+    "ingredients": {
+      "47": "CHICKEN, WATER, SALT, CONTAINS 2% OR LESS OF MODIFIED FOOD STARCH, SODIUM PHOSPHATE (TO MAINTAIN FLAVOR AND FIRMNESS)."
+    },
+    "publication_date": {
+      "47": "2021-10-28"
+    },
+    "Protein - g": {
+      "47": 10.9984
+    },
+    "Total lipid (fat)": {
+      "47": 72.02159999999999
+    },
+    "Total Carbohydrate": {
+      "47": 0.0
+    },
+    "Energy - kcal": {
+      "47": 119.84
+    },
+    "Energy - kJ": {
+      "47": 0
+    },
+    "Fiber, total dietary": {
+      "47": 0.0
+    },
+    "Calcium, Ca": {
+      "47": 20.16
+    },
+    "Iron, Fe": {
+      "47": 0.3584
+    },
+    "Magnesium, Mg": {
+      "47": 0.0
+    },
+    "Phosphorus, P": {
+      "47": 0.0
+    },
+    "Potassium, K": {
+      "47": 0.0
+    },
+    "Sodium/Salt": {
+      "47": -0.28281643778019944
+    },
+    "Zinc, Zn": {
+      "47": 0.0
+    },
+    "Vitamin A, IU": {
+      "47": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "47": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "47": 0.0
+    },
+    "Vitamin E": {
+      "47": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "47": 0.0
+    },
+    "Thiamin": {
+      "47": 0.0
+    },
+    "Riboflavin": {
+      "47": 0.0
+    },
+    "Niacin": {
+      "47": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "47": 0.0
+    },
+    "Folic acid": {
+      "47": 0.0
+    },
+    "Choline, total": {
+      "47": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "47": 0.0
+    },
+    "Fatty acids, total trans": {
+      "47": 0.0
+    },
+    "Saturated Fat": {
+      "47": 0.39047051220385454
+    },
+    "Vitamin B-6": {
+      "47": 0.0
+    },
+    "Vitamin B-12": {
+      "47": 0.0
+    },
+    "Added Sugars": {
+      "47": -0.31732331564339133
+    },
+    "FDC_Description": {
+      "47": "Chicken, for use with vegetables"
+    },
+    "Food_Code": {
+      "47": 89901006
+    },
+    "Keyword": {
+      "47": "Chicken"
+    },
+    "Parent": {
+      "47": "41 Legumes"
+    },
+    "Grandparent": {
+      "47": "Proteins"
+    },
+    "Chicken": {
+      "47": 1
+    },
+    "Protein - cal": {
+      "47": 43.9936
+    },
+    "Carb - cal": {
+      "47": 0.0
+    },
+    "Price per Serving": {
+      "47": -1.0807373613462585
+    },
+    "Amount": {
+      "47": 1.0
+    },
+    "image_url": {
+      "47": "https://www.kroger.com/product/images/medium/front/0004135853125"
+    },
+    "Order": {
+      "47": 0
+    }
   }
 }
