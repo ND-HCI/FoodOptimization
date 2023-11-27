@@ -1,3 +1,8 @@
 {
-  "Main_List_Level2": {}
+  "Main_List_Level2": {
+    "41 Legumes": {
+      "max": 1,
+      "min": 1
+    }
+  }
 }

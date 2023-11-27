@@ -1,3 +1,8 @@
 {
-  "Main_List_Level1": {}
+  "Main_List_Level1": {
+    "Proteins": {
+      "max": 1,
+      "min": 1
+    }
+  }
 }
