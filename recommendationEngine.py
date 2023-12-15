@@ -9,22 +9,8 @@ from hashTable.food_tree import create_food_tree, get_level2_descriptions, get_g
 from anytree import Node, RenderTree, PreOrderIter
 import datetime
 
-def generateRecommendations(form_data):
-    # print('form_data',form_data)
-    constraints_mapping = {
-        "checkboxSodium": "Sodium/Salt",
-        "checkboxSatFat": "Saturated Fat",
-        "checkboxSugars": "Added Sugars"
-        }
-
-    checked_boxes = ['Price per Serving']  # Always include 'Price per Serving'
-
-    for key, value in constraints_mapping.items():
-        if form_data.get(key):
-            print('value',value)
-            checked_boxes.append(value)
-
-    # print(checked_boxes)
+def generateRecommendations(form_data, requested_constraiints):
+    # print(requested_contraints)
 
     #Creating Tree:
     target_dir = ""
@@ -111,8 +97,8 @@ def generateRecommendations(form_data):
     Level3[optimization_cols] = scaler.fit_transform(Level3[optimization_cols])
     Level3.to_csv(target_dir+'Level3_main_database_file.csv', index =False)
             
-    num_checked = len(checked_boxes)
-    weights = [1/num_checked if col in checked_boxes else 0 for col in optimization_cols]
+    num_checked = len(requested_contraints)
+    weights = [1/num_checked if col in requested_contraints else 0 for col in optimization_cols]
 
     if Level3.empty:
         print("Level3 DataFrame is empty!")

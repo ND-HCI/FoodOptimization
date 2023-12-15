@@ -30211,5 +30211,181 @@
     "Order": {
       "47": 0
     }
+  },
+  "2023-12-15 13:10:50.389624": {
+    "ID_x": {
+      "48": 796853100058
+    },
+    "No Servings": {
+      "48": 14.0
+    },
+    "Description": {
+      "48": "Keystone All Natural Chicken"
+    },
+    "Unnamed: 3": {
+      "48": 0
+    },
+    "Categories": {
+      "48": "Canned & Packaged"
+    },
+    "Size": {
+      "48": "28 oz"
+    },
+    "Price": {
+      "48": 7.99
+    },
+    "Nut Score": {
+      "48": 77
+    },
+    "fdc_id_x": {
+      "48": 2038523
+    },
+    "gtin_upc": {
+      "48": 796853100058
+    },
+    "serving_size": {
+      "48": 56.0
+    },
+    "serving_size_unit": {
+      "48": "g"
+    },
+    "branded_food_category": {
+      "48": "Canned Meat"
+    },
+    "description_x": {
+      "48": "CHICKEN"
+    },
+    "ingredients": {
+      "48": "CHICKEN, SEA SALT."
+    },
+    "publication_date": {
+      "48": "2021-10-28"
+    },
+    "Protein - g": {
+      "48": 12.0008
+    },
+    "Total lipid (fat)": {
+      "48": 9.0216
+    },
+    "Total Carbohydrate": {
+      "48": 0.0
+    },
+    "Energy - kcal": {
+      "48": 59.92
+    },
+    "Energy - kJ": {
+      "48": 0
+    },
+    "Fiber, total dietary": {
+      "48": 0.0
+    },
+    "Calcium, Ca": {
+      "48": 0.0
+    },
+    "Iron, Fe": {
+      "48": 0.0
+    },
+    "Magnesium, Mg": {
+      "48": 0.0
+    },
+    "Phosphorus, P": {
+      "48": 0.0
+    },
+    "Potassium, K": {
+      "48": 0.0
+    },
+    "Sodium/Salt": {
+      "48": -1.4632469096905367
+    },
+    "Zinc, Zn": {
+      "48": 0.0
+    },
+    "Vitamin A, IU": {
+      "48": 0.0
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "48": 0.0
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "48": 0.0
+    },
+    "Vitamin E": {
+      "48": 0.0
+    },
+    "Vitamin C, total ascorbic acid": {
+      "48": 0.0
+    },
+    "Thiamin": {
+      "48": 0.0
+    },
+    "Riboflavin": {
+      "48": 0.0
+    },
+    "Niacin": {
+      "48": 0.0
+    },
+    "Vitamin K (phylloquinone)": {
+      "48": 0.0
+    },
+    "Folic acid": {
+      "48": 0.0
+    },
+    "Choline, total": {
+      "48": 0.0
+    },
+    "Sugars, total including NLEA": {
+      "48": 0.0
+    },
+    "Fatty acids, total trans": {
+      "48": 0.0
+    },
+    "Saturated Fat": {
+      "48": -0.6165612557033662
+    },
+    "Vitamin B-6": {
+      "48": 0.0
+    },
+    "Vitamin B-12": {
+      "48": 0.0
+    },
+    "Added Sugars": {
+      "48": -0.31732331564339133
+    },
+    "FDC_Description": {
+      "48": "Chicken, for use with vegetables"
+    },
+    "Food_Code": {
+      "48": 89901006
+    },
+    "Keyword": {
+      "48": "Chicken"
+    },
+    "Parent": {
+      "48": "41 Legumes"
+    },
+    "Grandparent": {
+      "48": "Proteins"
+    },
+    "Chicken": {
+      "48": 1
+    },
+    "Protein - cal": {
+      "48": 48.0032
+    },
+    "Carb - cal": {
+      "48": 0.0
+    },
+    "Price per Serving": {
+      "48": -0.9914566614288217
+    },
+    "Amount": {
+      "48": 1.0
+    },
+    "image_url": {
+      "48": "https://www.kroger.com/product/images/medium/front/0079685310005"
+    },
+    "Order": {
+      "48": 0
+    }
   }
 }

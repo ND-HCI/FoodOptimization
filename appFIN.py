@@ -45,14 +45,28 @@ def recommendations():
         return render_template('recommendations.html', test="get", data={})
     elif request.method == "POST":
         # TODO: Change appearence of data output dictionary:
-        
+
         # prepare chosenItems
         form_data = dict(request.form)
         form_data['chosenItems'] = form_data['chosenItems'].split("#^$")
         # pop the last item off the list, which is an empty string
         form_data['chosenItems'].pop(-1)
 
-        level3_data_output, grouped_data = generateRecommendations(form_data)
+        # parse requested constraints
+        constraints_mapping = {
+            "checkboxSodium": "Sodium/Salt",
+            "checkboxSatFat": "Saturated Fat",
+            "checkboxSugars": "Added Sugars"
+            }
+
+        requested_contraints = ['Price per Serving']  # Always include 'Price per Serving'
+
+        for key, value in constraints_mapping.items():
+            if form_data.get(key):
+                print('value',value)
+                requested_contraints.append(value)
+
+        level3_data_output, grouped_data = generateRecommendations(form_data, requested_constraints)
         data_recommendation = level3_data_output.to_dict(orient='records')
         output_as_html = level3_data_output.to_html()
         # return render_template('recommendations.html', data=data_recommendation, html_output=output_as_html)
