@@ -1,0 +1,231 @@
+ID,Parent_ID,Value
+1,,Food
+2,1,Protein
+3,1,Dairy
+4,1,Vegetable
+5,1,Fruit
+6,1,Grain
+7,1,Other
+8,3,Milk
+9,3,Flavored Milk
+10,3,Dairy Drinks and Substitutes
+11,3,Cheese Types
+12,3,Yogurt
+13,8,"Milk, whole"
+14,8,"Milk, reduced fat"
+15,8,"Milk, lowfat"
+16,8,"Milk, nonfat"
+17,9,"Flavored milk, whole"
+18,9,"Flavored milk, reduced fat"
+19,9,"Flavored milk, lowfat"
+20,9,"Flavored milk, nonfat"
+21,10,Milk shakes and other dairy drinks
+22,10,Milk substitutes
+23,11,Cheese
+24,11,Cottage/ricotta cheese
+25,12,"Yogurt, regular"
+26,12,"Yogurt, Greek"
+27,2,Meats
+28,2,Poultry
+29,2,Seafood
+30,2,Eggs
+31,2,Cured Meats/Poultry
+32,2,Plant-based Protein Foods
+33,27,"Beef, excludes ground"
+34,27,Ground beef
+35,27,Pork
+36,27,"Lamb, goat, game"
+37,27,Liver and organ meats
+38,28,"Chicken, whole pieces"
+39,28,"Chicken patties, nuggets and tenders"
+40,28,"Turkey, duck, other poultry"
+41,29,Fish
+42,29,Shellfish
+43,30,Eggs and omelets
+44,31,Cold cuts and cured meats
+45,31,Bacon
+46,31,Frankfurters
+47,31,Sausages
+48,32,"Beans, peas, legumes"
+49,32,Nuts and seeds
+50,32,Processed soy products
+51,1,Mixed Dishes
+52,51,"Mixed Dishes - Meat, Poultry, Seafood"
+53,51,Mixed Dishes - Bean/Vegetable-based
+54,51,Mixed Dishes - Grain-based
+55,51,Mixed Dishes - Asian
+56,51,Mixed Dishes - Mexican
+57,51,Mixed Dishes - Pizza
+58,51,Mixed Dishes - Sandwiches (single code)
+59,51,Mixed Dishes - Soups
+60,52,Meat mixed dishes
+61,52,Poultry mixed dishes
+62,52,Seafood mixed dishes
+63,53,"Bean, pea, legume dishes"
+64,53,Vegetable dishes
+65,54,Rice mixed dishes
+66,54,"Pasta mixed dishes, excludes macaroni and cheese"
+67,54,Macaroni and cheese
+68,54,Turnovers and other grain-based items
+69,55,Fried rice and lo/chow mein
+70,55,Stir-fry and soy-based sauce mixtures
+71,55,"Egg rolls, dumplings, sushi"
+72,56,Burritos and tacos
+73,56,Nachos
+74,56,Other Mexican mixed dishes
+75,57,Pizza
+76,58,Burgers
+77,58,Frankfurter sandwiches
+78,58,Chicken fillet sandwiches
+79,58,Egg/breakfast sandwiches
+80,58,Other sandwiches (single code)
+81,58,Cheese sandwiches
+82,58,Peanut butter and jelly sandwiches
+83,58,Seafood sandwiches
+84,59,Soups
+85,6,Cooked Grains
+86,6,"Breads, Rolls, Tortillas"
+87,6,Quick Breads and Bread Products
+88,6,Ready-to-Eat Cereals
+89,6,Cooked Cereals
+90,85,Rice
+91,85,"Pasta, noodles, cooked grains"
+92,86,Yeast breads
+93,86,Rolls and buns
+94,86,Bagels and English muffins
+95,86,Tortillas
+96,87,"Biscuits, muffins, quick breads"
+97,87,"Pancakes, waffles, French toast"
+98,88,"Ready-to-eat cereal, higher sugar (>21.2g/100g)"
+99,88,"Ready-to-eat cereal, lower sugar (=<21.2g/100g)"
+100,89,Oatmeal
+101,89,Grits and other cooked cereals
+102,1,Snacks and Sweets
+103,102,Savory Snacks
+104,102,Crackers
+105,102,Snack/Meal Bars
+106,102,Sweet Bakery Products
+107,102,Candy
+108,102,Other Desserts
+109,103,Potato chips
+110,103,"Tortilla, corn, other chips"
+111,103,Popcorn
+112,103,Pretzels/snack mix
+113,104,"Crackers, excludes saltines"
+114,104,Saltine crackers
+115,105,Cereal bars
+116,105,Nutrition bars
+117,106,Cakes and pies
+118,106,Cookies and brownies
+119,106,"Doughnuts, sweet rolls, pastries"
+120,107,Candy containing chocolate
+121,107,Candy not containing chocolate
+122,108,Ice cream and frozen dairy desserts
+123,108,Pudding
+124,108,"Gelatins, ices, sorbets"
+125,5,Apples
+126,5,Bananas
+127,5,Grapes
+128,5,Peaches and nectarines
+129,5,Strawberries
+130,5,Blueberries and other berries
+131,5,Citrus fruits
+132,5,Melons
+133,5,Dried fruits
+134,5,Other fruits and fruit salads
+135,5,Pears
+136,5,Pineapple
+137,5,Mango and papaya
+138,4,"Vegetables, excluding Potatoes"
+139,4,White Potatoes
+140,138,Tomatoes
+141,138,Carrots
+142,138,Other red and orange vegetables
+143,138,Broccoli
+144,138,Spinach
+145,138,Lettuce and lettuce salads
+146,138,Other dark green vegetables
+147,138,String beans
+148,138,Cabbage
+149,138,Onions
+150,138,Corn
+151,138,Other starchy vegetables
+152,138,Other vegetables and combinations
+153,138,Fried vegetables
+154,138,"Coleslaw, non-lettuce salads"
+155,138,Vegetables on a sandwich
+156,139,"White potatoes, baked or boiled"
+157,139,French fries and other fried white potatoes
+158,139,Mashed potatoes and white potato mixtures
+159,1,Beverages
+160,159,100% Juice
+161,159,Diet Beverages
+162,159,Sweetened Beverages
+163,159,Coffee and Tea
+164,160,Citrus juice
+165,160,Apple juice
+166,160,Other fruit juice
+167,160,Vegetable juice
+168,161,Diet soft drinks
+169,161,Diet sport and energy drinks
+170,161,Other diet drinks
+171,162,Soft drinks
+172,162,Fruit drinks
+173,162,Sport and energy drinks
+174,162,Nutritional beverages
+175,162,Smoothies and grain drinks
+176,163,Coffee
+177,163,Tea
+178,1,Alcoholic Beverages
+179,1,Water
+180,178,Beer
+181,178,Wine
+182,178,Liquor and cocktails
+183,179,Plain Water
+184,179,Flavored or Enhanced Water
+185,183,Tap water
+186,183,Bottled water
+187,184,Flavored or carbonated water
+188,184,Enhanced water
+189,7,Fats and Oils
+190,7,Condiments and Sauces
+191,189,Butter and animal fats
+192,189,Margarine
+193,189,"Cream cheese, sour cream, whipped cream"
+194,189,Cream and cream substitutes
+195,189,Mayonnaise
+196,189,Salad dressings and vegetable oils
+197,190,Tomato-based condiments
+198,190,Soy-based condiments
+199,190,Mustard and other condiments
+200,190,"Olives, pickles, pickled vegetables"
+201,190,"Pasta sauces, tomato-based"
+202,190,"Dips, gravies, other sauces"
+203,7,Sugars
+204,1,Baby Foods and Formulas
+205,203,Other
+206,203,Sugars and honey
+207,203,Sugar substitutes
+208,203,"Jams, syrups, toppings"
+209,204,Baby Foods
+210,204,Baby Beverages
+211,204,Infant Formulas
+212,204,Human milk
+213,209,Baby food: cereals
+214,209,Baby food: fruit
+215,209,Baby food: vegetable
+216,209,Baby food: meat and dinners
+217,209,Baby food: yogurt
+218,209,Baby food: snacks and sweets
+219,210,Baby juice
+220,210,Baby water
+221,211,"Formula, ready-to-feed"
+222,211,"Formula, prepared from powder"
+223,211,"Formula, prepared from concentrate"
+224,212,Human milk
+225,7,Protein and nutritional powders
+226,1,Not included in a food category
+227,204,Baby food: mixtures
+228,51,Deli and cured meat sandwiches
+229,51,Meat and BBQ sandwiches
+230,51,Vegetable sandwiches/burgers

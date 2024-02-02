@@ -3,8 +3,10 @@ from fuzzywuzzy import process
 import string
 import pandas as pd
 from anytree import PreOrderIter
+from build_tree import create_food_tree
 
-with open('word_dict_food_products.pkl', 'rb') as f:
+
+with open('/Users/annalisaszymanski/Main1/FoodOptimization/python_functions/updated_word_dict_food_products.pkl', 'rb') as f:
     loaded_keywords_list = pickle.load(f)
 
 def get_highest_scoring_matches(user_inputs, food_items):
@@ -35,74 +37,64 @@ def clean_and_split(s):
     return s.translate(str.maketrans('', '', string.punctuation)).split()
 
 
-# root = create_food_tree('../tree_mapping.csv')  
-# leaf_nodes = [node.name for node in PreOrderIter(root) if not node.children]
+root = create_food_tree('../updated_food_hierarchy2.csv')
+nodes_list = [node.name for node in PreOrderIter(root)]
+node_list2 = ["Breaded Chicken Tenderloins", "Bread, Rolls, Tortilla"]
+# Test the function with multiple user inputs
+user_inputs = ["Bread"]
+# user_inputs = [
+# "Pasta",
+# "Eggs",
+# "Cheese",
+# "Yogurt",
+# "Pasta",
+# "Rice",
+# "Bread",
+# "All-purpose Flour",
+# "Cereal",
+# "Butter",
+# "Soup",
+# "Red Beans",
+# "Tuna",
+# "Dried Fruit",
+# "Salt",
+# "Pepper",
+# "Basil",
+# "Oregano",
+# "Coriander",
+# "Cumin",
+# "Cooking Oil"]
+
+# Fuzzy Matching of user input to hierarchy node (highest scoring match)
+highest_matches, match_to_filter_df = get_highest_scoring_matches(
+    user_inputs, node_list2)
+
+print("Highest Matches:")
+print(highest_matches)
+print("------------------")
+print("Filtered Words:")
+print(match_to_filter_df)
+
+
+# #If equal matching scores between nodes we will want to change the code to search within both nodes
+
 # # Test the function with multiple user inputs
-# user_inputs = ["Cheddar Cheese", "2% Milk", "Chocolate Milk", "Mozzarella Cheese", "2% Cheddar Cheese"]
-
-# highest_matches, filtering_words = get_highest_scoring_matches(user_inputs, leaf_nodes)
-
-# print("Highest Matches:", highest_matches)
-# print("Filtering Words:", filtering_words)
-
-#If equal matching scores between nodes we will want to change the code to search within both nodes
-
-# # Test the function with multiple user inputs
-# user_inputs = ["Cheese", "Cheddar Cheeese", "2% Milk", "Chocolate Milk", "Jerky", "Advocado Oil"]
+# user_inputs = ["Pasta"]
 # food_items = [
-#     'Cheese', 
-#     'Cheese, American',
-#     'Cheese, Blue or Roquefort',
-#     'Cheese, Brick',
-#     'Cheese, Brie',
-#     'Cheese, Camembert',
-#     'Cheese, Cheddar',
-#     'Cheese, Colby',
-#     'Cheese, Colby Jack',
-#     'Cheese, cottage',
-#     'Cheese, Feta',
-#     'Cheese, Fontina',
-#     'Cheese, goat',
-#     'Cheese, Gouda or Edam',
-#     'Cheese, Gruyere',
-#     'Cheese, Limburger',
-#     'Cheese, Mexican blend',
-#     'Cheese, Monterey',
-#     'Cheese, Mozzarella',
-#     'Cheese, Muenster',
-#     'Cheese, paneer',
-#     'Cheese, Parmesan',
-#     'Cheese, Port du Salut',
-#     'Cheese, Provolone',
-#     'Cheese, Ricotta',
-#     'Cheese, Swiss',
-#     'Milks, milk drinks, yogurts, infant formulas', 
-#     'Milk Varieties', 
-#     'Non-dairy Milk', 
-#     'Milk',
-#     'Buttermilk',
-#     'Goat’s Milk',
-#     'Non-dairy Milk',
-#     'Soy milk',
-#     'Almond milk',
-#     'Rice milk',
-#     'Coconut milk',
-#     'Flavored Milk & Drinks',
-#     'Chocolate milk',
-#     'Chocolate milk drink',
-#     'Strawberry milk',
-#     'Milk shake',
-#     'Milk shake with malt', 
-#     'Beef jerky',
-#     'Pork',
-#     'Pork jerky',
-#     'Chicken Breast'
-#     'Advocado',
-#     'Advocado Dressing'
+# 'Linguine',
+# 'Whole Grain Penne Pasta',
+# 'Gluten-Free Pasta',
+# 'Elbows Pasta',
+# 'Rigatoni Pasta',
+# 'Farfalle Pasta',
+# 'Fideo Macaroni',
+# 'Egg Noodles',
+# 'Angel Hair Pasta', 
+# 'Pasta, noodles, cooked grains'
 # ]
 
 # # Get the highest scoring matches for each user input
-# highest_matches = get_highest_scoring_matches(user_inputs, food_items)
+# highest_matches, filtere = get_highest_scoring_matches(user_inputs, food_items)
 
 # print(highest_matches)
 

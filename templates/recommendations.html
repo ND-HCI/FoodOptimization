@@ -53,8 +53,9 @@
         <div class="order-row">
             {% for product in products %}
                 <div class="product-card">
-                    <p><b>{{ product.Description }} - ({{ product.gtin_upc }})</b></p>
-                    <img src="{{ product['image_url'] }}" alt="{{ product['ProductName'] }}">
+                    <p><b>{{ product['Product Name'] }} </b></p>
+                    <p>({{ product['UPC Code'] }})</p>
+                    <img src="{{ product['Image URL'] }}" alt="{{ product['ProductName'] }}">
                     <p class="price">${{ product.Price }}</p>
                     <p>{{ product.Size }}</p>
                 </div>

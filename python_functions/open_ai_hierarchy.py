@@ -23,6 +23,7 @@ wweia = '../FNDDS_Code_Data/wweia_food_category.csv'
 wweia_df = pd.read_csv(wweia)
 category_list = wweia_df['wweia_food_category_description'].tolist()
 category_string = "\n".join(category_list)
+print(category_string)
 
 # Define the system message just once, outside the loop
 system_message = f"""You will be provided with food product keywords. Classify each keyword into the most relevant category from the following list:

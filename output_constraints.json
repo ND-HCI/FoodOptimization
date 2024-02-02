@@ -1,14 +1,18 @@
 {
   "Main_List": {
-    "Milk": {
+    "2% Milk": {
       "max": 1,
       "min": 1
     },
-    "Eggs": {
+    "White Eggs": {
       "max": 1,
       "min": 1
     },
-    "Chicken Soup": {
+    "Jasmine Rice": {
+      "max": 1,
+      "min": 1
+    },
+    "Breaded Chicken Tenderloins": {
       "max": 1,
       "min": 1
     }

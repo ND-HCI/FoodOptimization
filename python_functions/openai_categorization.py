@@ -51,7 +51,7 @@ def generate_category(text):
             time.sleep(30)
 
 df = pd.read_csv('../walmart_products_10-23-23_3.csv')
-output_file_path = '../walmart_api_output4.csv'
+output_file_path = '../walmart_api_output5.csv'
 
 if not os.path.exists(output_file_path):
     with open(output_file_path, 'w', newline='', encoding='utf-8') as f:
